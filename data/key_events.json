@@ -1,0 +1,1944 @@
+[
+  {
+    "name": "三家分晋",
+    "time": -403,
+    "location": "晋国",
+    "participants": [
+      "周威烈王",
+      "魏斯",
+      "赵籍",
+      "韩虔"
+    ],
+    "category": "政治",
+    "chapter": 1,
+    "description": "周威烈王承认三家为诸侯，晋国分裂为韩赵魏，战国开始",
+    "significance": "资治通鉴开篇事件，司马光以礼分论开宗明义"
+  },
+  {
+    "name": "田氏代齐",
+    "time": -386,
+    "location": "齐国",
+    "participants": [
+      "齐康公",
+      "田和"
+    ],
+    "category": "政治",
+    "chapter": 1,
+    "description": "田氏取代姜姓齐国，被周王承认为诸侯"
+  },
+  {
+    "name": "吴起变法",
+    "time": -389,
+    "location": "楚国",
+    "participants": [
+      "吴起",
+      "楚悼王"
+    ],
+    "category": "制度",
+    "chapter": 1,
+    "description": "吴起在楚国推行变法，损害贵族利益，悼王死后被杀"
+  },
+  {
+    "name": "商鞅变法",
+    "time": -356,
+    "location": "秦国",
+    "participants": [
+      "商鞅",
+      "秦孝公"
+    ],
+    "category": "制度",
+    "chapter": 2,
+    "description": "商鞅在秦国推行变法，废井田开阡陌，奖耕战，秦国由弱变强",
+    "significance": "秦国强盛的根基，法家治国典范"
+  },
+  {
+    "name": "桂陵之战",
+    "time": -353,
+    "location": "桂陵",
+    "participants": [
+      "孙膑",
+      "庞涓",
+      "田忌"
+    ],
+    "category": "军事",
+    "chapter": 2,
+    "description": "孙膑围魏救赵，大败魏军",
+    "significance": "围魏救赵经典战例"
+  },
+  {
+    "name": "马陵之战",
+    "time": -341,
+    "location": "马陵",
+    "participants": [
+      "孙膑",
+      "庞涓"
+    ],
+    "category": "军事",
+    "chapter": 2,
+    "description": "孙膑减灶诱敌，庞涓自刎，魏国衰落"
+  },
+  {
+    "name": "苏秦合纵",
+    "time": -333,
+    "location": "六国",
+    "participants": [
+      "苏秦",
+      "赵肃侯"
+    ],
+    "category": "外交",
+    "chapter": 2,
+    "description": "苏秦游说六国合纵抗秦，佩六国相印"
+  },
+  {
+    "name": "张仪连横",
+    "time": -328,
+    "location": "秦国",
+    "participants": [
+      "张仪",
+      "秦惠文王"
+    ],
+    "category": "外交",
+    "chapter": 2,
+    "description": "张仪以连横破合纵，为秦国扩张铺路"
+  },
+  {
+    "name": "张仪欺楚",
+    "time": -313,
+    "location": "秦/楚",
+    "participants": [
+      "张仪",
+      "楚怀王",
+      "屈原"
+    ],
+    "category": "外交",
+    "chapter": 3,
+    "description": "张仪以六百里地诱楚绝齐，事后食言，楚怀王受辱"
+  },
+  {
+    "name": "胡服骑射",
+    "time": -307,
+    "location": "赵国",
+    "participants": [
+      "赵武灵王"
+    ],
+    "category": "军事",
+    "chapter": 3,
+    "description": "赵武灵王推行胡服骑射军事改革，赵国军力大增",
+    "significance": "中原国家首次系统学习的游牧军事技术"
+  },
+  {
+    "name": "伊阙之战",
+    "time": -293,
+    "location": "伊阙",
+    "participants": [
+      "白起",
+      "韩魏联军"
+    ],
+    "category": "军事",
+    "chapter": 4,
+    "description": "白起大破韩魏二十四万联军，秦国东出之势不可挡"
+  },
+  {
+    "name": "五国伐齐",
+    "time": -284,
+    "location": "齐国",
+    "participants": [
+      "乐毅",
+      "燕昭王",
+      "齐湣王"
+    ],
+    "category": "军事",
+    "chapter": 4,
+    "description": "乐毅率五国联军伐齐，下齐七十余城，齐国几亡"
+  },
+  {
+    "name": "火牛阵",
+    "time": -279,
+    "location": "即墨",
+    "participants": [
+      "田单",
+      "乐毅"
+    ],
+    "category": "军事",
+    "chapter": 4,
+    "description": "田单以火牛阵大破燕军，恢复齐国"
+  },
+  {
+    "name": "完璧归赵",
+    "time": -283,
+    "location": "秦/赵",
+    "participants": [
+      "蔺相如",
+      "秦昭襄王"
+    ],
+    "category": "外交",
+    "chapter": 4,
+    "description": "蔺相如持和氏璧使秦，以智勇完璧归赵"
+  },
+  {
+    "name": "渑池会",
+    "time": -279,
+    "location": "渑池",
+    "participants": [
+      "蔺相如",
+      "廉颇",
+      "秦昭襄王",
+      "赵惠文王"
+    ],
+    "category": "外交",
+    "chapter": 4,
+    "description": "秦赵渑池之会，蔺相如逼秦王击缶，将相和之始"
+  },
+  {
+    "name": "长平之战",
+    "time": -260,
+    "location": "长平",
+    "participants": [
+      "白起",
+      "赵括",
+      "廉颇",
+      "秦昭襄王"
+    ],
+    "category": "军事",
+    "chapter": 5,
+    "description": "白起坑杀赵军四十万，赵国元气大伤",
+    "significance": "战国最大规模歼灭战，奠定秦统一基础"
+  },
+  {
+    "name": "窃符救赵",
+    "time": -257,
+    "location": "邯郸",
+    "participants": [
+      "信陵君",
+      "如姬",
+      "侯嬴",
+      "平原君"
+    ],
+    "category": "军事",
+    "chapter": 5,
+    "description": "信陵君窃符救赵，率魏军解邯郸之围"
+  },
+  {
+    "name": "荆轲刺秦王",
+    "time": -227,
+    "location": "咸阳",
+    "participants": [
+      "荆轲",
+      "秦始皇",
+      "燕太子丹",
+      "秦舞阳"
+    ],
+    "category": "政治",
+    "chapter": 6,
+    "description": "荆轲刺秦王，图穷匕见，失败被杀"
+  },
+  {
+    "name": "秦灭六国",
+    "time": -221,
+    "location": "天下",
+    "participants": [
+      "秦始皇",
+      "王翦",
+      "李斯"
+    ],
+    "category": "军事",
+    "chapter": 7,
+    "description": "秦先后灭韩赵魏楚燕齐，完成统一"
+  },
+  {
+    "name": "书同文车同轨",
+    "time": -221,
+    "location": "全国",
+    "participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "category": "制度",
+    "chapter": 7,
+    "description": "秦统一文字、度量衡、车轨，推行郡县制",
+    "significance": "确立中央集权帝国基本制度框架"
+  },
+  {
+    "name": "焚书坑儒",
+    "time": -213,
+    "location": "咸阳",
+    "participants": [
+      "秦始皇",
+      "李斯",
+      "扶苏"
+    ],
+    "category": "文化",
+    "chapter": 7,
+    "description": "秦始皇采纳李斯建议焚书，次年坑杀方士儒生"
+  },
+  {
+    "name": "沙丘之变",
+    "time": -210,
+    "location": "沙丘",
+    "participants": [
+      "秦始皇",
+      "赵高",
+      "李斯",
+      "胡亥",
+      "扶苏"
+    ],
+    "category": "政治",
+    "chapter": 7,
+    "description": "秦始皇病逝沙丘，赵高李斯矫诏，赐死扶苏立胡亥"
+  },
+  {
+    "name": "大泽乡起义",
+    "time": -209,
+    "location": "大泽乡",
+    "participants": [
+      "陈胜",
+      "吴广"
+    ],
+    "category": "军事",
+    "chapter": 7,
+    "description": "陈胜吴广揭竿而起，天下响应，秦末大乱开始"
+  },
+  {
+    "name": "巨鹿之战",
+    "time": -207,
+    "location": "巨鹿",
+    "participants": [
+      "项羽",
+      "章邯",
+      "宋义"
+    ],
+    "category": "军事",
+    "chapter": 8,
+    "description": "项羽破釜沉舟，大破秦军主力，章邯降楚",
+    "significance": "决定秦朝命运的决战"
+  },
+  {
+    "name": "鸿门宴",
+    "time": -206,
+    "location": "鸿门",
+    "participants": [
+      "项羽",
+      "刘邦",
+      "范增",
+      "张良",
+      "樊哙",
+      "项伯"
+    ],
+    "category": "政治",
+    "chapter": 9,
+    "description": "项羽设鸿门宴欲杀刘邦，刘邦侥幸逃脱",
+    "significance": "楚汉争霸关键转折点"
+  },
+  {
+    "name": "汉王就国",
+    "time": -206,
+    "location": "汉中",
+    "participants": [
+      "刘邦",
+      "韩信",
+      "萧何"
+    ],
+    "category": "政治",
+    "chapter": 9,
+    "description": "刘邦被封汉王，萧何月下追韩信，拜韩信为大将"
+  },
+  {
+    "name": "还定三秦",
+    "time": -206,
+    "location": "关中",
+    "participants": [
+      "刘邦",
+      "韩信",
+      "章邯"
+    ],
+    "category": "军事",
+    "chapter": 9,
+    "description": "韩信暗渡陈仓，还定三秦，刘邦夺取关中"
+  },
+  {
+    "name": "彭城之战",
+    "time": -205,
+    "location": "彭城",
+    "participants": [
+      "项羽",
+      "刘邦"
+    ],
+    "category": "军事",
+    "chapter": 9,
+    "description": "项羽以三万骑兵大破刘邦五十六万联军"
+  },
+  {
+    "name": "井陉之战",
+    "time": -204,
+    "location": "井陉",
+    "participants": [
+      "韩信",
+      "陈馀",
+      "张耳"
+    ],
+    "category": "军事",
+    "chapter": 9,
+    "description": "韩信背水一战，灭赵斩陈馀"
+  },
+  {
+    "name": "潍水之战",
+    "time": -203,
+    "location": "潍水",
+    "participants": [
+      "韩信",
+      "龙且",
+      "项羽"
+    ],
+    "category": "军事",
+    "chapter": 10,
+    "description": "韩信水淹楚军，斩龙且，平定齐地"
+  },
+  {
+    "name": "垓下之战",
+    "time": -202,
+    "location": "垓下",
+    "participants": [
+      "项羽",
+      "刘邦",
+      "韩信",
+      "彭越",
+      "英布"
+    ],
+    "category": "军事",
+    "chapter": 11,
+    "description": "项羽四面楚歌，乌江自刎，楚汉争霸结束",
+    "significance": "汉朝建立的决定性战役"
+  },
+  {
+    "name": "刘邦称帝",
+    "time": -202,
+    "location": "定陶",
+    "participants": [
+      "刘邦",
+      "韩信",
+      "张良",
+      "萧何"
+    ],
+    "category": "政治",
+    "chapter": 11,
+    "description": "刘邦即皇帝位，建立汉朝"
+  },
+  {
+    "name": "白登之围",
+    "time": -200,
+    "location": "白登山",
+    "participants": [
+      "刘邦",
+      "冒顿",
+      "陈平"
+    ],
+    "category": "军事",
+    "chapter": 11,
+    "description": "刘邦被匈奴围困白登七日，陈平献计脱困，开和亲之始"
+  },
+  {
+    "name": "吕后称制",
+    "time": -194,
+    "location": "长安",
+    "participants": [
+      "吕后",
+      "汉惠帝",
+      "审食其"
+    ],
+    "category": "政治",
+    "chapter": 12,
+    "description": "刘邦去世后吕后临朝称制，残害戚夫人与赵王如意"
+  },
+  {
+    "name": "诸吕之乱",
+    "time": -180,
+    "location": "长安",
+    "participants": [
+      "吕产",
+      "吕禄",
+      "周勃",
+      "陈平",
+      "刘章"
+    ],
+    "category": "政治",
+    "chapter": 13,
+    "description": "吕后去世后诸吕谋乱，周勃陈平诛诸吕迎立文帝"
+  },
+  {
+    "name": "文景之治",
+    "time": -179,
+    "location": "全国",
+    "participants": [
+      "汉文帝",
+      "汉景帝",
+      "贾谊",
+      "晁错"
+    ],
+    "category": "政治",
+    "chapter": 14,
+    "description": "文帝景帝轻徭薄赋、与民休息，汉朝社会经济恢复繁荣",
+    "significance": "中国历史上第一个治世"
+  },
+  {
+    "name": "贾谊治安策",
+    "time": -174,
+    "location": "长安",
+    "participants": [
+      "贾谊",
+      "汉文帝"
+    ],
+    "category": "制度",
+    "chapter": 14,
+    "description": "贾谊上《治安策》，提出众建诸侯而少其力"
+  },
+  {
+    "name": "七国之乱",
+    "time": -154,
+    "location": "关东",
+    "participants": [
+      "汉景帝",
+      "晁错",
+      "周亚夫",
+      "吴王刘濞"
+    ],
+    "category": "军事",
+    "chapter": 16,
+    "description": "吴楚七国以诛晁错为名叛乱，周亚夫三月平定",
+    "significance": "西汉中央集权的关键巩固"
+  },
+  {
+    "name": "独尊儒术",
+    "time": -134,
+    "location": "长安",
+    "participants": [
+      "汉武帝",
+      "董仲舒",
+      "公孙弘"
+    ],
+    "category": "文化",
+    "chapter": 17,
+    "description": "汉武帝采纳董仲舒建议，罢黜百家独尊儒术",
+    "significance": "确立儒学两千年的正统地位"
+  },
+  {
+    "name": "推恩令",
+    "time": -127,
+    "location": "全国",
+    "participants": [
+      "汉武帝",
+      "主父偃"
+    ],
+    "category": "制度",
+    "chapter": 18,
+    "description": "主父偃建议推恩令，诸侯国越分越小，王国问题彻底解决"
+  },
+  {
+    "name": "张骞出使西域",
+    "time": -138,
+    "location": "西域",
+    "participants": [
+      "张骞",
+      "汉武帝"
+    ],
+    "category": "外交",
+    "chapter": 18,
+    "description": "张骞凿空西域，开辟丝绸之路"
+  },
+  {
+    "name": "马邑之谋",
+    "time": -133,
+    "location": "马邑",
+    "participants": [
+      "汉武帝",
+      "王恢",
+      "聂壹",
+      "军臣单于"
+    ],
+    "category": "军事",
+    "chapter": 17,
+    "description": "汉朝首次主动出击匈奴，计划泄露未成，汉匈全面战争开始"
+  },
+  {
+    "name": "漠南之战",
+    "time": -127,
+    "location": "漠南",
+    "participants": [
+      "卫青",
+      "李息"
+    ],
+    "category": "军事",
+    "chapter": 18,
+    "description": "卫青出云中，收复河南地，置朔方郡"
+  },
+  {
+    "name": "漠北之战",
+    "time": -119,
+    "location": "漠北",
+    "participants": [
+      "卫青",
+      "霍去病",
+      "伊稚斜单于"
+    ],
+    "category": "军事",
+    "chapter": 19,
+    "description": "卫青霍去病各率五万骑深入漠北，霍去病封狼居胥，匈奴远遁",
+    "significance": "汉匈战争的巅峰胜利"
+  },
+  {
+    "name": "司马迁著史记",
+    "time": -99,
+    "location": "长安",
+    "participants": [
+      "司马迁",
+      "汉武帝",
+      "李陵"
+    ],
+    "category": "文化",
+    "chapter": 20,
+    "description": "司马迁因李陵之祸受宫刑，发愤著《史记》"
+  },
+  {
+    "name": "巫蛊之祸",
+    "time": -91,
+    "location": "长安",
+    "participants": [
+      "汉武帝",
+      "江充",
+      "刘据",
+      "卫皇后"
+    ],
+    "category": "政治",
+    "chapter": 22,
+    "description": "江充构陷太子刘据以巫蛊，太子被迫起兵，长安大乱",
+    "significance": "汉武帝晚年最大政治悲剧"
+  },
+  {
+    "name": "轮台诏",
+    "time": -89,
+    "location": "轮台",
+    "participants": [
+      "汉武帝"
+    ],
+    "category": "政治",
+    "chapter": 22,
+    "description": "汉武帝下轮台罪己诏，罢征伐，与民休息"
+  },
+  {
+    "name": "霍光辅政",
+    "time": -87,
+    "location": "长安",
+    "participants": [
+      "霍光",
+      "汉昭帝",
+      "金日磾",
+      "上官桀"
+    ],
+    "category": "政治",
+    "chapter": 23,
+    "description": "汉武帝托孤霍光，霍光废昌邑王立宣帝，昭宣中兴"
+  },
+  {
+    "name": "赵充国屯田",
+    "time": -61,
+    "location": "湟中",
+    "participants": [
+      "赵充国",
+      "汉宣帝"
+    ],
+    "category": "军事",
+    "chapter": 26,
+    "description": "赵充国屯田湟中，以经济手段平定羌乱"
+  },
+  {
+    "name": "陈汤斩郅支",
+    "time": -36,
+    "location": "康居",
+    "participants": [
+      "陈汤",
+      "甘延寿",
+      "郅支单于"
+    ],
+    "category": "军事",
+    "chapter": 29,
+    "description": "陈汤矫诏发兵斩杀郅支单于，明犯强汉者虽远必诛"
+  },
+  {
+    "name": "匈奴分裂",
+    "time": -58,
+    "location": "草原",
+    "participants": [
+      "呼韩邪",
+      "郅支"
+    ],
+    "category": "政治",
+    "chapter": 27,
+    "description": "匈奴因内乱分裂为南北两部，呼韩邪归附汉朝"
+  },
+  {
+    "name": "昭君出塞",
+    "time": -33,
+    "location": "长安→草原",
+    "participants": [
+      "王昭君",
+      "呼韩邪单于",
+      "汉元帝"
+    ],
+    "category": "外交",
+    "chapter": 29,
+    "description": "王昭君出塞和亲，汉匈和平数十载"
+  },
+  {
+    "name": "王莽篡汉",
+    "time": 8,
+    "location": "长安",
+    "participants": [
+      "王莽",
+      "汉孺子",
+      "王政君"
+    ],
+    "category": "政治",
+    "chapter": 36,
+    "description": "王莽代汉自立，建立新朝",
+    "significance": "西汉终结"
+  },
+  {
+    "name": "王莽改制",
+    "time": 9,
+    "location": "全国",
+    "participants": [
+      "王莽",
+      "刘歆"
+    ],
+    "category": "制度",
+    "chapter": 37,
+    "description": "王莽推行王田、奴婢、五均六管等复古改革，引发大乱"
+  },
+  {
+    "name": "绿林赤眉起义",
+    "time": 17,
+    "location": "山东/湖北",
+    "participants": [
+      "王匡",
+      "王凤",
+      "樊崇"
+    ],
+    "category": "军事",
+    "chapter": 37,
+    "description": "绿林赤眉军起兵反莽，天下响应"
+  },
+  {
+    "name": "昆阳之战",
+    "time": 23,
+    "location": "昆阳",
+    "participants": [
+      "刘秀",
+      "王邑",
+      "王寻"
+    ],
+    "category": "军事",
+    "chapter": 38,
+    "description": "刘秀以不足万人击败王莽四十二万大军，新朝覆灭",
+    "significance": "中国历史上最著名的以少胜多战役"
+  },
+  {
+    "name": "刘秀称帝",
+    "time": 25,
+    "location": "鄗城",
+    "participants": [
+      "刘秀",
+      "邓禹",
+      "冯异",
+      "耿弇"
+    ],
+    "category": "政治",
+    "chapter": 40,
+    "description": "刘秀称帝建东汉，云台二十八将辅佐"
+  },
+  {
+    "name": "班超出使西域",
+    "time": 73,
+    "location": "西域",
+    "participants": [
+      "班超",
+      "汉明帝",
+      "窦固"
+    ],
+    "category": "外交",
+    "chapter": 45,
+    "description": "班超投笔从戎，不入虎穴焉得虎子，重新开通西域"
+  },
+  {
+    "name": "勒石燕然",
+    "time": 89,
+    "location": "燕然山",
+    "participants": [
+      "窦宪",
+      "耿秉",
+      "班固"
+    ],
+    "category": "军事",
+    "chapter": 47,
+    "description": "窦宪大破北匈奴，登燕然山刻石记功而还"
+  },
+  {
+    "name": "和熹邓后临朝",
+    "time": 105,
+    "location": "洛阳",
+    "participants": [
+      "邓太后",
+      "汉和帝",
+      "汉安帝"
+    ],
+    "category": "政治",
+    "chapter": 48,
+    "description": "邓太后临朝称制二十载，以女主之身支撑东汉政局"
+  },
+  {
+    "name": "梁冀专权",
+    "time": 144,
+    "location": "洛阳",
+    "participants": [
+      "梁冀",
+      "汉质帝",
+      "汉桓帝"
+    ],
+    "category": "政治",
+    "chapter": 52,
+    "description": "梁冀为大将军，毒杀质帝，专权近二十年为东汉最黑暗时期"
+  },
+  {
+    "name": "党锢之祸",
+    "time": 166,
+    "location": "洛阳",
+    "participants": [
+      "李膺",
+      "陈蕃",
+      "窦武",
+      "汉桓帝",
+      "宦官集团"
+    ],
+    "category": "政治",
+    "chapter": 55,
+    "description": "宦官诬陷李膺等结党，二百余士人被禁锢终身",
+    "significance": "东汉士大夫与宦官斗争的标志事件"
+  },
+  {
+    "name": "黄巾起义",
+    "time": 184,
+    "location": "全国",
+    "participants": [
+      "张角",
+      "皇甫嵩",
+      "卢植",
+      "曹操",
+      "刘备"
+    ],
+    "category": "军事",
+    "chapter": 58,
+    "description": "张角以太平道发动黄巾起义，天下大乱，东汉名存实亡"
+  },
+  {
+    "name": "董卓之乱",
+    "time": 189,
+    "location": "洛阳/长安",
+    "participants": [
+      "董卓",
+      "袁绍",
+      "何进",
+      "吕布",
+      "王允"
+    ],
+    "category": "政治",
+    "chapter": 59,
+    "description": "何进召董卓进京诛宦官，董卓废少帝立献帝，焚烧洛阳",
+    "significance": "东汉皇权崩溃"
+  },
+  {
+    "name": "官渡之战",
+    "time": 200,
+    "location": "官渡",
+    "participants": [
+      "曹操",
+      "袁绍",
+      "荀彧",
+      "许攸"
+    ],
+    "category": "军事",
+    "chapter": 63,
+    "description": "曹操以少胜多击败袁绍，奠定统一北方的基础",
+    "significance": "三国格局的起点"
+  },
+  {
+    "name": "赤壁之战",
+    "time": 208,
+    "location": "赤壁",
+    "participants": [
+      "曹操",
+      "孙权",
+      "刘备",
+      "周瑜",
+      "诸葛亮",
+      "鲁肃"
+    ],
+    "category": "军事",
+    "chapter": 65,
+    "description": "孙刘联军火烧赤壁大败曹操，三国鼎立之势形成",
+    "significance": "决定天下三分的决战"
+  },
+  {
+    "name": "曹丕篡汉",
+    "time": 220,
+    "location": "许昌",
+    "participants": [
+      "曹丕",
+      "汉献帝",
+      "华歆"
+    ],
+    "category": "政治",
+    "chapter": 68,
+    "description": "曹丕逼汉献帝禅让，建立魏国，东汉灭亡",
+    "significance": "周秦汉三代终章"
+  },
+  {
+    "name": "夷陵之战",
+    "time": 221,
+    "location": "夷陵(猇亭)",
+    "participants": [
+      "刘备",
+      "孙权",
+      "陆逊"
+    ],
+    "category": "军事",
+    "chapter": 69,
+    "description": "刘备伐吴为关羽报仇，陆逊火烧连营七百里",
+    "significance": "蜀汉由盛转衰"
+  },
+  {
+    "name": "七擒孟获",
+    "time": 225,
+    "location": "南中",
+    "participants": [
+      "诸葛亮",
+      "孟获"
+    ],
+    "category": "军事",
+    "chapter": 70,
+    "description": "诸葛亮南征，七擒七纵孟获，平定南中"
+  },
+  {
+    "name": "出师表",
+    "time": 227,
+    "location": "汉中",
+    "participants": [
+      "诸葛亮",
+      "刘禅"
+    ],
+    "category": "政治",
+    "chapter": 70,
+    "description": "诸葛亮上出师表，北伐曹魏"
+  },
+  {
+    "name": "失街亭",
+    "time": 228,
+    "location": "街亭",
+    "participants": [
+      "诸葛亮",
+      "马谡",
+      "张郃",
+      "司马懿"
+    ],
+    "category": "军事",
+    "chapter": 71,
+    "description": "马谡失街亭，诸葛亮挥泪斩马谡"
+  },
+  {
+    "name": "五丈原",
+    "time": 234,
+    "location": "五丈原",
+    "participants": [
+      "诸葛亮",
+      "司马懿",
+      "姜维"
+    ],
+    "category": "军事",
+    "chapter": 72,
+    "description": "诸葛亮病逝五丈原，蜀汉北伐终结"
+  },
+  {
+    "name": "高平陵之变",
+    "time": 249,
+    "location": "洛阳",
+    "participants": [
+      "司马懿",
+      "曹爽",
+      "司马师"
+    ],
+    "category": "政治",
+    "chapter": 75,
+    "description": "司马懿发动高平陵之变诛曹爽，司马氏专权开始",
+    "significance": "曹魏政权的转折点"
+  },
+  {
+    "name": "淮南三叛",
+    "time": 255,
+    "location": "寿春",
+    "participants": [
+      "司马师",
+      "司马昭",
+      "毌丘俭",
+      "文钦",
+      "诸葛诞"
+    ],
+    "category": "军事",
+    "chapter": 76,
+    "description": "曹魏旧臣三次在淮南起兵反司马氏，均被平定"
+  },
+  {
+    "name": "司马昭弑君",
+    "time": 260,
+    "location": "洛阳",
+    "participants": [
+      "司马昭",
+      "曹髦",
+      "贾充"
+    ],
+    "category": "政治",
+    "chapter": 77,
+    "description": "曹髦讨伐司马昭被杀，司马昭之心路人皆知"
+  },
+  {
+    "name": "邓艾灭蜀",
+    "time": 263,
+    "location": "蜀中",
+    "participants": [
+      "邓艾",
+      "钟会",
+      "姜维",
+      "刘禅",
+      "谯周"
+    ],
+    "category": "军事",
+    "chapter": 78,
+    "description": "邓艾偷渡阴平灭蜀，刘禅投降"
+  },
+  {
+    "name": "司马炎代魏",
+    "time": 265,
+    "location": "洛阳",
+    "participants": [
+      "司马炎",
+      "曹奂"
+    ],
+    "category": "政治",
+    "chapter": 79,
+    "description": "司马炎逼曹奂禅让，建立西晋"
+  },
+  {
+    "name": "羊祜杜预灭吴",
+    "time": 280,
+    "location": "江东",
+    "participants": [
+      "司马炎",
+      "杜预",
+      "王濬",
+      "孙皓",
+      "羊祜"
+    ],
+    "category": "军事",
+    "chapter": 81,
+    "description": "西晋六路伐吴，王濬楼船下益州，孙皓出降，三国归晋",
+    "significance": "分裂近百年的中国重归统一"
+  },
+  {
+    "name": "八王之乱",
+    "time": 291,
+    "location": "洛阳及全国",
+    "participants": [
+      "贾南风",
+      "司马伦",
+      "司马冏",
+      "司马颖",
+      "司马颙",
+      "司马越",
+      "司马衷"
+    ],
+    "category": "政治",
+    "chapter": 82,
+    "description": "贾后干政引发司马宗室自相残杀，西晋元气大伤",
+    "significance": "西晋灭亡的根本原因"
+  },
+  {
+    "name": "永嘉之乱",
+    "time": 311,
+    "location": "洛阳",
+    "participants": [
+      "刘聪",
+      "刘曜",
+      "司马炽"
+    ],
+    "category": "军事",
+    "chapter": 87,
+    "description": "刘聪攻破洛阳俘晋怀帝，五胡乱华高潮"
+  },
+  {
+    "name": "衣冠南渡",
+    "time": 317,
+    "location": "建康",
+    "participants": [
+      "司马睿",
+      "王导"
+    ],
+    "category": "政治",
+    "chapter": 90,
+    "description": "司马睿在王导辅佐下在建康称帝，东晋建立",
+    "significance": "中国政治文化中心南移的里程碑"
+  },
+  {
+    "name": "王敦之乱",
+    "time": 322,
+    "location": "建康",
+    "participants": [
+      "王敦",
+      "司马睿",
+      "王导"
+    ],
+    "category": "政治",
+    "chapter": 92,
+    "description": "王敦举兵攻入建康，王与马共天下的矛盾激化"
+  },
+  {
+    "name": "苏峻之乱",
+    "time": 327,
+    "location": "建康",
+    "participants": [
+      "苏峻",
+      "祖约",
+      "庾亮",
+      "温峤",
+      "陶侃"
+    ],
+    "category": "军事",
+    "chapter": 94,
+    "description": "苏峻祖约起兵反晋攻入建康，陶侃温峤联军平叛"
+  },
+  {
+    "name": "冉闵杀胡",
+    "time": 349,
+    "location": "邺城",
+    "participants": [
+      "冉闵",
+      "石虎"
+    ],
+    "category": "军事",
+    "chapter": 98,
+    "description": "冉闵屠杀胡人二十余万，后赵灭亡"
+  },
+  {
+    "name": "桓温北伐",
+    "time": 354,
+    "location": "关中/洛阳",
+    "participants": [
+      "桓温",
+      "苻坚",
+      "慕容垂"
+    ],
+    "category": "军事",
+    "chapter": 99,
+    "description": "桓温三次北伐，攻克洛阳进逼长安，终无功而返"
+  },
+  {
+    "name": "枋头之战",
+    "time": 369,
+    "location": "枋头",
+    "participants": [
+      "桓温",
+      "慕容垂",
+      "郗超"
+    ],
+    "category": "军事",
+    "chapter": 102,
+    "description": "桓温北伐前燕，在枋头被慕容垂击败"
+  },
+  {
+    "name": "王猛辅秦",
+    "time": 370,
+    "location": "长安",
+    "participants": [
+      "王猛",
+      "苻坚"
+    ],
+    "category": "政治",
+    "chapter": 103,
+    "description": "王猛助苻坚灭前燕统一北方，前秦极盛"
+  },
+  {
+    "name": "淝水之战",
+    "time": 383,
+    "location": "淝水",
+    "participants": [
+      "苻坚",
+      "谢安",
+      "谢玄",
+      "谢石",
+      "刘牢之",
+      "朱序"
+    ],
+    "category": "军事",
+    "chapter": 105,
+    "description": "谢安以八万北府兵大破苻坚八十万大军，风声鹤唳草木皆兵",
+    "significance": "决定南北朝格局的决战"
+  },
+  {
+    "name": "参合陂之战",
+    "time": 395,
+    "location": "参合陂",
+    "participants": [
+      "拓跋珪",
+      "慕容宝"
+    ],
+    "category": "军事",
+    "chapter": 108,
+    "description": "拓跋珪大败后燕军，北魏崛起"
+  },
+  {
+    "name": "孙恩卢循之乱",
+    "time": 399,
+    "location": "江东",
+    "participants": [
+      "孙恩",
+      "卢循",
+      "刘裕",
+      "谢琰"
+    ],
+    "category": "军事",
+    "chapter": 111,
+    "description": "五斗米道起义，刘裕由此崛起"
+  },
+  {
+    "name": "桓玄篡晋",
+    "time": 403,
+    "location": "建康",
+    "participants": [
+      "桓玄",
+      "司马德宗",
+      "刘裕"
+    ],
+    "category": "政治",
+    "chapter": 113,
+    "description": "桓玄篡晋建楚，次年被刘裕讨灭"
+  },
+  {
+    "name": "刘裕北伐",
+    "time": 416,
+    "location": "中原",
+    "participants": [
+      "刘裕",
+      "姚泓",
+      "檀道济",
+      "王镇恶"
+    ],
+    "category": "军事",
+    "chapter": 118,
+    "description": "刘裕北伐灭后秦收复长安，气吞万里如虎"
+  },
+  {
+    "name": "刘裕代晋",
+    "time": 420,
+    "location": "建康",
+    "participants": [
+      "刘裕",
+      "司马德文"
+    ],
+    "category": "政治",
+    "chapter": 119,
+    "description": "刘裕废晋建宋，南朝开始"
+  },
+  {
+    "name": "元嘉之治",
+    "time": 424,
+    "location": "建康",
+    "participants": [
+      "刘义隆"
+    ],
+    "category": "政治",
+    "chapter": 120,
+    "description": "宋文帝刘义隆开创东晋南朝最繁荣时期"
+  },
+  {
+    "name": "元嘉北伐",
+    "time": 450,
+    "location": "中原",
+    "participants": [
+      "刘义隆",
+      "拓跋焘",
+      "檀道济"
+    ],
+    "category": "军事",
+    "chapter": 125,
+    "description": "宋文帝北伐失败，北魏反攻至瓜步，江南震动"
+  },
+  {
+    "name": "北魏灭佛",
+    "time": 446,
+    "location": "北魏全境",
+    "participants": [
+      "拓跋焘",
+      "崔浩"
+    ],
+    "category": "文化",
+    "chapter": 124,
+    "description": "太武帝拓跋焘灭佛，三武一宗法难之始"
+  },
+  {
+    "name": "国史之狱",
+    "time": 450,
+    "location": "平城",
+    "participants": [
+      "崔浩",
+      "拓跋焘"
+    ],
+    "category": "政治",
+    "chapter": 125,
+    "description": "崔浩修国史触怒鲜卑贵族，被灭族"
+  },
+  {
+    "name": "孝文帝迁都",
+    "time": 493,
+    "location": "洛阳",
+    "participants": [
+      "拓跋宏",
+      "李冲"
+    ],
+    "category": "制度",
+    "chapter": 138,
+    "description": "孝文帝以南征为名迁都洛阳，全面推行汉化",
+    "significance": "民族融合的里程碑"
+  },
+  {
+    "name": "孝文帝汉化改革",
+    "time": 494,
+    "location": "洛阳",
+    "participants": [
+      "拓跋宏",
+      "冯太后",
+      "李冲"
+    ],
+    "category": "制度",
+    "chapter": 140,
+    "description": "禁胡服胡语改汉姓，定族姓门阀，北魏全面汉化"
+  },
+  {
+    "name": "六镇起义",
+    "time": 523,
+    "location": "北方六镇",
+    "participants": [
+      "破六韩拔陵",
+      "元诩",
+      "尔朱荣"
+    ],
+    "category": "军事",
+    "chapter": 150,
+    "description": "北魏北部六镇军民起义，北魏分崩离析的开端",
+    "significance": "北魏分裂为东西魏的导火索"
+  },
+  {
+    "name": "河阴之变",
+    "time": 528,
+    "location": "河阴",
+    "participants": [
+      "尔朱荣",
+      "元诩",
+      "元子攸",
+      "灵太后"
+    ],
+    "category": "政治",
+    "chapter": 152,
+    "description": "尔朱荣沉杀灵太后与幼帝，屠戮朝臣二千余人"
+  },
+  {
+    "name": "高欢起兵",
+    "time": 531,
+    "location": "信都",
+    "participants": [
+      "高欢",
+      "尔朱氏"
+    ],
+    "category": "军事",
+    "chapter": 155,
+    "description": "高欢起兵讨伐尔朱氏，奠定东魏北齐基础"
+  },
+  {
+    "name": "北魏分裂",
+    "time": 534,
+    "location": "洛阳→邺城/长安",
+    "participants": [
+      "高欢",
+      "宇文泰",
+      "元修"
+    ],
+    "category": "政治",
+    "chapter": 156,
+    "description": "元修西奔宇文泰，高欢另立元善见，北魏分裂为东西魏",
+    "significance": "关陇集团与关东集团的对抗开始"
+  },
+  {
+    "name": "沙苑之战",
+    "time": 537,
+    "location": "沙苑",
+    "participants": [
+      "宇文泰",
+      "高欢"
+    ],
+    "category": "军事",
+    "chapter": 157,
+    "description": "宇文泰以少胜多大败高欢，西魏立足关中"
+  },
+  {
+    "name": "侯景之乱",
+    "time": 548,
+    "location": "建康",
+    "participants": [
+      "侯景",
+      "萧衍",
+      "萧纲"
+    ],
+    "category": "军事",
+    "chapter": 161,
+    "description": "侯景叛乱围建康，饿死梁武帝萧衍，南朝从此衰弱",
+    "significance": "南北力量对比根本改变"
+  },
+  {
+    "name": "陈霸先建陈",
+    "time": 557,
+    "location": "建康",
+    "participants": [
+      "陈霸先",
+      "王僧辩"
+    ],
+    "category": "政治",
+    "chapter": 167,
+    "description": "陈霸先平侯景之乱后建立陈朝"
+  },
+  {
+    "name": "宇文邕灭佛",
+    "time": 574,
+    "location": "北周全境",
+    "participants": [
+      "宇文邕"
+    ],
+    "category": "文化",
+    "chapter": 171,
+    "description": "周武帝灭佛，三武一宗法难之二"
+  },
+  {
+    "name": "周武帝灭齐",
+    "time": 577,
+    "location": "邺城",
+    "participants": [
+      "宇文邕",
+      "高纬"
+    ],
+    "category": "军事",
+    "chapter": 173,
+    "description": "宇文邕亲征灭北齐，北方重新统一"
+  },
+  {
+    "name": "杨坚代周",
+    "time": 581,
+    "location": "长安",
+    "participants": [
+      "杨坚",
+      "宇文赟"
+    ],
+    "category": "政治",
+    "chapter": 175,
+    "description": "杨坚代周建隋，关陇集团完成政权交替"
+  },
+  {
+    "name": "隋灭陈",
+    "time": 589,
+    "location": "建康",
+    "participants": [
+      "杨坚",
+      "杨广",
+      "陈叔宝",
+      "韩擒虎",
+      "贺若弼"
+    ],
+    "category": "军事",
+    "chapter": 177,
+    "description": "隋朝灭南陈统一天下，近三百年分裂至此终结",
+    "significance": "中国重归大一统"
+  },
+  {
+    "name": "杨广弑父夺嫡",
+    "time": 604,
+    "category": "政变",
+    "description": "杨广杀隋文帝夺位",
+    "participants": [
+      "杨广",
+      "杨坚",
+      "杨素"
+    ],
+    "location": "仁寿宫"
+  },
+  {
+    "name": "开凿大运河",
+    "time": 605,
+    "category": "制度",
+    "description": "杨广征发百万民夫开凿大运河",
+    "participants": [
+      "杨广"
+    ],
+    "location": "洛阳至涿郡/江都"
+  },
+  {
+    "name": "创立科举制",
+    "time": 605,
+    "category": "制度",
+    "description": "杨广创进士科，科举制正式确立",
+    "participants": [
+      "杨广"
+    ]
+  },
+  {
+    "name": "三征高丽",
+    "time": 612,
+    "category": "军事",
+    "description": "杨广三次征讨高句丽，国力耗尽",
+    "participants": [
+      "杨广",
+      "来护儿",
+      "宇文述"
+    ],
+    "location": "辽东"
+  },
+  {
+    "name": "杨玄感起兵",
+    "time": 613,
+    "category": "军事",
+    "description": "杨素之子杨玄感黎阳起兵反隋失败",
+    "participants": [
+      "杨玄感",
+      "杨广"
+    ]
+  },
+  {
+    "name": "瓦岗军起义",
+    "time": 616,
+    "category": "军事",
+    "description": "翟让、李密领导的瓦岗军成为隋末最大起义军",
+    "participants": [
+      "翟让",
+      "李密"
+    ]
+  },
+  {
+    "name": "江都之变",
+    "time": 618,
+    "category": "政变",
+    "description": "宇文化及在江都缢杀杨广，隋朝名存实亡",
+    "participants": [
+      "宇文化及",
+      "杨广"
+    ],
+    "location": "江都"
+  },
+  {
+    "name": "李渊太原起兵",
+    "time": 617,
+    "category": "军事",
+    "description": "李渊在太原起兵反隋，攻入长安",
+    "participants": [
+      "李渊",
+      "李世民",
+      "李建成"
+    ]
+  },
+  {
+    "name": "唐朝建立",
+    "time": 618,
+    "category": "政治",
+    "description": "李渊称帝建唐",
+    "participants": [
+      "李渊"
+    ]
+  },
+  {
+    "name": "浅水原之战",
+    "time": 618,
+    "category": "军事",
+    "description": "李世民灭薛举西秦",
+    "participants": [
+      "李世民",
+      "薛举"
+    ]
+  },
+  {
+    "name": "柏壁之战",
+    "time": 619,
+    "category": "军事",
+    "description": "李世民灭刘武周",
+    "participants": [
+      "李世民",
+      "刘武周"
+    ]
+  },
+  {
+    "name": "虎牢关之战",
+    "time": 621,
+    "category": "军事",
+    "description": "李世民一战擒两王（王世充、窦建德）",
+    "participants": [
+      "李世民",
+      "王世充",
+      "窦建德"
+    ]
+  },
+  {
+    "name": "玄武门之变",
+    "time": 626,
+    "category": "政变",
+    "description": "李世民杀太子李建成和齐王李元吉",
+    "participants": [
+      "李世民",
+      "李建成",
+      "李元吉",
+      "尉迟恭"
+    ]
+  },
+  {
+    "name": "贞观之治",
+    "time": 627,
+    "category": "政治",
+    "description": "李世民开创贞观盛世",
+    "participants": [
+      "李世民",
+      "房玄龄",
+      "杜如晦",
+      "魏征"
+    ]
+  },
+  {
+    "name": "灭东突厥",
+    "time": 630,
+    "category": "军事",
+    "description": "李靖灭东突厥，李世民称天可汗",
+    "participants": [
+      "李靖",
+      "李勣",
+      "李世民"
+    ]
+  },
+  {
+    "name": "玄奘西行",
+    "time": 629,
+    "category": "文化",
+    "description": "玄奘出发去印度取经",
+    "participants": [
+      "玄奘"
+    ]
+  },
+  {
+    "name": "灭吐谷浑",
+    "time": 635,
+    "category": "军事",
+    "description": "李靖灭吐谷浑",
+    "participants": [
+      "李靖",
+      "侯君集"
+    ]
+  },
+  {
+    "name": "文成公主入藏",
+    "time": 641,
+    "category": "外交",
+    "description": "文成公主嫁吐蕃松赞干布",
+    "participants": [
+      "李世民"
+    ]
+  },
+  {
+    "name": "唐灭高句丽",
+    "time": 668,
+    "category": "军事",
+    "description": "李勣灭高句丽",
+    "participants": [
+      "李勣",
+      "李治"
+    ]
+  },
+  {
+    "name": "武则天称帝",
+    "time": 690,
+    "category": "政变",
+    "description": "武则天改唐为周，成为中国唯一女皇帝",
+    "participants": [
+      "武则天"
+    ]
+  },
+  {
+    "name": "神龙政变",
+    "time": 705,
+    "category": "政变",
+    "description": "张柬之等发动政变，逼武则天退位",
+    "participants": [
+      "张柬之",
+      "武则天",
+      "李显"
+    ]
+  },
+  {
+    "name": "唐隆政变",
+    "time": 710,
+    "category": "政变",
+    "description": "李隆基发动政变杀韦后、安乐公主",
+    "participants": [
+      "李隆基",
+      "韦皇后",
+      "安乐公主",
+      "太平公主"
+    ]
+  },
+  {
+    "name": "开元盛世",
+    "time": 713,
+    "category": "政治",
+    "description": "李隆基开创开元盛世",
+    "participants": [
+      "李隆基",
+      "姚崇",
+      "宋璟"
+    ]
+  },
+  {
+    "name": "怛罗斯之战",
+    "time": 751,
+    "category": "军事",
+    "description": "高仙芝在怛罗斯与阿拉伯帝国交战失败",
+    "participants": [
+      "高仙芝"
+    ]
+  },
+  {
+    "name": "安史之乱",
+    "time": 755,
+    "category": "军事",
+    "description": "安禄山范阳起兵，唐朝由盛转衰",
+    "participants": [
+      "安禄山",
+      "史思明",
+      "李隆基",
+      "杨国忠"
+    ]
+  },
+  {
+    "name": "马嵬驿之变",
+    "time": 756,
+    "category": "政变",
+    "description": "禁军哗变杀杨国忠，缢杀杨贵妃",
+    "participants": [
+      "杨玉环",
+      "杨国忠",
+      "李隆基"
+    ]
+  },
+  {
+    "name": "灵武即位",
+    "time": 756,
+    "category": "政治",
+    "description": "李亨在灵武自行登基，遥尊玄宗为太上皇",
+    "participants": [
+      "李亨",
+      "李隆基"
+    ]
+  },
+  {
+    "name": "睢阳保卫战",
+    "time": 757,
+    "category": "军事",
+    "description": "张巡许远死守睢阳，屏障江淮",
+    "participants": [
+      "张巡",
+      "许远"
+    ]
+  },
+  {
+    "name": "史朝义败亡",
+    "time": 763,
+    "category": "军事",
+    "description": "安史之乱最终平定",
+    "participants": [
+      "史朝义",
+      "李豫",
+      "郭子仪"
+    ]
+  },
+  {
+    "name": "仆固怀恩之叛",
+    "time": 764,
+    "category": "军事",
+    "description": "仆固怀恩引吐蕃回纥入寇",
+    "participants": [
+      "仆固怀恩",
+      "郭子仪"
+    ]
+  },
+  {
+    "name": "泾原兵变",
+    "time": 783,
+    "category": "政变",
+    "description": "泾原兵在长安哗变，德宗出逃奉天",
+    "participants": [
+      "李适"
+    ]
+  },
+  {
+    "name": "永贞革新",
+    "time": 805,
+    "category": "制度",
+    "description": "王叔文、柳宗元、刘禹锡推动改革，失败告终",
+    "participants": [
+      "王叔文",
+      "柳宗元",
+      "刘禹锡"
+    ]
+  },
+  {
+    "name": "元和中兴",
+    "time": 817,
+    "category": "军事",
+    "description": "李愬雪夜入蔡州擒吴元济，平定淮西",
+    "participants": [
+      "李愬",
+      "裴度",
+      "李纯"
+    ]
+  },
+  {
+    "name": "甘露之变",
+    "time": 835,
+    "category": "政变",
+    "description": "文宗与李训郑注谋诛宦官失败，宦官大杀朝臣",
+    "participants": [
+      "李训",
+      "郑注",
+      "仇士良"
+    ]
+  },
+  {
+    "name": "会昌灭佛",
+    "time": 845,
+    "category": "文化",
+    "description": "唐武宗李德裕推行灭佛政策",
+    "participants": [
+      "李德裕"
+    ]
+  },
+  {
+    "name": "裘甫起义",
+    "time": 859,
+    "category": "军事",
+    "description": "唐末裘甫在浙东起义",
+    "participants": []
+  },
+  {
+    "name": "庞勋之变",
+    "time": 868,
+    "category": "军事",
+    "description": "桂林戍卒庞勋起义",
+    "participants": []
+  },
+  {
+    "name": "黄巢起义",
+    "time": 875,
+    "category": "军事",
+    "description": "黄巢领导大规模农民起义，一度攻占长安",
+    "participants": [
+      "黄巢",
+      "王仙芝"
+    ]
+  },
+  {
+    "name": "黄巢陷长安",
+    "time": 880,
+    "category": "军事",
+    "description": "黄巢攻入长安称帝",
+    "participants": [
+      "黄巢"
+    ]
+  },
+  {
+    "name": "朱温降唐",
+    "time": 882,
+    "category": "军事",
+    "description": "黄巢部将朱温投降唐朝",
+    "participants": [
+      "朱温"
+    ]
+  },
+  {
+    "name": "朱温篡唐",
+    "time": 907,
+    "category": "政变",
+    "description": "朱温废唐哀帝建后梁，唐朝灭亡",
+    "participants": [
+      "朱温"
+    ]
+  },
+  {
+    "name": "后唐灭梁",
+    "time": 923,
+    "category": "军事",
+    "description": "李存勖灭后梁建后唐",
+    "participants": [
+      "李存勖"
+    ]
+  },
+  {
+    "name": "石敬瑭割燕云十六州",
+    "time": 936,
+    "category": "外交",
+    "description": "石敬瑭割燕云十六州给契丹，称儿皇帝",
+    "participants": [
+      "石敬瑭"
+    ]
+  },
+  {
+    "name": "后周建立",
+    "time": 951,
+    "category": "政治",
+    "description": "郭威称帝建后周",
+    "participants": [
+      "郭威"
+    ]
+  },
+  {
+    "name": "柴荣改革",
+    "time": 954,
+    "category": "制度",
+    "description": "后周世宗柴荣推行政治军事改革",
+    "participants": [
+      "柴荣"
+    ]
+  },
+  {
+    "name": "陈桥兵变",
+    "time": 960,
+    "category": "政变",
+    "description": "赵匡胤陈桥兵变黄袍加身建北宋",
+    "participants": [
+      "赵匡胤"
+    ]
+  },
+  {
+    "name": "南唐后主李煜亡国",
+    "time": 975,
+    "category": "政治",
+    "description": "赵匡胤灭南唐，李煜降宋",
+    "participants": [
+      "李煜",
+      "赵匡胤"
+    ]
+  }
+]
