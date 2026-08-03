@@ -1,0 +1,2291 @@
+[
+  {
+    "cause": "三家分晋",
+    "effect": "田氏代齐",
+    "cause_time": -403,
+    "effect_time": -386,
+    "gap_years": 17,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "桂陵之战",
+    "effect": "马陵之战",
+    "cause_time": -353,
+    "effect_time": -341,
+    "gap_years": 12,
+    "shared_participants": [
+      "庞涓",
+      "孙膑"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "苏秦合纵",
+    "effect": "张仪连横",
+    "cause_time": -333,
+    "effect_time": -328,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "苏秦合纵",
+    "effect": "张仪欺楚",
+    "cause_time": -333,
+    "effect_time": -313,
+    "gap_years": 20,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "张仪连横",
+    "effect": "张仪欺楚",
+    "cause_time": -328,
+    "effect_time": -313,
+    "gap_years": 15,
+    "shared_participants": [
+      "张仪"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "胡服骑射",
+    "effect": "伊阙之战",
+    "cause_time": -307,
+    "effect_time": -293,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "伊阙之战",
+    "effect": "五国伐齐",
+    "cause_time": -293,
+    "effect_time": -284,
+    "gap_years": 9,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "伊阙之战",
+    "effect": "火牛阵",
+    "cause_time": -293,
+    "effect_time": -279,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "五国伐齐",
+    "effect": "火牛阵",
+    "cause_time": -284,
+    "effect_time": -279,
+    "gap_years": 5,
+    "shared_participants": [
+      "乐毅"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "完璧归赵",
+    "effect": "渑池会",
+    "cause_time": -283,
+    "effect_time": -279,
+    "gap_years": 4,
+    "shared_participants": [
+      "蔺相如",
+      "秦昭襄王"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "火牛阵",
+    "effect": "长平之战",
+    "cause_time": -279,
+    "effect_time": -260,
+    "gap_years": 19,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "渑池会",
+    "effect": "长平之战",
+    "cause_time": -279,
+    "effect_time": -260,
+    "gap_years": 19,
+    "shared_participants": [
+      "廉颇",
+      "秦昭襄王"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "长平之战",
+    "effect": "窃符救赵",
+    "cause_time": -260,
+    "effect_time": -257,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "荆轲刺秦王",
+    "effect": "秦灭六国",
+    "cause_time": -227,
+    "effect_time": -221,
+    "gap_years": 6,
+    "shared_participants": [
+      "秦始皇"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "荆轲刺秦王",
+    "effect": "书同文车同轨",
+    "cause_time": -227,
+    "effect_time": -221,
+    "gap_years": 6,
+    "shared_participants": [
+      "秦始皇"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "荆轲刺秦王",
+    "effect": "焚书坑儒",
+    "cause_time": -227,
+    "effect_time": -213,
+    "gap_years": 14,
+    "shared_participants": [
+      "秦始皇"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "荆轲刺秦王",
+    "effect": "沙丘之变",
+    "cause_time": -227,
+    "effect_time": -210,
+    "gap_years": 17,
+    "shared_participants": [
+      "秦始皇"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "秦灭六国",
+    "effect": "书同文车同轨",
+    "cause_time": -221,
+    "effect_time": -221,
+    "gap_years": 0,
+    "shared_participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "秦灭六国",
+    "effect": "焚书坑儒",
+    "cause_time": -221,
+    "effect_time": -213,
+    "gap_years": 8,
+    "shared_participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "书同文车同轨",
+    "effect": "焚书坑儒",
+    "cause_time": -221,
+    "effect_time": -213,
+    "gap_years": 8,
+    "shared_participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "秦灭六国",
+    "effect": "沙丘之变",
+    "cause_time": -221,
+    "effect_time": -210,
+    "gap_years": 11,
+    "shared_participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "书同文车同轨",
+    "effect": "沙丘之变",
+    "cause_time": -221,
+    "effect_time": -210,
+    "gap_years": 11,
+    "shared_participants": [
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "秦灭六国",
+    "effect": "大泽乡起义",
+    "cause_time": -221,
+    "effect_time": -209,
+    "gap_years": 12,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "秦灭六国",
+    "effect": "巨鹿之战",
+    "cause_time": -221,
+    "effect_time": -207,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "焚书坑儒",
+    "effect": "沙丘之变",
+    "cause_time": -213,
+    "effect_time": -210,
+    "gap_years": 3,
+    "shared_participants": [
+      "扶苏",
+      "秦始皇",
+      "李斯"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "沙丘之变",
+    "effect": "鸿门宴",
+    "cause_time": -210,
+    "effect_time": -206,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "沙丘之变",
+    "effect": "汉王就国",
+    "cause_time": -210,
+    "effect_time": -206,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "大泽乡起义",
+    "effect": "巨鹿之战",
+    "cause_time": -209,
+    "effect_time": -207,
+    "gap_years": 2,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "大泽乡起义",
+    "effect": "还定三秦",
+    "cause_time": -209,
+    "effect_time": -206,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "大泽乡起义",
+    "effect": "彭城之战",
+    "cause_time": -209,
+    "effect_time": -205,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "巨鹿之战",
+    "effect": "鸿门宴",
+    "cause_time": -207,
+    "effect_time": -206,
+    "gap_years": 1,
+    "shared_participants": [
+      "项羽"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "巨鹿之战",
+    "effect": "还定三秦",
+    "cause_time": -207,
+    "effect_time": -206,
+    "gap_years": 1,
+    "shared_participants": [
+      "章邯"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "巨鹿之战",
+    "effect": "彭城之战",
+    "cause_time": -207,
+    "effect_time": -205,
+    "gap_years": 2,
+    "shared_participants": [
+      "项羽"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "巨鹿之战",
+    "effect": "井陉之战",
+    "cause_time": -207,
+    "effect_time": -204,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "鸿门宴",
+    "effect": "汉王就国",
+    "cause_time": -206,
+    "effect_time": -206,
+    "gap_years": 0,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "鸿门宴",
+    "effect": "还定三秦",
+    "cause_time": -206,
+    "effect_time": -206,
+    "gap_years": 0,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "汉王就国",
+    "effect": "还定三秦",
+    "cause_time": -206,
+    "effect_time": -206,
+    "gap_years": 0,
+    "shared_participants": [
+      "韩信",
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "鸿门宴",
+    "effect": "彭城之战",
+    "cause_time": -206,
+    "effect_time": -205,
+    "gap_years": 1,
+    "shared_participants": [
+      "项羽",
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "汉王就国",
+    "effect": "彭城之战",
+    "cause_time": -206,
+    "effect_time": -205,
+    "gap_years": 1,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "还定三秦",
+    "effect": "彭城之战",
+    "cause_time": -206,
+    "effect_time": -205,
+    "gap_years": 1,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "汉王就国",
+    "effect": "井陉之战",
+    "cause_time": -206,
+    "effect_time": -204,
+    "gap_years": 2,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "还定三秦",
+    "effect": "井陉之战",
+    "cause_time": -206,
+    "effect_time": -204,
+    "gap_years": 2,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "鸿门宴",
+    "effect": "潍水之战",
+    "cause_time": -206,
+    "effect_time": -203,
+    "gap_years": 3,
+    "shared_participants": [
+      "项羽"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "汉王就国",
+    "effect": "潍水之战",
+    "cause_time": -206,
+    "effect_time": -203,
+    "gap_years": 3,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "还定三秦",
+    "effect": "潍水之战",
+    "cause_time": -206,
+    "effect_time": -203,
+    "gap_years": 3,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "汉王就国",
+    "effect": "垓下之战",
+    "cause_time": -206,
+    "effect_time": -202,
+    "gap_years": 4,
+    "shared_participants": [
+      "韩信",
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "还定三秦",
+    "effect": "垓下之战",
+    "cause_time": -206,
+    "effect_time": -202,
+    "gap_years": 4,
+    "shared_participants": [
+      "韩信",
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "还定三秦",
+    "effect": "刘邦称帝",
+    "cause_time": -206,
+    "effect_time": -202,
+    "gap_years": 4,
+    "shared_participants": [
+      "韩信",
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "彭城之战",
+    "effect": "井陉之战",
+    "cause_time": -205,
+    "effect_time": -204,
+    "gap_years": 1,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "彭城之战",
+    "effect": "潍水之战",
+    "cause_time": -205,
+    "effect_time": -203,
+    "gap_years": 2,
+    "shared_participants": [
+      "项羽"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "彭城之战",
+    "effect": "垓下之战",
+    "cause_time": -205,
+    "effect_time": -202,
+    "gap_years": 3,
+    "shared_participants": [
+      "项羽",
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "彭城之战",
+    "effect": "刘邦称帝",
+    "cause_time": -205,
+    "effect_time": -202,
+    "gap_years": 3,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "彭城之战",
+    "effect": "白登之围",
+    "cause_time": -205,
+    "effect_time": -200,
+    "gap_years": 5,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "井陉之战",
+    "effect": "潍水之战",
+    "cause_time": -204,
+    "effect_time": -203,
+    "gap_years": 1,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "井陉之战",
+    "effect": "垓下之战",
+    "cause_time": -204,
+    "effect_time": -202,
+    "gap_years": 2,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "井陉之战",
+    "effect": "刘邦称帝",
+    "cause_time": -204,
+    "effect_time": -202,
+    "gap_years": 2,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "井陉之战",
+    "effect": "白登之围",
+    "cause_time": -204,
+    "effect_time": -200,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "潍水之战",
+    "effect": "垓下之战",
+    "cause_time": -203,
+    "effect_time": -202,
+    "gap_years": 1,
+    "shared_participants": [
+      "项羽",
+      "韩信"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "潍水之战",
+    "effect": "刘邦称帝",
+    "cause_time": -203,
+    "effect_time": -202,
+    "gap_years": 1,
+    "shared_participants": [
+      "韩信"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "潍水之战",
+    "effect": "白登之围",
+    "cause_time": -203,
+    "effect_time": -200,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "垓下之战",
+    "effect": "刘邦称帝",
+    "cause_time": -202,
+    "effect_time": -202,
+    "gap_years": 0,
+    "shared_participants": [
+      "韩信",
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "垓下之战",
+    "effect": "白登之围",
+    "cause_time": -202,
+    "effect_time": -200,
+    "gap_years": 2,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "刘邦称帝",
+    "effect": "白登之围",
+    "cause_time": -202,
+    "effect_time": -200,
+    "gap_years": 2,
+    "shared_participants": [
+      "刘邦"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "刘邦称帝",
+    "effect": "吕后称制",
+    "cause_time": -202,
+    "effect_time": -194,
+    "gap_years": 8,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "白登之围",
+    "effect": "诸吕之乱",
+    "cause_time": -200,
+    "effect_time": -180,
+    "gap_years": 20,
+    "shared_participants": [
+      "陈平"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "吕后称制",
+    "effect": "诸吕之乱",
+    "cause_time": -194,
+    "effect_time": -180,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "吕后称制",
+    "effect": "文景之治",
+    "cause_time": -194,
+    "effect_time": -179,
+    "gap_years": 15,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "诸吕之乱",
+    "effect": "文景之治",
+    "cause_time": -180,
+    "effect_time": -179,
+    "gap_years": 1,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "文景之治",
+    "effect": "贾谊治安策",
+    "cause_time": -179,
+    "effect_time": -174,
+    "gap_years": 5,
+    "shared_participants": [
+      "汉文帝",
+      "贾谊"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "张骞出使西域",
+    "effect": "独尊儒术",
+    "cause_time": -138,
+    "effect_time": -134,
+    "gap_years": 4,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "张骞出使西域",
+    "effect": "马邑之谋",
+    "cause_time": -138,
+    "effect_time": -133,
+    "gap_years": 5,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "张骞出使西域",
+    "effect": "推恩令",
+    "cause_time": -138,
+    "effect_time": -127,
+    "gap_years": 11,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "独尊儒术",
+    "effect": "马邑之谋",
+    "cause_time": -134,
+    "effect_time": -133,
+    "gap_years": 1,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "独尊儒术",
+    "effect": "推恩令",
+    "cause_time": -134,
+    "effect_time": -127,
+    "gap_years": 7,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "马邑之谋",
+    "effect": "推恩令",
+    "cause_time": -133,
+    "effect_time": -127,
+    "gap_years": 6,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "马邑之谋",
+    "effect": "漠南之战",
+    "cause_time": -133,
+    "effect_time": -127,
+    "gap_years": 6,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "马邑之谋",
+    "effect": "漠北之战",
+    "cause_time": -133,
+    "effect_time": -119,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "漠南之战",
+    "effect": "漠北之战",
+    "cause_time": -127,
+    "effect_time": -119,
+    "gap_years": 8,
+    "shared_participants": [
+      "卫青"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "司马迁著史记",
+    "effect": "巫蛊之祸",
+    "cause_time": -99,
+    "effect_time": -91,
+    "gap_years": 8,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "司马迁著史记",
+    "effect": "轮台诏",
+    "cause_time": -99,
+    "effect_time": -89,
+    "gap_years": 10,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "巫蛊之祸",
+    "effect": "轮台诏",
+    "cause_time": -91,
+    "effect_time": -89,
+    "gap_years": 2,
+    "shared_participants": [
+      "汉武帝"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "巫蛊之祸",
+    "effect": "霍光辅政",
+    "cause_time": -91,
+    "effect_time": -87,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "轮台诏",
+    "effect": "霍光辅政",
+    "cause_time": -89,
+    "effect_time": -87,
+    "gap_years": 2,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "王莽篡汉",
+    "effect": "王莽改制",
+    "cause_time": 8,
+    "effect_time": 9,
+    "gap_years": 1,
+    "shared_participants": [
+      "王莽"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "王莽篡汉",
+    "effect": "刘秀称帝",
+    "cause_time": 8,
+    "effect_time": 25,
+    "gap_years": 17,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "绿林赤眉起义",
+    "effect": "昆阳之战",
+    "cause_time": 17,
+    "effect_time": 23,
+    "gap_years": 6,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "昆阳之战",
+    "effect": "刘秀称帝",
+    "cause_time": 23,
+    "effect_time": 25,
+    "gap_years": 2,
+    "shared_participants": [
+      "刘秀"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "黄巾起义",
+    "effect": "官渡之战",
+    "cause_time": 184,
+    "effect_time": 200,
+    "gap_years": 16,
+    "shared_participants": [
+      "曹操"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "董卓之乱",
+    "effect": "官渡之战",
+    "cause_time": 189,
+    "effect_time": 200,
+    "gap_years": 11,
+    "shared_participants": [
+      "袁绍"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "官渡之战",
+    "effect": "赤壁之战",
+    "cause_time": 200,
+    "effect_time": 208,
+    "gap_years": 8,
+    "shared_participants": [
+      "曹操"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "赤壁之战",
+    "effect": "夷陵之战",
+    "cause_time": 208,
+    "effect_time": 221,
+    "gap_years": 13,
+    "shared_participants": [
+      "刘备",
+      "孙权"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "赤壁之战",
+    "effect": "七擒孟获",
+    "cause_time": 208,
+    "effect_time": 225,
+    "gap_years": 17,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "赤壁之战",
+    "effect": "出师表",
+    "cause_time": 208,
+    "effect_time": 227,
+    "gap_years": 19,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "赤壁之战",
+    "effect": "失街亭",
+    "cause_time": 208,
+    "effect_time": 228,
+    "gap_years": 20,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "曹丕篡汉",
+    "effect": "出师表",
+    "cause_time": 220,
+    "effect_time": 227,
+    "gap_years": 7,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "夷陵之战",
+    "effect": "七擒孟获",
+    "cause_time": 221,
+    "effect_time": 225,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "夷陵之战",
+    "effect": "失街亭",
+    "cause_time": 221,
+    "effect_time": 228,
+    "gap_years": 7,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "夷陵之战",
+    "effect": "五丈原",
+    "cause_time": 221,
+    "effect_time": 234,
+    "gap_years": 13,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "七擒孟获",
+    "effect": "出师表",
+    "cause_time": 225,
+    "effect_time": 227,
+    "gap_years": 2,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "七擒孟获",
+    "effect": "失街亭",
+    "cause_time": 225,
+    "effect_time": 228,
+    "gap_years": 3,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "七擒孟获",
+    "effect": "五丈原",
+    "cause_time": 225,
+    "effect_time": 234,
+    "gap_years": 9,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "出师表",
+    "effect": "失街亭",
+    "cause_time": 227,
+    "effect_time": 228,
+    "gap_years": 1,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "出师表",
+    "effect": "五丈原",
+    "cause_time": 227,
+    "effect_time": 234,
+    "gap_years": 7,
+    "shared_participants": [
+      "诸葛亮"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "失街亭",
+    "effect": "五丈原",
+    "cause_time": 228,
+    "effect_time": 234,
+    "gap_years": 6,
+    "shared_participants": [
+      "司马懿",
+      "诸葛亮"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "五丈原",
+    "effect": "高平陵之变",
+    "cause_time": 234,
+    "effect_time": 249,
+    "gap_years": 15,
+    "shared_participants": [
+      "司马懿"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "高平陵之变",
+    "effect": "淮南三叛",
+    "cause_time": 249,
+    "effect_time": 255,
+    "gap_years": 6,
+    "shared_participants": [
+      "司马师"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "高平陵之变",
+    "effect": "司马昭弑君",
+    "cause_time": 249,
+    "effect_time": 260,
+    "gap_years": 11,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "高平陵之变",
+    "effect": "司马炎代魏",
+    "cause_time": 249,
+    "effect_time": 265,
+    "gap_years": 16,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "淮南三叛",
+    "effect": "司马昭弑君",
+    "cause_time": 255,
+    "effect_time": 260,
+    "gap_years": 5,
+    "shared_participants": [
+      "司马昭"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "淮南三叛",
+    "effect": "邓艾灭蜀",
+    "cause_time": 255,
+    "effect_time": 263,
+    "gap_years": 8,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "司马昭弑君",
+    "effect": "司马炎代魏",
+    "cause_time": 260,
+    "effect_time": 265,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "邓艾灭蜀",
+    "effect": "羊祜杜预灭吴",
+    "cause_time": 263,
+    "effect_time": 280,
+    "gap_years": 17,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "司马炎代魏",
+    "effect": "羊祜杜预灭吴",
+    "cause_time": 265,
+    "effect_time": 280,
+    "gap_years": 15,
+    "shared_participants": [
+      "司马炎"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "永嘉之乱",
+    "effect": "苏峻之乱",
+    "cause_time": 311,
+    "effect_time": 327,
+    "gap_years": 16,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "衣冠南渡",
+    "effect": "王敦之乱",
+    "cause_time": 317,
+    "effect_time": 322,
+    "gap_years": 5,
+    "shared_participants": [
+      "司马睿",
+      "王导"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "冉闵杀胡",
+    "effect": "桓温北伐",
+    "cause_time": 349,
+    "effect_time": 354,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "冉闵杀胡",
+    "effect": "枋头之战",
+    "cause_time": 349,
+    "effect_time": 369,
+    "gap_years": 20,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "桓温北伐",
+    "effect": "枋头之战",
+    "cause_time": 354,
+    "effect_time": 369,
+    "gap_years": 15,
+    "shared_participants": [
+      "桓温",
+      "慕容垂"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "桓温北伐",
+    "effect": "王猛辅秦",
+    "cause_time": 354,
+    "effect_time": 370,
+    "gap_years": 16,
+    "shared_participants": [
+      "苻坚"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "枋头之战",
+    "effect": "淝水之战",
+    "cause_time": 369,
+    "effect_time": 383,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "王猛辅秦",
+    "effect": "淝水之战",
+    "cause_time": 370,
+    "effect_time": 383,
+    "gap_years": 13,
+    "shared_participants": [
+      "苻坚"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "淝水之战",
+    "effect": "参合陂之战",
+    "cause_time": 383,
+    "effect_time": 395,
+    "gap_years": 12,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "淝水之战",
+    "effect": "孙恩卢循之乱",
+    "cause_time": 383,
+    "effect_time": 399,
+    "gap_years": 16,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "参合陂之战",
+    "effect": "孙恩卢循之乱",
+    "cause_time": 395,
+    "effect_time": 399,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "孙恩卢循之乱",
+    "effect": "桓玄篡晋",
+    "cause_time": 399,
+    "effect_time": 403,
+    "gap_years": 4,
+    "shared_participants": [
+      "刘裕"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "孙恩卢循之乱",
+    "effect": "刘裕北伐",
+    "cause_time": 399,
+    "effect_time": 416,
+    "gap_years": 17,
+    "shared_participants": [
+      "刘裕"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "桓玄篡晋",
+    "effect": "刘裕北伐",
+    "cause_time": 403,
+    "effect_time": 416,
+    "gap_years": 13,
+    "shared_participants": [
+      "刘裕"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "桓玄篡晋",
+    "effect": "刘裕代晋",
+    "cause_time": 403,
+    "effect_time": 420,
+    "gap_years": 17,
+    "shared_participants": [
+      "刘裕"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "刘裕北伐",
+    "effect": "刘裕代晋",
+    "cause_time": 416,
+    "effect_time": 420,
+    "gap_years": 4,
+    "shared_participants": [
+      "刘裕"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "刘裕代晋",
+    "effect": "元嘉之治",
+    "cause_time": 420,
+    "effect_time": 424,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "北魏灭佛",
+    "effect": "元嘉北伐",
+    "cause_time": 446,
+    "effect_time": 450,
+    "gap_years": 4,
+    "shared_participants": [
+      "拓跋焘"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "北魏灭佛",
+    "effect": "国史之狱",
+    "cause_time": 446,
+    "effect_time": 450,
+    "gap_years": 4,
+    "shared_participants": [
+      "拓跋焘",
+      "崔浩"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "元嘉北伐",
+    "effect": "国史之狱",
+    "cause_time": 450,
+    "effect_time": 450,
+    "gap_years": 0,
+    "shared_participants": [
+      "拓跋焘"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "孝文帝迁都",
+    "effect": "孝文帝汉化改革",
+    "cause_time": 493,
+    "effect_time": 494,
+    "gap_years": 1,
+    "shared_participants": [
+      "李冲",
+      "拓跋宏"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "六镇起义",
+    "effect": "河阴之变",
+    "cause_time": 523,
+    "effect_time": 528,
+    "gap_years": 5,
+    "shared_participants": [
+      "尔朱荣",
+      "元诩"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "六镇起义",
+    "effect": "高欢起兵",
+    "cause_time": 523,
+    "effect_time": 531,
+    "gap_years": 8,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "六镇起义",
+    "effect": "沙苑之战",
+    "cause_time": 523,
+    "effect_time": 537,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "河阴之变",
+    "effect": "北魏分裂",
+    "cause_time": 528,
+    "effect_time": 534,
+    "gap_years": 6,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "高欢起兵",
+    "effect": "北魏分裂",
+    "cause_time": 531,
+    "effect_time": 534,
+    "gap_years": 3,
+    "shared_participants": [
+      "高欢"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "高欢起兵",
+    "effect": "沙苑之战",
+    "cause_time": 531,
+    "effect_time": 537,
+    "gap_years": 6,
+    "shared_participants": [
+      "高欢"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "高欢起兵",
+    "effect": "侯景之乱",
+    "cause_time": 531,
+    "effect_time": 548,
+    "gap_years": 17,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "北魏分裂",
+    "effect": "沙苑之战",
+    "cause_time": 534,
+    "effect_time": 537,
+    "gap_years": 3,
+    "shared_participants": [
+      "高欢",
+      "宇文泰"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "沙苑之战",
+    "effect": "侯景之乱",
+    "cause_time": 537,
+    "effect_time": 548,
+    "gap_years": 11,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "宇文邕灭佛",
+    "effect": "周武帝灭齐",
+    "cause_time": 574,
+    "effect_time": 577,
+    "gap_years": 3,
+    "shared_participants": [
+      "宇文邕"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "周武帝灭齐",
+    "effect": "隋灭陈",
+    "cause_time": 577,
+    "effect_time": 589,
+    "gap_years": 12,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "杨坚代周",
+    "effect": "隋灭陈",
+    "cause_time": 581,
+    "effect_time": 589,
+    "gap_years": 8,
+    "shared_participants": [
+      "杨坚"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "隋灭陈",
+    "effect": "杨广弑父夺嫡",
+    "cause_time": 589,
+    "effect_time": 604,
+    "gap_years": 15,
+    "shared_participants": [
+      "杨坚",
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "隋灭陈",
+    "effect": "开凿大运河",
+    "cause_time": 589,
+    "effect_time": 605,
+    "gap_years": 16,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "隋灭陈",
+    "effect": "创立科举制",
+    "cause_time": 589,
+    "effect_time": 605,
+    "gap_years": 16,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨广弑父夺嫡",
+    "effect": "开凿大运河",
+    "cause_time": 604,
+    "effect_time": 605,
+    "gap_years": 1,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨广弑父夺嫡",
+    "effect": "创立科举制",
+    "cause_time": 604,
+    "effect_time": 605,
+    "gap_years": 1,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨广弑父夺嫡",
+    "effect": "三征高丽",
+    "cause_time": 604,
+    "effect_time": 612,
+    "gap_years": 8,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨广弑父夺嫡",
+    "effect": "杨玄感起兵",
+    "cause_time": 604,
+    "effect_time": 613,
+    "gap_years": 9,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "开凿大运河",
+    "effect": "创立科举制",
+    "cause_time": 605,
+    "effect_time": 605,
+    "gap_years": 0,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "开凿大运河",
+    "effect": "三征高丽",
+    "cause_time": 605,
+    "effect_time": 612,
+    "gap_years": 7,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "创立科举制",
+    "effect": "三征高丽",
+    "cause_time": 605,
+    "effect_time": 612,
+    "gap_years": 7,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "开凿大运河",
+    "effect": "杨玄感起兵",
+    "cause_time": 605,
+    "effect_time": 613,
+    "gap_years": 8,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "创立科举制",
+    "effect": "杨玄感起兵",
+    "cause_time": 605,
+    "effect_time": 613,
+    "gap_years": 8,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "创立科举制",
+    "effect": "江都之变",
+    "cause_time": 605,
+    "effect_time": 618,
+    "gap_years": 13,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "三征高丽",
+    "effect": "杨玄感起兵",
+    "cause_time": 612,
+    "effect_time": 613,
+    "gap_years": 1,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "三征高丽",
+    "effect": "瓦岗军起义",
+    "cause_time": 612,
+    "effect_time": 616,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "三征高丽",
+    "effect": "李渊太原起兵",
+    "cause_time": 612,
+    "effect_time": 617,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "三征高丽",
+    "effect": "江都之变",
+    "cause_time": 612,
+    "effect_time": 618,
+    "gap_years": 6,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨玄感起兵",
+    "effect": "瓦岗军起义",
+    "cause_time": 613,
+    "effect_time": 616,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "杨玄感起兵",
+    "effect": "李渊太原起兵",
+    "cause_time": 613,
+    "effect_time": 617,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "杨玄感起兵",
+    "effect": "江都之变",
+    "cause_time": 613,
+    "effect_time": 618,
+    "gap_years": 5,
+    "shared_participants": [
+      "杨广"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "杨玄感起兵",
+    "effect": "浅水原之战",
+    "cause_time": 613,
+    "effect_time": 618,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "瓦岗军起义",
+    "effect": "李渊太原起兵",
+    "cause_time": 616,
+    "effect_time": 617,
+    "gap_years": 1,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "瓦岗军起义",
+    "effect": "浅水原之战",
+    "cause_time": 616,
+    "effect_time": 618,
+    "gap_years": 2,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "瓦岗军起义",
+    "effect": "柏壁之战",
+    "cause_time": 616,
+    "effect_time": 619,
+    "gap_years": 3,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "李渊太原起兵",
+    "effect": "唐朝建立",
+    "cause_time": 617,
+    "effect_time": 618,
+    "gap_years": 1,
+    "shared_participants": [
+      "李渊"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "李渊太原起兵",
+    "effect": "浅水原之战",
+    "cause_time": 617,
+    "effect_time": 618,
+    "gap_years": 1,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "李渊太原起兵",
+    "effect": "柏壁之战",
+    "cause_time": 617,
+    "effect_time": 619,
+    "gap_years": 2,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "李渊太原起兵",
+    "effect": "虎牢关之战",
+    "cause_time": 617,
+    "effect_time": 621,
+    "gap_years": 4,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "浅水原之战",
+    "effect": "柏壁之战",
+    "cause_time": 618,
+    "effect_time": 619,
+    "gap_years": 1,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "浅水原之战",
+    "effect": "虎牢关之战",
+    "cause_time": 618,
+    "effect_time": 621,
+    "gap_years": 3,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "江都之变",
+    "effect": "玄武门之变",
+    "cause_time": 618,
+    "effect_time": 626,
+    "gap_years": 8,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "浅水原之战",
+    "effect": "玄武门之变",
+    "cause_time": 618,
+    "effect_time": 626,
+    "gap_years": 8,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "唐朝建立",
+    "effect": "贞观之治",
+    "cause_time": 618,
+    "effect_time": 627,
+    "gap_years": 9,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "浅水原之战",
+    "effect": "贞观之治",
+    "cause_time": 618,
+    "effect_time": 627,
+    "gap_years": 9,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "柏壁之战",
+    "effect": "虎牢关之战",
+    "cause_time": 619,
+    "effect_time": 621,
+    "gap_years": 2,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "柏壁之战",
+    "effect": "玄武门之变",
+    "cause_time": 619,
+    "effect_time": 626,
+    "gap_years": 7,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "柏壁之战",
+    "effect": "贞观之治",
+    "cause_time": 619,
+    "effect_time": 627,
+    "gap_years": 8,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "柏壁之战",
+    "effect": "灭东突厥",
+    "cause_time": 619,
+    "effect_time": 630,
+    "gap_years": 11,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "虎牢关之战",
+    "effect": "玄武门之变",
+    "cause_time": 621,
+    "effect_time": 626,
+    "gap_years": 5,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "虎牢关之战",
+    "effect": "贞观之治",
+    "cause_time": 621,
+    "effect_time": 627,
+    "gap_years": 6,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "虎牢关之战",
+    "effect": "灭东突厥",
+    "cause_time": 621,
+    "effect_time": 630,
+    "gap_years": 9,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "虎牢关之战",
+    "effect": "灭吐谷浑",
+    "cause_time": 621,
+    "effect_time": 635,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "玄武门之变",
+    "effect": "贞观之治",
+    "cause_time": 626,
+    "effect_time": 627,
+    "gap_years": 1,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "玄武门之变",
+    "effect": "灭东突厥",
+    "cause_time": 626,
+    "effect_time": 630,
+    "gap_years": 4,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "玄武门之变",
+    "effect": "文成公主入藏",
+    "cause_time": 626,
+    "effect_time": 641,
+    "gap_years": 15,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "贞观之治",
+    "effect": "灭东突厥",
+    "cause_time": 627,
+    "effect_time": 630,
+    "gap_years": 3,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "贞观之治",
+    "effect": "文成公主入藏",
+    "cause_time": 627,
+    "effect_time": 641,
+    "gap_years": 14,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "灭东突厥",
+    "effect": "灭吐谷浑",
+    "cause_time": 630,
+    "effect_time": 635,
+    "gap_years": 5,
+    "shared_participants": [
+      "李靖"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "灭东突厥",
+    "effect": "文成公主入藏",
+    "cause_time": 630,
+    "effect_time": 641,
+    "gap_years": 11,
+    "shared_participants": [
+      "李世民"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "武则天称帝",
+    "effect": "神龙政变",
+    "cause_time": 690,
+    "effect_time": 705,
+    "gap_years": 15,
+    "shared_participants": [
+      "武则天"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "武则天称帝",
+    "effect": "唐隆政变",
+    "cause_time": 690,
+    "effect_time": 710,
+    "gap_years": 20,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "神龙政变",
+    "effect": "唐隆政变",
+    "cause_time": 705,
+    "effect_time": 710,
+    "gap_years": 5,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "唐隆政变",
+    "effect": "开元盛世",
+    "cause_time": 710,
+    "effect_time": 713,
+    "gap_years": 3,
+    "shared_participants": [
+      "李隆基"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "怛罗斯之战",
+    "effect": "安史之乱",
+    "cause_time": 751,
+    "effect_time": 755,
+    "gap_years": 4,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "怛罗斯之战",
+    "effect": "睢阳保卫战",
+    "cause_time": 751,
+    "effect_time": 757,
+    "gap_years": 6,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "怛罗斯之战",
+    "effect": "史朝义败亡",
+    "cause_time": 751,
+    "effect_time": 763,
+    "gap_years": 12,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "安史之乱",
+    "effect": "马嵬驿之变",
+    "cause_time": 755,
+    "effect_time": 756,
+    "gap_years": 1,
+    "shared_participants": [
+      "李隆基",
+      "杨国忠"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "安史之乱",
+    "effect": "灵武即位",
+    "cause_time": 755,
+    "effect_time": 756,
+    "gap_years": 1,
+    "shared_participants": [
+      "李隆基"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "安史之乱",
+    "effect": "睢阳保卫战",
+    "cause_time": 755,
+    "effect_time": 757,
+    "gap_years": 2,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "安史之乱",
+    "effect": "史朝义败亡",
+    "cause_time": 755,
+    "effect_time": 763,
+    "gap_years": 8,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "安史之乱",
+    "effect": "仆固怀恩之叛",
+    "cause_time": 755,
+    "effect_time": 764,
+    "gap_years": 9,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "马嵬驿之变",
+    "effect": "灵武即位",
+    "cause_time": 756,
+    "effect_time": 756,
+    "gap_years": 0,
+    "shared_participants": [
+      "李隆基"
+    ],
+    "same_category": false
+  },
+  {
+    "cause": "睢阳保卫战",
+    "effect": "史朝义败亡",
+    "cause_time": 757,
+    "effect_time": 763,
+    "gap_years": 6,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "睢阳保卫战",
+    "effect": "仆固怀恩之叛",
+    "cause_time": 757,
+    "effect_time": 764,
+    "gap_years": 7,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "史朝义败亡",
+    "effect": "仆固怀恩之叛",
+    "cause_time": 763,
+    "effect_time": 764,
+    "gap_years": 1,
+    "shared_participants": [
+      "郭子仪"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "裘甫起义",
+    "effect": "庞勋之变",
+    "cause_time": 859,
+    "effect_time": 868,
+    "gap_years": 9,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "裘甫起义",
+    "effect": "黄巢起义",
+    "cause_time": 859,
+    "effect_time": 875,
+    "gap_years": 16,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "庞勋之变",
+    "effect": "黄巢起义",
+    "cause_time": 868,
+    "effect_time": 875,
+    "gap_years": 7,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "庞勋之变",
+    "effect": "黄巢陷长安",
+    "cause_time": 868,
+    "effect_time": 880,
+    "gap_years": 12,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "庞勋之变",
+    "effect": "朱温降唐",
+    "cause_time": 868,
+    "effect_time": 882,
+    "gap_years": 14,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "黄巢起义",
+    "effect": "黄巢陷长安",
+    "cause_time": 875,
+    "effect_time": 880,
+    "gap_years": 5,
+    "shared_participants": [
+      "黄巢"
+    ],
+    "same_category": true
+  },
+  {
+    "cause": "黄巢起义",
+    "effect": "朱温降唐",
+    "cause_time": 875,
+    "effect_time": 882,
+    "gap_years": 7,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "黄巢陷长安",
+    "effect": "朱温降唐",
+    "cause_time": 880,
+    "effect_time": 882,
+    "gap_years": 2,
+    "shared_participants": [],
+    "same_category": true
+  },
+  {
+    "cause": "陈桥兵变",
+    "effect": "南唐后主李煜亡国",
+    "cause_time": 960,
+    "effect_time": 975,
+    "gap_years": 15,
+    "shared_participants": [
+      "赵匡胤"
+    ],
+    "same_category": false
+  }
+]

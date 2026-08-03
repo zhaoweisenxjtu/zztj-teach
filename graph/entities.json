@@ -1,0 +1,6894 @@
+[
+  {
+    "name": "李世民",
+    "alias": [
+      "唐太宗",
+      "秦王"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝第二位皇帝，贞观之治",
+    "first_appear": "617",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 830,
+    "year_override": 617
+  },
+  {
+    "name": "刘邦",
+    "alias": [
+      "汉高祖",
+      "汉王",
+      "沛公"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝开国皇帝",
+    "first_appear": "-209",
+    "last_appear": "955",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 548,
+    "year_override": null
+  },
+  {
+    "name": "朱温",
+    "alias": [
+      "朱全忠",
+      "朱晃",
+      "后梁太祖"
+    ],
+    "power": "后梁",
+    "llm_introduction": "灭唐建梁",
+    "first_appear": "877",
+    "last_appear": "953",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 522,
+    "year_override": 877
+  },
+  {
+    "name": "曹操",
+    "alias": [
+      "魏武帝",
+      "孟德"
+    ],
+    "power": "东汉/曹魏",
+    "llm_introduction": "魏国奠基者",
+    "first_appear": "184",
+    "last_appear": "950",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 422,
+    "year_override": null
+  },
+  {
+    "name": "李隆基",
+    "alias": [
+      "唐玄宗",
+      "唐明皇",
+      "李三郎"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝皇帝，开元盛世、安史之乱",
+    "first_appear": "710",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百零四卷(唐纪)",
+    "mention_count": 400,
+    "year_override": 710
+  },
+  {
+    "name": "李元吉",
+    "alias": [
+      "齐王"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "李渊第四子，玄武门之变被杀",
+    "first_appear": "617",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 369,
+    "year_override": 617
+  },
+  {
+    "name": "刘秀",
+    "alias": [
+      "汉光武帝"
+    ],
+    "power": "东汉",
+    "llm_introduction": "东汉开国皇帝",
+    "first_appear": "-7",
+    "last_appear": "950",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 359,
+    "year_override": null
+  },
+  {
+    "name": "萧衍",
+    "alias": [
+      "梁武帝",
+      "萧叔达"
+    ],
+    "power": "南梁",
+    "llm_introduction": "南梁开国皇帝，佞佛",
+    "first_appear": "484",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第一百三十六卷(齐纪)",
+    "mention_count": 345,
+    "year_override": null
+  },
+  {
+    "name": "杨坚",
+    "alias": [
+      "隋文帝"
+    ],
+    "power": "隋朝",
+    "llm_introduction": "隋朝开国皇帝，统一天下",
+    "first_appear": "541",
+    "last_appear": "806",
+    "first_chapter": "资治通鉴第九十卷(晋纪)",
+    "mention_count": 331,
+    "year_override": 541
+  },
+  {
+    "name": "汉武帝",
+    "alias": [
+      "刘彻"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝，开疆拓土",
+    "first_appear": "-141",
+    "last_appear": "933",
+    "first_chapter": "资治通鉴第十一卷(汉纪)",
+    "mention_count": 300,
+    "year_override": -141
+  },
+  {
+    "name": "侯景",
+    "alias": [],
+    "power": "侯汉",
+    "llm_introduction": "侯景之乱，饿死梁武帝",
+    "first_appear": "531",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 266,
+    "year_override": 531
+  },
+  {
+    "name": "王莽",
+    "alias": [],
+    "power": "新朝",
+    "llm_introduction": "新朝建立者",
+    "first_appear": "-80",
+    "last_appear": "937",
+    "first_chapter": "资治通鉴第二十三卷(汉纪)",
+    "mention_count": 262,
+    "year_override": null
+  },
+  {
+    "name": "刘裕",
+    "alias": [
+      "刘寄奴",
+      "宋武帝"
+    ],
+    "power": "刘宋",
+    "llm_introduction": "刘宋开国皇帝",
+    "first_appear": "399",
+    "last_appear": "641",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 251,
+    "year_override": 399
+  },
+  {
+    "name": "拓跋焘",
+    "alias": [
+      "魏太武帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝，统一北方",
+    "first_appear": "422",
+    "last_appear": "494",
+    "first_chapter": "资治通鉴第一百一十九卷(宋纪)",
+    "mention_count": 244,
+    "year_override": null
+  },
+  {
+    "name": "李泰",
+    "alias": [
+      "魏王"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐太宗第四子，争太子位",
+    "first_appear": "630",
+    "last_appear": "948",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 243,
+    "year_override": 630
+  },
+  {
+    "name": "王建",
+    "alias": [],
+    "power": "前蜀",
+    "llm_introduction": "前蜀开国皇帝",
+    "first_appear": "891",
+    "last_appear": "949",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 227,
+    "year_override": 891
+  },
+  {
+    "name": "李旦",
+    "alias": [
+      "唐睿宗",
+      "相王"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝皇帝，二次即位",
+    "first_appear": "684",
+    "last_appear": "957",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 218,
+    "year_override": 684
+  },
+  {
+    "name": "李克用",
+    "alias": [
+      "李鸦儿",
+      "独眼龙"
+    ],
+    "power": "唐朝/后唐",
+    "llm_introduction": "沙陀族首领，河东节度使",
+    "first_appear": "878",
+    "last_appear": "934",
+    "first_chapter": "资治通鉴第二百五十三卷(唐纪)",
+    "mention_count": 217,
+    "year_override": 878
+  },
+  {
+    "name": "李显",
+    "alias": [
+      "唐中宗",
+      "李哲"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝皇帝，二次即位",
+    "first_appear": "684",
+    "last_appear": "754",
+    "first_chapter": "资治通鉴第一百五十四卷(梁纪)",
+    "mention_count": 216,
+    "year_override": 684
+  },
+  {
+    "name": "苻坚",
+    "alias": [
+      "苻永固"
+    ],
+    "power": "前秦",
+    "llm_introduction": "前秦皇帝，淝水之战败亡",
+    "first_appear": "354",
+    "last_appear": "882",
+    "first_chapter": "资治通鉴第九十九卷(晋纪)",
+    "mention_count": 213,
+    "year_override": null
+  },
+  {
+    "name": "石敬瑭",
+    "alias": [
+      "后晋高祖",
+      "儿皇帝"
+    ],
+    "power": "后晋",
+    "llm_introduction": "后晋开国皇帝，割燕云十六州",
+    "first_appear": "936",
+    "last_appear": "954",
+    "first_chapter": "资治通鉴第二百七十一卷(后梁纪)",
+    "mention_count": 211,
+    "year_override": 936
+  },
+  {
+    "name": "高欢",
+    "alias": [
+      "贺六浑"
+    ],
+    "power": "东魏/北齐",
+    "llm_introduction": "东魏权臣，北齐奠基者",
+    "first_appear": "519",
+    "last_appear": "600",
+    "first_chapter": "资治通鉴第一百四十九卷(梁纪)",
+    "mention_count": 206,
+    "year_override": null
+  },
+  {
+    "name": "李治",
+    "alias": [
+      "唐高宗"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝第三位皇帝",
+    "first_appear": "643",
+    "last_appear": "939",
+    "first_chapter": "资治通鉴第一百九十三卷(唐纪)",
+    "mention_count": 203,
+    "year_override": 643
+  },
+  {
+    "name": "武则天",
+    "alias": [
+      "武曌",
+      "武后",
+      "则天皇后",
+      "武媚娘"
+    ],
+    "power": "周朝",
+    "llm_introduction": "中国唯一女皇帝",
+    "first_appear": "655",
+    "last_appear": "843",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 200,
+    "year_override": 655
+  },
+  {
+    "name": "汉宣帝",
+    "alias": [
+      "刘询"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝，孝宣中兴",
+    "first_appear": "-74",
+    "last_appear": "915",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 179,
+    "year_override": null
+  },
+  {
+    "name": "宇文泰",
+    "alias": [
+      "黑獭"
+    ],
+    "power": "西魏/北周",
+    "llm_introduction": "西魏权臣，北周奠基者",
+    "first_appear": "528",
+    "last_appear": "581",
+    "first_chapter": "资治通鉴第一百五十二卷(梁纪)",
+    "mention_count": 175,
+    "year_override": null
+  },
+  {
+    "name": "项羽",
+    "alias": [
+      "项王",
+      "西楚霸王"
+    ],
+    "power": "西楚",
+    "llm_introduction": "西楚霸王，楚汉争霸",
+    "first_appear": "-209",
+    "last_appear": "784",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 166,
+    "year_override": null
+  },
+  {
+    "name": "郭威",
+    "alias": [
+      "后周太祖"
+    ],
+    "power": "后周",
+    "llm_introduction": "后周开国皇帝",
+    "first_appear": "948",
+    "last_appear": "955",
+    "first_chapter": "资治通鉴第二百七十二卷(后唐纪)",
+    "mention_count": 164,
+    "year_override": 948
+  },
+  {
+    "name": "慕容垂",
+    "alias": [],
+    "power": "后燕",
+    "llm_introduction": "后燕开国皇帝",
+    "first_appear": "354",
+    "last_appear": "417",
+    "first_chapter": "资治通鉴第九十九卷(晋纪)",
+    "mention_count": 161,
+    "year_override": null
+  },
+  {
+    "name": "刘备",
+    "alias": [
+      "玄德",
+      "刘豫州"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉开国皇帝",
+    "first_appear": "191",
+    "last_appear": "920",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 158,
+    "year_override": null
+  },
+  {
+    "name": "李渊",
+    "alias": [
+      "唐高祖",
+      "李叔德"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐朝开国皇帝",
+    "first_appear": "617",
+    "last_appear": "939",
+    "first_chapter": "资治通鉴第一百七十五卷(陈纪)",
+    "mention_count": 157,
+    "year_override": 617
+  },
+  {
+    "name": "司马炎",
+    "alias": [
+      "晋武帝"
+    ],
+    "power": "西晋",
+    "llm_introduction": "西晋开国皇帝",
+    "first_appear": "265",
+    "last_appear": "648",
+    "first_chapter": "资治通鉴第七十七卷(魏纪)",
+    "mention_count": 153,
+    "year_override": 265
+  },
+  {
+    "name": "石勒",
+    "alias": [
+      "赵明帝"
+    ],
+    "power": "后赵",
+    "llm_introduction": "后赵开国皇帝，奴隶出身",
+    "first_appear": "304",
+    "last_appear": "736",
+    "first_chapter": "资治通鉴第四十七卷(汉纪)",
+    "mention_count": 152,
+    "year_override": 304
+  },
+  {
+    "name": "安禄山",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "三镇节度使，安史之乱发动者",
+    "first_appear": "740",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百一十四卷(唐纪)",
+    "mention_count": 151,
+    "year_override": 740
+  },
+  {
+    "name": "杨行密",
+    "alias": [],
+    "power": "吴国",
+    "llm_introduction": "吴国奠基者",
+    "first_appear": "886",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第二百五十六卷(唐纪)",
+    "mention_count": 150,
+    "year_override": 886
+  },
+  {
+    "name": "郭子仪",
+    "alias": [
+      "郭令公",
+      "郭汾阳"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "中兴名将，平定安史之乱",
+    "first_appear": "755",
+    "last_appear": "924",
+    "first_chapter": "资治通鉴第二百一十六卷(唐纪)",
+    "mention_count": 148,
+    "year_override": 755
+  },
+  {
+    "name": "刘义隆",
+    "alias": [
+      "宋文帝"
+    ],
+    "power": "刘宋",
+    "llm_introduction": "刘宋皇帝，元嘉之治",
+    "first_appear": "410",
+    "last_appear": "494",
+    "first_chapter": "资治通鉴第一百一十五卷(晋纪)",
+    "mention_count": 146,
+    "year_override": null
+  },
+  {
+    "name": "袁绍",
+    "alias": [
+      "本初"
+    ],
+    "power": "东汉",
+    "llm_introduction": "军阀",
+    "first_appear": "169",
+    "last_appear": "937",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 143,
+    "year_override": null
+  },
+  {
+    "name": "李德裕",
+    "alias": [
+      "李文饶",
+      "李卫公"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "会昌中兴名相，牛李党争",
+    "first_appear": "820",
+    "last_appear": "908",
+    "first_chapter": "资治通鉴第十四卷(汉纪)",
+    "mention_count": 143,
+    "year_override": 820
+  },
+  {
+    "name": "石虎",
+    "alias": [
+      "石季龙"
+    ],
+    "power": "后赵",
+    "llm_introduction": "后赵暴君",
+    "first_appear": "311",
+    "last_appear": "954",
+    "first_chapter": "资治通鉴第八十七卷(晋纪)",
+    "mention_count": 137,
+    "year_override": null
+  },
+  {
+    "name": "李茂贞",
+    "alias": [],
+    "power": "岐国",
+    "llm_introduction": "凤翔节度使",
+    "first_appear": "886",
+    "last_appear": "924",
+    "first_chapter": "资治通鉴第二百五十六卷(唐纪)",
+    "mention_count": 137,
+    "year_override": 886
+  },
+  {
+    "name": "孙权",
+    "alias": [
+      "仲谋"
+    ],
+    "power": "东吴",
+    "llm_introduction": "东吴开国皇帝",
+    "first_appear": "194",
+    "last_appear": "860",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 136,
+    "year_override": null
+  },
+  {
+    "name": "诸葛亮",
+    "alias": [
+      "孔明"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉丞相",
+    "first_appear": "207",
+    "last_appear": "904",
+    "first_chapter": "资治通鉴第六十五卷(汉纪)",
+    "mention_count": 135,
+    "year_override": null
+  },
+  {
+    "name": "王世充",
+    "alias": [],
+    "power": "郑国",
+    "llm_introduction": "隋末军阀，据洛阳称帝",
+    "first_appear": "613",
+    "last_appear": "642",
+    "first_chapter": "资治通鉴第一百八十一卷(隋纪)",
+    "mention_count": 135,
+    "year_override": 613
+  },
+  {
+    "name": "黄巢",
+    "alias": [],
+    "power": "大齐",
+    "llm_introduction": "黄巢起义领袖",
+    "first_appear": "875",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百五十二卷(唐纪)",
+    "mention_count": 135,
+    "year_override": 875
+  },
+  {
+    "name": "拓跋宏",
+    "alias": [
+      "元宏",
+      "魏孝文帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝，迁都洛阳汉化改革",
+    "first_appear": "471",
+    "last_appear": "641",
+    "first_chapter": "资治通鉴第一百一十九卷(宋纪)",
+    "mention_count": 133,
+    "year_override": 471
+  },
+  {
+    "name": "柴荣",
+    "alias": [
+      "后周世宗",
+      "柴世宗"
+    ],
+    "power": "后周",
+    "llm_introduction": "后周皇帝，英年早逝",
+    "first_appear": "954",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百九十一卷(后周纪)",
+    "mention_count": 132,
+    "year_override": 954
+  },
+  {
+    "name": "桓温",
+    "alias": [
+      "桓元子"
+    ],
+    "power": "东晋",
+    "llm_introduction": "大司马，三次北伐",
+    "first_appear": "325",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第九十三卷(晋纪)",
+    "mention_count": 129,
+    "year_override": null
+  },
+  {
+    "name": "杨广",
+    "alias": [
+      "隋炀帝",
+      "杨英"
+    ],
+    "power": "隋朝",
+    "llm_introduction": "隋朝第二代皇帝，大运河、科举、征高丽，急政亡国",
+    "first_appear": "604",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第三十九卷(汉纪)",
+    "mention_count": 127,
+    "year_override": 604
+  },
+  {
+    "name": "刘知远",
+    "alias": [
+      "后汉高祖"
+    ],
+    "power": "后汉",
+    "llm_introduction": "后汉开国皇帝",
+    "first_appear": "936",
+    "last_appear": "951",
+    "first_chapter": "资治通鉴第二百七十一卷(后梁纪)",
+    "mention_count": 125,
+    "year_override": 936
+  },
+  {
+    "name": "拓跋嗣",
+    "alias": [
+      "魏明元帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝",
+    "first_appear": "400",
+    "last_appear": "431",
+    "first_chapter": "资治通鉴第一百一十一卷(晋纪)",
+    "mention_count": 116,
+    "year_override": null
+  },
+  {
+    "name": "萧道成",
+    "alias": [
+      "齐高帝"
+    ],
+    "power": "南齐",
+    "llm_introduction": "南齐开国皇帝",
+    "first_appear": "452",
+    "last_appear": "498",
+    "first_chapter": "资治通鉴第一百二十六卷(宋纪)",
+    "mention_count": 115,
+    "year_override": null
+  },
+  {
+    "name": "李密",
+    "alias": [
+      "李玄邃"
+    ],
+    "power": "瓦岗军",
+    "llm_introduction": "瓦岗军首领，降唐后叛被杀",
+    "first_appear": "616",
+    "last_appear": "947",
+    "first_chapter": "资治通鉴第七十九卷(晋纪)",
+    "mention_count": 105,
+    "year_override": 616
+  },
+  {
+    "name": "董卓",
+    "alias": [
+      "董仲颖"
+    ],
+    "power": "东汉",
+    "llm_introduction": "军阀，废少帝立献帝",
+    "first_appear": "167",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 102,
+    "year_override": null
+  },
+  {
+    "name": "韩信",
+    "alias": [
+      "淮阴侯"
+    ],
+    "power": "西汉",
+    "llm_introduction": "军事家，汉初三杰",
+    "first_appear": "-206",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 99,
+    "year_override": null
+  },
+  {
+    "name": "霍光",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司马大将军，辅政",
+    "first_appear": "-117",
+    "last_appear": "886",
+    "first_chapter": "资治通鉴第二十卷(汉纪)",
+    "mention_count": 99,
+    "year_override": null
+  },
+  {
+    "name": "陈霸先",
+    "alias": [
+      "陈武帝"
+    ],
+    "power": "南陈",
+    "llm_introduction": "南陈开国皇帝",
+    "first_appear": "549",
+    "last_appear": "589",
+    "first_chapter": "资治通鉴第一百五十八卷(梁纪)",
+    "mention_count": 99,
+    "year_override": 549
+  },
+  {
+    "name": "杨素",
+    "alias": [
+      "杨处道"
+    ],
+    "power": "隋朝",
+    "llm_introduction": "隋朝名将，灭陈有功，后助杨广夺嫡",
+    "first_appear": "581",
+    "last_appear": "934",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 99,
+    "year_override": 581
+  },
+  {
+    "name": "高洋",
+    "alias": [
+      "齐文宣帝"
+    ],
+    "power": "北齐",
+    "llm_introduction": "北齐开国皇帝",
+    "first_appear": "535",
+    "last_appear": "642",
+    "first_chapter": "资治通鉴第一百五十七卷(梁纪)",
+    "mention_count": 96,
+    "year_override": null
+  },
+  {
+    "name": "萧绎",
+    "alias": [
+      "梁元帝"
+    ],
+    "power": "南梁",
+    "llm_introduction": "南梁皇帝",
+    "first_appear": "514",
+    "last_appear": "628",
+    "first_chapter": "资治通鉴第一百四十七卷(梁纪)",
+    "mention_count": 95,
+    "year_override": null
+  },
+  {
+    "name": "钱镠",
+    "alias": [
+      "钱婆留",
+      "吴越王"
+    ],
+    "power": "吴越",
+    "llm_introduction": "吴越国开国君主",
+    "first_appear": "886",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第二百六十四卷(唐纪)",
+    "mention_count": 95,
+    "year_override": 886
+  },
+  {
+    "name": "王敦",
+    "alias": [
+      "王处仲"
+    ],
+    "power": "东晋",
+    "llm_introduction": "大将军，王导堂兄，举兵叛乱",
+    "first_appear": "300",
+    "last_appear": "617",
+    "first_chapter": "资治通鉴第八十三卷(晋纪)",
+    "mention_count": 93,
+    "year_override": null
+  },
+  {
+    "name": "萧宝卷",
+    "alias": [
+      "东昏侯"
+    ],
+    "power": "南齐",
+    "llm_introduction": "南齐暴君",
+    "first_appear": "494",
+    "last_appear": "525",
+    "first_chapter": "资治通鉴第一百三十九卷(齐纪)",
+    "mention_count": 92,
+    "year_override": null
+  },
+  {
+    "name": "曹丕",
+    "alias": [
+      "魏文帝",
+      "曹子桓"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "魏国开国皇帝",
+    "first_appear": "220",
+    "last_appear": "675",
+    "first_chapter": "资治通鉴第十四卷(汉纪)",
+    "mention_count": 91,
+    "year_override": 220
+  },
+  {
+    "name": "司马懿",
+    "alias": [
+      "仲达"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "魏国权臣",
+    "first_appear": "208",
+    "last_appear": "941",
+    "first_chapter": "资治通鉴第六十五卷(汉纪)",
+    "mention_count": 90,
+    "year_override": null
+  },
+  {
+    "name": "王导",
+    "alias": [
+      "王茂弘"
+    ],
+    "power": "东晋",
+    "llm_introduction": "丞相，王与马共天下",
+    "first_appear": "304",
+    "last_appear": "618",
+    "first_chapter": "资治通鉴第八十五卷(晋纪)",
+    "mention_count": 90,
+    "year_override": null
+  },
+  {
+    "name": "孟知祥",
+    "alias": [],
+    "power": "后蜀",
+    "llm_introduction": "后蜀开国皇帝",
+    "first_appear": "925",
+    "last_appear": "935",
+    "first_chapter": "资治通鉴第二百六十八卷(后梁纪)",
+    "mention_count": 90,
+    "year_override": 925
+  },
+  {
+    "name": "张良",
+    "alias": [
+      "子房",
+      "留侯"
+    ],
+    "power": "西汉",
+    "llm_introduction": "谋士，汉初三杰",
+    "first_appear": "-219",
+    "last_appear": "923",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 89,
+    "year_override": null
+  },
+  {
+    "name": "刘聪",
+    "alias": [],
+    "power": "汉赵",
+    "llm_introduction": "汉赵皇帝，攻破洛阳掳怀帝",
+    "first_appear": "304",
+    "last_appear": "838",
+    "first_chapter": "资治通鉴第八十五卷(晋纪)",
+    "mention_count": 89,
+    "year_override": null
+  },
+  {
+    "name": "汉文帝",
+    "alias": [
+      "刘恒"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝，文景之治",
+    "first_appear": "-196",
+    "last_appear": "938",
+    "first_chapter": "资治通鉴第十二卷(汉纪)",
+    "mention_count": 85,
+    "year_override": null
+  },
+  {
+    "name": "王猛",
+    "alias": [
+      "王景略"
+    ],
+    "power": "前秦",
+    "llm_introduction": "前秦丞相，苻坚的诸葛亮",
+    "first_appear": "354",
+    "last_appear": "489",
+    "first_chapter": "资治通鉴第九十九卷(晋纪)",
+    "mention_count": 82,
+    "year_override": null
+  },
+  {
+    "name": "陈叔宝",
+    "alias": [
+      "陈后主"
+    ],
+    "power": "南陈",
+    "llm_introduction": "南陈末代皇帝，亡国之音",
+    "first_appear": "562",
+    "last_appear": "944",
+    "first_chapter": "资治通鉴第一百六十八卷(陈纪)",
+    "mention_count": 82,
+    "year_override": null
+  },
+  {
+    "name": "刘曜",
+    "alias": [],
+    "power": "前赵",
+    "llm_introduction": "前赵皇帝",
+    "first_appear": "226",
+    "last_appear": "423",
+    "first_chapter": "资治通鉴第七十卷(魏纪)",
+    "mention_count": 81,
+    "year_override": null
+  },
+  {
+    "name": "尔朱荣",
+    "alias": [],
+    "power": "北魏",
+    "llm_introduction": "军阀，河阴之变",
+    "first_appear": "524",
+    "last_appear": "550",
+    "first_chapter": "资治通鉴第一百五十卷(梁纪)",
+    "mention_count": 81,
+    "year_override": null
+  },
+  {
+    "name": "李林甫",
+    "alias": [
+      "李哥奴"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "奸相，口蜜腹剑",
+    "first_appear": "720",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第二百一十一卷(唐纪)",
+    "mention_count": 81,
+    "year_override": 720
+  },
+  {
+    "name": "史思明",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "安禄山部将，杀安禄山自主",
+    "first_appear": "750",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百一十六卷(唐纪)",
+    "mention_count": 81,
+    "year_override": 750
+  },
+  {
+    "name": "窦建德",
+    "alias": [],
+    "power": "夏国",
+    "llm_introduction": "河北起义领袖，称夏王",
+    "first_appear": "617",
+    "last_appear": "633",
+    "first_chapter": "资治通鉴第一百八十一卷(隋纪)",
+    "mention_count": 78,
+    "year_override": 617
+  },
+  {
+    "name": "杨国忠",
+    "alias": [
+      "杨钊"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "杨贵妃堂兄，奸相，安史之乱导火索",
+    "first_appear": "745",
+    "last_appear": "829",
+    "first_chapter": "资治通鉴第二百一十五卷(唐纪)",
+    "mention_count": 78,
+    "year_override": 745
+  },
+  {
+    "name": "房玄龄",
+    "alias": [
+      "房乔"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "贞观名相，房谋杜断",
+    "first_appear": "617",
+    "last_appear": "867",
+    "first_chapter": "资治通鉴第一百七十九卷(隋纪)",
+    "mention_count": 77,
+    "year_override": 617
+  },
+  {
+    "name": "李晟",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "中兴名将，平定朱泚之乱",
+    "first_appear": "779",
+    "last_appear": "906",
+    "first_chapter": "资治通鉴第二百二十四卷(唐纪)",
+    "mention_count": 77,
+    "year_override": 779
+  },
+  {
+    "name": "马殷",
+    "alias": [],
+    "power": "楚国",
+    "llm_introduction": "楚国开国君主",
+    "first_appear": "894",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第一百五十五卷(梁纪)",
+    "mention_count": 77,
+    "year_override": 894
+  },
+  {
+    "name": "高纬",
+    "alias": [
+      "齐后主"
+    ],
+    "power": "北齐",
+    "llm_introduction": "北齐末代皇帝",
+    "first_appear": "562",
+    "last_appear": "635",
+    "first_chapter": "资治通鉴第一百六十八卷(陈纪)",
+    "mention_count": 76,
+    "year_override": null
+  },
+  {
+    "name": "裴度",
+    "alias": [
+      "裴中立"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "元和中兴名相，平定淮西",
+    "first_appear": "806",
+    "last_appear": "890",
+    "first_chapter": "资治通鉴第二百三十九卷(唐纪)",
+    "mention_count": 76,
+    "year_override": 806
+  },
+  {
+    "name": "高澄",
+    "alias": [],
+    "power": "北齐",
+    "llm_introduction": "高欢长子，东魏权臣",
+    "first_appear": "531",
+    "last_appear": "552",
+    "first_chapter": "资治通鉴第一百五十五卷(梁纪)",
+    "mention_count": 74,
+    "year_override": null
+  },
+  {
+    "name": "秦始皇",
+    "alias": [
+      "嬴政",
+      "秦王政"
+    ],
+    "power": "秦朝",
+    "llm_introduction": "秦朝开国皇帝",
+    "first_appear": "-257",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第五卷(周纪)",
+    "mention_count": 73,
+    "year_override": null
+  },
+  {
+    "name": "韦皇后",
+    "alias": [
+      "韦后"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐中宗皇后，毒杀中宗",
+    "first_appear": "684",
+    "last_appear": "759",
+    "first_chapter": "资治通鉴第二百零八卷(唐纪)",
+    "mention_count": 71,
+    "year_override": 684
+  },
+  {
+    "name": "李泌",
+    "alias": [
+      "李长源",
+      "邺侯"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "肃宗至德宗四朝谋臣，道家奇才",
+    "first_appear": "756",
+    "last_appear": "811",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 71,
+    "year_override": 756
+  },
+  {
+    "name": "徐温",
+    "alias": [],
+    "power": "吴国",
+    "llm_introduction": "吴国权臣",
+    "first_appear": "905",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第二百五十八卷(唐纪)",
+    "mention_count": 71,
+    "year_override": 905
+  },
+  {
+    "name": "李存勖",
+    "alias": [
+      "后唐庄宗",
+      "李亚子",
+      "李天下"
+    ],
+    "power": "后唐",
+    "llm_introduction": "后唐开国皇帝",
+    "first_appear": "908",
+    "last_appear": "954",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 70,
+    "year_override": 908
+  },
+  {
+    "name": "姚苌",
+    "alias": [],
+    "power": "后秦",
+    "llm_introduction": "后秦开国皇帝",
+    "first_appear": "352",
+    "last_appear": "394",
+    "first_chapter": "资治通鉴第九十九卷(晋纪)",
+    "mention_count": 69,
+    "year_override": null
+  },
+  {
+    "name": "长孙无忌",
+    "alias": [
+      "长孙辅机"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "太宗妻兄，凌烟阁第一功臣",
+    "first_appear": "617",
+    "last_appear": "787",
+    "first_chapter": "资治通鉴第一百八十四卷(隋纪)",
+    "mention_count": 69,
+    "year_override": 617
+  },
+  {
+    "name": "李光弼",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "中兴名将，契丹族",
+    "first_appear": "755",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百一十五卷(唐纪)",
+    "mention_count": 69,
+    "year_override": 755
+  },
+  {
+    "name": "刘表",
+    "alias": [
+      "刘景升",
+      "刘荆州"
+    ],
+    "power": "东汉",
+    "llm_introduction": "荆州牧",
+    "first_appear": "169",
+    "last_appear": "580",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 68,
+    "year_override": null
+  },
+  {
+    "name": "李建成",
+    "alias": [
+      "隐太子"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "李渊太子，玄武门之变被杀",
+    "first_appear": "617",
+    "last_appear": "643",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 68,
+    "year_override": 617
+  },
+  {
+    "name": "姚崇",
+    "alias": [
+      "姚元崇",
+      "姚元之"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "开元名相，十事要说",
+    "first_appear": "698",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第一百零七卷(晋纪)",
+    "mention_count": 68,
+    "year_override": 698
+  },
+  {
+    "name": "张说",
+    "alias": [
+      "张燕公",
+      "张道济"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "开元宰相，文学家",
+    "first_appear": "689",
+    "last_appear": "916",
+    "first_chapter": "资治通鉴第六十三卷(汉纪)",
+    "mention_count": 68,
+    "year_override": 689
+  },
+  {
+    "name": "袁术",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "军阀",
+    "first_appear": "169",
+    "last_appear": "519",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 67,
+    "year_override": null
+  },
+  {
+    "name": "李靖",
+    "alias": [
+      "李药师",
+      "卫公"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，灭东突厥、吐谷浑",
+    "first_appear": "617",
+    "last_appear": "917",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 67,
+    "year_override": 617
+  },
+  {
+    "name": "郭崇韬",
+    "alias": [],
+    "power": "后唐",
+    "llm_introduction": "后唐枢密使，灭前蜀",
+    "first_appear": "918",
+    "last_appear": "938",
+    "first_chapter": "资治通鉴第二百七十卷(后梁纪)",
+    "mention_count": 66,
+    "year_override": 918
+  },
+  {
+    "name": "呼韩邪",
+    "alias": [
+      "呼韩邪单于"
+    ],
+    "power": "匈奴",
+    "llm_introduction": "匈奴单于",
+    "first_appear": "-58",
+    "last_appear": "842",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 65,
+    "year_override": null
+  },
+  {
+    "name": "李昪",
+    "alias": [
+      "徐知诰",
+      "南唐烈祖"
+    ],
+    "power": "南唐",
+    "llm_introduction": "南唐开国皇帝",
+    "first_appear": "937",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 65,
+    "year_override": 937
+  },
+  {
+    "name": "陶侃",
+    "alias": [
+      "陶士行"
+    ],
+    "power": "东晋",
+    "llm_introduction": "大司马，运甓自励",
+    "first_appear": "303",
+    "last_appear": "420",
+    "first_chapter": "资治通鉴第八十五卷(晋纪)",
+    "mention_count": 64,
+    "year_override": null
+  },
+  {
+    "name": "刘骏",
+    "alias": [
+      "宋孝武帝"
+    ],
+    "power": "刘宋",
+    "llm_introduction": "刘宋皇帝",
+    "first_appear": "436",
+    "last_appear": "502",
+    "first_chapter": "资治通鉴第一百二十三卷(宋纪)",
+    "mention_count": 64,
+    "year_override": null
+  },
+  {
+    "name": "萧鸾",
+    "alias": [
+      "齐明帝"
+    ],
+    "power": "南齐",
+    "llm_introduction": "南齐皇帝",
+    "first_appear": "480",
+    "last_appear": "527",
+    "first_chapter": "资治通鉴第一百三十五卷(齐纪)",
+    "mention_count": 64,
+    "year_override": null
+  },
+  {
+    "name": "冯道",
+    "alias": [
+      "冯可道"
+    ],
+    "power": "五代",
+    "llm_introduction": "五代十朝不倒翁",
+    "first_appear": "908",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第一百四十二卷(齐纪)",
+    "mention_count": 64,
+    "year_override": 908
+  },
+  {
+    "name": "崔浩",
+    "alias": [
+      "崔伯渊"
+    ],
+    "power": "北魏",
+    "llm_introduction": "司徒，北魏统一的重要谋臣",
+    "first_appear": "409",
+    "last_appear": "460",
+    "first_chapter": "资治通鉴第一百一十五卷(晋纪)",
+    "mention_count": 63,
+    "year_override": null
+  },
+  {
+    "name": "元恪",
+    "alias": [
+      "魏宣武帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝",
+    "first_appear": "497",
+    "last_appear": "621",
+    "first_chapter": "资治通鉴第一百四十一卷(齐纪)",
+    "mention_count": 62,
+    "year_override": null
+  },
+  {
+    "name": "司马越",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "八王之一，最后胜出",
+    "first_appear": "291",
+    "last_appear": "313",
+    "first_chapter": "资治通鉴第八十二卷(晋纪)",
+    "mention_count": 60,
+    "year_override": 291
+  },
+  {
+    "name": "司马颖",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "八王之一",
+    "first_appear": "291",
+    "last_appear": "313",
+    "first_chapter": "资治通鉴第八十二卷(晋纪)",
+    "mention_count": 59,
+    "year_override": 291
+  },
+  {
+    "name": "马燧",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "中兴名将",
+    "first_appear": "779",
+    "last_appear": "795",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 58,
+    "year_override": 779
+  },
+  {
+    "name": "曹参",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相，萧规曹随",
+    "first_appear": "-209",
+    "last_appear": "941",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 57,
+    "year_override": null
+  },
+  {
+    "name": "萧赜",
+    "alias": [
+      "齐武帝"
+    ],
+    "power": "南齐",
+    "llm_introduction": "南齐皇帝，永明之治",
+    "first_appear": "466",
+    "last_appear": "512",
+    "first_chapter": "资治通鉴第一百三十一卷(宋纪)",
+    "mention_count": 57,
+    "year_override": null
+  },
+  {
+    "name": "宇文护",
+    "alias": [],
+    "power": "北周",
+    "llm_introduction": "北周权臣，连杀三帝",
+    "first_appear": "554",
+    "last_appear": "581",
+    "first_chapter": "资治通鉴第一百六十五卷(梁纪)",
+    "mention_count": 57,
+    "year_override": null
+  },
+  {
+    "name": "李纯",
+    "alias": [
+      "唐宪宗"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "元和中兴",
+    "first_appear": "805",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第一百零一卷(晋纪)",
+    "mention_count": 57,
+    "year_override": 805
+  },
+  {
+    "name": "谢安",
+    "alias": [
+      "谢安石"
+    ],
+    "power": "东晋",
+    "llm_introduction": "宰相，淝水之战",
+    "first_appear": "-279",
+    "last_appear": "896",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 56,
+    "year_override": null
+  },
+  {
+    "name": "太平公主",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "武则天女，玄宗时政争失败",
+    "first_appear": "690",
+    "last_appear": "848",
+    "first_chapter": "资治通鉴第二百零二卷(唐纪)",
+    "mention_count": 56,
+    "year_override": 690
+  },
+  {
+    "name": "一行",
+    "alias": [],
+    "power": "唐朝/佛教",
+    "llm_introduction": "高僧、天文学家，《大衍历》",
+    "first_appear": "715",
+    "last_appear": "947",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 56,
+    "year_override": 715
+  },
+  {
+    "name": "萧何",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相，汉初三杰",
+    "first_appear": "-209",
+    "last_appear": "824",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 55,
+    "year_override": null
+  },
+  {
+    "name": "仆固怀恩",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "铁勒族名将，后叛",
+    "first_appear": "755",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 55,
+    "year_override": 755
+  },
+  {
+    "name": "刘琨",
+    "alias": [
+      "刘越石"
+    ],
+    "power": "西晋/东晋",
+    "llm_introduction": "并州刺史，闻鸡起舞",
+    "first_appear": "291",
+    "last_appear": "459",
+    "first_chapter": "资治通鉴第八十二卷(晋纪)",
+    "mention_count": 54,
+    "year_override": null
+  },
+  {
+    "name": "陆贽",
+    "alias": [
+      "陆敬舆"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "德宗宰相，骈文大家",
+    "first_appear": "779",
+    "last_appear": "805",
+    "first_chapter": "资治通鉴第二百二十八卷(唐纪)",
+    "mention_count": 54,
+    "year_override": 779
+  },
+  {
+    "name": "汉昭帝",
+    "alias": [
+      "刘弗陵"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-94",
+    "last_appear": "836",
+    "first_chapter": "资治通鉴第二十二卷(汉纪)",
+    "mention_count": 53,
+    "year_override": null
+  },
+  {
+    "name": "郑注",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "文宗宠臣，甘露之变",
+    "first_appear": "830",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百四十三卷(唐纪)",
+    "mention_count": 53,
+    "year_override": 830
+  },
+  {
+    "name": "关羽",
+    "alias": [
+      "云长",
+      "关云长"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉名将",
+    "first_appear": "191",
+    "last_appear": "573",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 52,
+    "year_override": null
+  },
+  {
+    "name": "吕布",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "军阀",
+    "first_appear": "189",
+    "last_appear": "548",
+    "first_chapter": "资治通鉴第五十九卷(汉纪)",
+    "mention_count": 51,
+    "year_override": null
+  },
+  {
+    "name": "司马昭",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "司马师之弟，灭蜀",
+    "first_appear": "255",
+    "last_appear": "573",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 51,
+    "year_override": 255
+  },
+  {
+    "name": "吕光",
+    "alias": [],
+    "power": "后凉",
+    "llm_introduction": "后凉开国君主",
+    "first_appear": "358",
+    "last_appear": "419",
+    "first_chapter": "资治通鉴第一百卷(晋纪)",
+    "mention_count": 51,
+    "year_override": null
+  },
+  {
+    "name": "庾亮",
+    "alias": [
+      "庾元规"
+    ],
+    "power": "东晋",
+    "llm_introduction": "中书令，外戚",
+    "first_appear": "311",
+    "last_appear": "394",
+    "first_chapter": "资治通鉴第八十七卷(晋纪)",
+    "mention_count": 51,
+    "year_override": null
+  },
+  {
+    "name": "冯太后",
+    "alias": [
+      "文明太后"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏太后，主持汉化改革",
+    "first_appear": "-6",
+    "last_appear": "499",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 50,
+    "year_override": null
+  },
+  {
+    "name": "王审知",
+    "alias": [
+      "闽王"
+    ],
+    "power": "闽国",
+    "llm_introduction": "闽国开国君主",
+    "first_appear": "893",
+    "last_appear": "942",
+    "first_chapter": "资治通鉴第二百五十四卷(唐纪)",
+    "mention_count": 49,
+    "year_override": 893
+  },
+  {
+    "name": "姜维",
+    "alias": [
+      "姜伯约"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉大将军，九伐中原",
+    "first_appear": "228",
+    "last_appear": "264",
+    "first_chapter": "资治通鉴第七十一卷(魏纪)",
+    "mention_count": 48,
+    "year_override": null
+  },
+  {
+    "name": "陈平",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "谋士，六出奇计",
+    "first_appear": "-205",
+    "last_appear": "923",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 47,
+    "year_override": null
+  },
+  {
+    "name": "马援",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "伏波将军，马革裹尸",
+    "first_appear": "25",
+    "last_appear": "940",
+    "first_chapter": "资治通鉴第四十卷(汉纪)",
+    "mention_count": 47,
+    "year_override": null
+  },
+  {
+    "name": "陆逊",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "东吴名将",
+    "first_appear": "217",
+    "last_appear": "274",
+    "first_chapter": "资治通鉴第六十八卷(汉纪)",
+    "mention_count": 47,
+    "year_override": null
+  },
+  {
+    "name": "梁冀",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "大将军，外戚专权",
+    "first_appear": "133",
+    "last_appear": "166",
+    "first_chapter": "资治通鉴第五十一卷(汉纪)",
+    "mention_count": 47,
+    "year_override": null
+  },
+  {
+    "name": "刘渊",
+    "alias": [
+      "刘元海"
+    ],
+    "power": "汉赵",
+    "llm_introduction": "汉赵开国皇帝，五胡乱华始作俑者",
+    "first_appear": "304",
+    "last_appear": "521",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 47,
+    "year_override": 304
+  },
+  {
+    "name": "李训",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "文宗宰相，甘露之变",
+    "first_appear": "830",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百四十五卷(唐纪)",
+    "mention_count": 47,
+    "year_override": 830
+  },
+  {
+    "name": "司马睿",
+    "alias": [
+      "晋元帝"
+    ],
+    "power": "东晋",
+    "llm_introduction": "东晋开国皇帝",
+    "first_appear": "317",
+    "last_appear": "784",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 46,
+    "year_override": 317
+  },
+  {
+    "name": "郅支",
+    "alias": [
+      "郅支单于"
+    ],
+    "power": "匈奴",
+    "llm_introduction": "匈奴单于，被陈汤斩杀",
+    "first_appear": "-56",
+    "last_appear": "842",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 44,
+    "year_override": null
+  },
+  {
+    "name": "李雄",
+    "alias": [],
+    "power": "成汉",
+    "llm_introduction": "成汉开国皇帝",
+    "first_appear": "36",
+    "last_appear": "582",
+    "first_chapter": "资治通鉴第四十三卷(汉纪)",
+    "mention_count": 44,
+    "year_override": null
+  },
+  {
+    "name": "檀道济",
+    "alias": [],
+    "power": "刘宋",
+    "llm_introduction": "名将，唱筹量沙",
+    "first_appear": "410",
+    "last_appear": "498",
+    "first_chapter": "资治通鉴第一百一十五卷(晋纪)",
+    "mention_count": 44,
+    "year_override": null
+  },
+  {
+    "name": "李冲",
+    "alias": [],
+    "power": "北魏",
+    "llm_introduction": "尚书仆射，孝文帝改革推行者",
+    "first_appear": "476",
+    "last_appear": "934",
+    "first_chapter": "资治通鉴第一百三十四卷(宋纪)",
+    "mention_count": 44,
+    "year_override": null
+  },
+  {
+    "name": "秦宗权",
+    "alias": [],
+    "power": "唐朝/军阀",
+    "llm_introduction": "唐末军阀，蔡州节度使",
+    "first_appear": "880",
+    "last_appear": "910",
+    "first_chapter": "资治通鉴第二百五十四卷(唐纪)",
+    "mention_count": 44,
+    "year_override": 880
+  },
+  {
+    "name": "慕容德",
+    "alias": [],
+    "power": "南燕",
+    "llm_introduction": "南燕开国皇帝",
+    "first_appear": "354",
+    "last_appear": "400",
+    "first_chapter": "资治通鉴第九十九卷(晋纪)",
+    "mention_count": 43,
+    "year_override": null
+  },
+  {
+    "name": "斛律光",
+    "alias": [],
+    "power": "北齐",
+    "llm_introduction": "名将，落雕都督",
+    "first_appear": "547",
+    "last_appear": "577",
+    "first_chapter": "资治通鉴第一百六十卷(梁纪)",
+    "mention_count": 43,
+    "year_override": null
+  },
+  {
+    "name": "杨勇",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋文帝太子，被杨广谗废",
+    "first_appear": "581",
+    "last_appear": "736",
+    "first_chapter": "资治通鉴第一百七十四卷(陈纪)",
+    "mention_count": 43,
+    "year_override": 581
+  },
+  {
+    "name": "李固",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "太尉，反对梁冀被杀",
+    "first_appear": "127",
+    "last_appear": "888",
+    "first_chapter": "资治通鉴第五十一卷(汉纪)",
+    "mention_count": 42,
+    "year_override": null
+  },
+  {
+    "name": "刘黑闼",
+    "alias": [],
+    "power": "夏国",
+    "llm_introduction": "窦建德部将，二次起兵反唐",
+    "first_appear": "621",
+    "last_appear": "626",
+    "first_chapter": "资治通鉴第一百八十八卷(唐纪)",
+    "mention_count": 42,
+    "year_override": 621
+  },
+  {
+    "name": "褚遂良",
+    "alias": [
+      "褚登善"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "书法家，太宗托孤大臣",
+    "first_appear": "627",
+    "last_appear": "705",
+    "first_chapter": "资治通鉴第一百九十五卷(唐纪)",
+    "mention_count": 42,
+    "year_override": 627
+  },
+  {
+    "name": "李广",
+    "alias": [
+      "飞将军"
+    ],
+    "power": "西汉",
+    "llm_introduction": "名将",
+    "first_appear": "-144",
+    "last_appear": "843",
+    "first_chapter": "资治通鉴第十六卷(汉纪)",
+    "mention_count": 41,
+    "year_override": null
+  },
+  {
+    "name": "邓禹",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "云台二十八将之首",
+    "first_appear": "23",
+    "last_appear": "547",
+    "first_chapter": "资治通鉴第三十九卷(汉纪)",
+    "mention_count": 41,
+    "year_override": null
+  },
+  {
+    "name": "温峤",
+    "alias": [
+      "温太真"
+    ],
+    "power": "东晋",
+    "llm_introduction": "江州刺史",
+    "first_appear": "317",
+    "last_appear": "420",
+    "first_chapter": "资治通鉴第九十卷(晋纪)",
+    "mention_count": 41,
+    "year_override": null
+  },
+  {
+    "name": "苏威",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝宰相，与高颎共掌朝政",
+    "first_appear": "581",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第一百七十五卷(陈纪)",
+    "mention_count": 41,
+    "year_override": 581
+  },
+  {
+    "name": "王凤",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司马大将军，外戚专权",
+    "first_appear": "-37",
+    "last_appear": "688",
+    "first_chapter": "资治通鉴第二十九卷(汉纪)",
+    "mention_count": 40,
+    "year_override": null
+  },
+  {
+    "name": "王嘉",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-8",
+    "last_appear": "826",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 40,
+    "year_override": -8
+  },
+  {
+    "name": "彭越",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "梁王，游击战扰楚",
+    "first_appear": "-207",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第八卷(秦记)",
+    "mention_count": 40,
+    "year_override": null
+  },
+  {
+    "name": "司马伦",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "八王之一，废惠帝自立",
+    "first_appear": "291",
+    "last_appear": "549",
+    "first_chapter": "资治通鉴第七十九卷(晋纪)",
+    "mention_count": 40,
+    "year_override": 291
+  },
+  {
+    "name": "鱼朝恩",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "代宗时权宦",
+    "first_appear": "762",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百二十卷(唐纪)",
+    "mention_count": 40,
+    "year_override": 762
+  },
+  {
+    "name": "周勃",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "太尉，平定诸吕",
+    "first_appear": "-206",
+    "last_appear": "844",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 39,
+    "year_override": null
+  },
+  {
+    "name": "王衍",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "太尉，清谈误国",
+    "first_appear": "-7",
+    "last_appear": "943",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 39,
+    "year_override": null
+  },
+  {
+    "name": "陈蕃",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "太傅",
+    "first_appear": "122",
+    "last_appear": "588",
+    "first_chapter": "资治通鉴第五十卷(汉纪)",
+    "mention_count": 38,
+    "year_override": null
+  },
+  {
+    "name": "周瑜",
+    "alias": [
+      "公瑾"
+    ],
+    "power": "东吴",
+    "llm_introduction": "东吴名将",
+    "first_appear": "194",
+    "last_appear": "677",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 38,
+    "year_override": null
+  },
+  {
+    "name": "英布",
+    "alias": [
+      "黥布"
+    ],
+    "power": "西汉",
+    "llm_introduction": "九江王，后归汉",
+    "first_appear": "-208",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第八卷(秦记)",
+    "mention_count": 38,
+    "year_override": null
+  },
+  {
+    "name": "曹爽",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "大将军，高平陵之变被司马懿诛杀",
+    "first_appear": "238",
+    "last_appear": "567",
+    "first_chapter": "资治通鉴第七十四卷(魏纪)",
+    "mention_count": 38,
+    "year_override": null
+  },
+  {
+    "name": "宇文化及",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "宇文述之子，江都兵变缢杀杨广",
+    "first_appear": "604",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 38,
+    "year_override": 604
+  },
+  {
+    "name": "刘仁轨",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "高宗时宰相，白江口之战",
+    "first_appear": "660",
+    "last_appear": "858",
+    "first_chapter": "资治通鉴第一百九十五卷(唐纪)",
+    "mention_count": 38,
+    "year_override": 660
+  },
+  {
+    "name": "吕后",
+    "alias": [
+      "吕雉"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉高祖皇后，临朝称制",
+    "first_appear": "-206",
+    "last_appear": "684",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 37,
+    "year_override": null
+  },
+  {
+    "name": "诸葛恪",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "太傅，诸葛瑾之子",
+    "first_appear": "221",
+    "last_appear": "450",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 37,
+    "year_override": null
+  },
+  {
+    "name": "刘牢之",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "北府兵名将",
+    "first_appear": "377",
+    "last_appear": "454",
+    "first_chapter": "资治通鉴第一百零四卷(晋纪)",
+    "mention_count": 37,
+    "year_override": null
+  },
+  {
+    "name": "刘武周",
+    "alias": [],
+    "power": "定杨",
+    "llm_introduction": "马邑军阀，勾连突厥反唐",
+    "first_appear": "617",
+    "last_appear": "633",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 37,
+    "year_override": 617
+  },
+  {
+    "name": "张易之",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "武则天男宠",
+    "first_appear": "695",
+    "last_appear": "750",
+    "first_chapter": "资治通鉴第二百零六卷(唐纪)",
+    "mention_count": 37,
+    "year_override": 695
+  },
+  {
+    "name": "朱瑾",
+    "alias": [],
+    "power": "唐朝/军阀",
+    "llm_introduction": "唐末军阀",
+    "first_appear": "880",
+    "last_appear": "918",
+    "first_chapter": "资治通鉴第二百五十六卷(唐纪)",
+    "mention_count": 37,
+    "year_override": 880
+  },
+  {
+    "name": "窦太后",
+    "alias": [
+      "窦猗房"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉文帝皇后，黄老治国",
+    "first_appear": "-155",
+    "last_appear": "749",
+    "first_chapter": "资治通鉴第十五卷(汉纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "邓太后",
+    "alias": [
+      "邓绥"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉和帝皇后，临朝称制",
+    "first_appear": "102",
+    "last_appear": "515",
+    "first_chapter": "资治通鉴第四十八卷(汉纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "钟会",
+    "alias": [
+      "钟士季"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "镇西将军，与邓艾灭蜀后谋反",
+    "first_appear": "249",
+    "last_appear": "505",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "张华",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "司空，《博物志》作者",
+    "first_appear": "268",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第七十九卷(晋纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "陈蒨",
+    "alias": [
+      "陈文帝"
+    ],
+    "power": "南陈",
+    "llm_introduction": "南陈皇帝",
+    "first_appear": "559",
+    "last_appear": "566",
+    "first_chapter": "资治通鉴第一百六十七卷(陈纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "宇文邕",
+    "alias": [
+      "周武帝"
+    ],
+    "power": "北周",
+    "llm_introduction": "北周皇帝，灭北齐",
+    "first_appear": "559",
+    "last_appear": "642",
+    "first_chapter": "资治通鉴第一百六十七卷(陈纪)",
+    "mention_count": 36,
+    "year_override": null
+  },
+  {
+    "name": "时溥",
+    "alias": [],
+    "power": "唐朝/军阀",
+    "llm_introduction": "唐末感化节度使",
+    "first_appear": "880",
+    "last_appear": "893",
+    "first_chapter": "资治通鉴第二百五十四卷(唐纪)",
+    "mention_count": 36,
+    "year_override": 880
+  },
+  {
+    "name": "陈胜",
+    "alias": [],
+    "power": "起义军",
+    "llm_introduction": "大泽乡起义领袖",
+    "first_appear": "-209",
+    "last_appear": "613",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 35,
+    "year_override": null
+  },
+  {
+    "name": "魏相",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-67",
+    "last_appear": "697",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 35,
+    "year_override": -67
+  },
+  {
+    "name": "高允",
+    "alias": [],
+    "power": "北魏",
+    "llm_introduction": "中书令，高寿直臣",
+    "first_appear": "431",
+    "last_appear": "953",
+    "first_chapter": "资治通鉴第一百二十二卷(宋纪)",
+    "mention_count": 35,
+    "year_override": null
+  },
+  {
+    "name": "道安",
+    "alias": [],
+    "power": "前秦",
+    "llm_introduction": "佛教领袖，编纂佛经目录",
+    "first_appear": "-359",
+    "last_appear": "941",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 35,
+    "year_override": null
+  },
+  {
+    "name": "杨玄感",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "杨素之子，黎阳起兵反隋失败",
+    "first_appear": "604",
+    "last_appear": "686",
+    "first_chapter": "资治通鉴第一百七十七卷(隋纪)",
+    "mention_count": 35,
+    "year_override": 604
+  },
+  {
+    "name": "狄仁杰",
+    "alias": [
+      "狄怀英"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "武周名相，神探",
+    "first_appear": "686",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第二百零二卷(唐纪)",
+    "mention_count": 35,
+    "year_override": 686
+  },
+  {
+    "name": "司马师",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "司马懿之子，废曹芳",
+    "first_appear": "249",
+    "last_appear": "316",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 34,
+    "year_override": 249
+  },
+  {
+    "name": "邓艾",
+    "alias": [
+      "邓士载"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "征西将军，偷渡阴平灭蜀",
+    "first_appear": "241",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第七十四卷(魏纪)",
+    "mention_count": 34,
+    "year_override": null
+  },
+  {
+    "name": "贾充",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "太尉，指使成济弑曹髦",
+    "first_appear": "255",
+    "last_appear": "492",
+    "first_chapter": "资治通鉴第七十六卷(魏纪)",
+    "mention_count": 34,
+    "year_override": null
+  },
+  {
+    "name": "郗鉴",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "太尉",
+    "first_appear": "301",
+    "last_appear": "358",
+    "first_chapter": "资治通鉴第八十四卷(晋纪)",
+    "mention_count": 34,
+    "year_override": null
+  },
+  {
+    "name": "元诩",
+    "alias": [
+      "魏孝明帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝",
+    "first_appear": "510",
+    "last_appear": "528",
+    "first_chapter": "资治通鉴第一百四十七卷(梁纪)",
+    "mention_count": 34,
+    "year_override": null
+  },
+  {
+    "name": "来俊臣",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "武则天时酷吏",
+    "first_appear": "690",
+    "last_appear": "725",
+    "first_chapter": "资治通鉴第二百零三卷(唐纪)",
+    "mention_count": 34,
+    "year_override": 690
+  },
+  {
+    "name": "高力士",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "唐玄宗心腹宦官",
+    "first_appear": "710",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百一十卷(唐纪)",
+    "mention_count": 34,
+    "year_override": 710
+  },
+  {
+    "name": "李吉甫",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "宪宗宰相，《元和郡县图志》",
+    "first_appear": "780",
+    "last_appear": "860",
+    "first_chapter": "资治通鉴第二百三十六卷(唐纪)",
+    "mention_count": 34,
+    "year_override": 780
+  },
+  {
+    "name": "白起",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "秦国名将，长平之战",
+    "first_appear": "-293",
+    "last_appear": "783",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 33,
+    "year_override": null
+  },
+  {
+    "name": "赵高",
+    "alias": [],
+    "power": "秦朝",
+    "llm_introduction": "秦朝宦官，指鹿为马",
+    "first_appear": "-210",
+    "last_appear": "794",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 33,
+    "year_override": null
+  },
+  {
+    "name": "尉迟恭",
+    "alias": [
+      "尉迟敬德",
+      "尉迟敬德"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，门神",
+    "first_appear": "617",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第一百八十八卷(唐纪)",
+    "mention_count": 33,
+    "year_override": 617
+  },
+  {
+    "name": "李抱真",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "泽潞节度使",
+    "first_appear": "779",
+    "last_appear": "898",
+    "first_chapter": "资治通鉴第二百二十三卷(唐纪)",
+    "mention_count": 33,
+    "year_override": 779
+  },
+  {
+    "name": "桑维翰",
+    "alias": [],
+    "power": "后晋",
+    "llm_introduction": "石敬瑭谋士，割地策",
+    "first_appear": "936",
+    "last_appear": "946",
+    "first_chapter": "资治通鉴第二百八十卷(后晋纪)",
+    "mention_count": 33,
+    "year_override": 936
+  },
+  {
+    "name": "卫青",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大将军，北击匈奴",
+    "first_appear": "-139",
+    "last_appear": "458",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 32,
+    "year_override": null
+  },
+  {
+    "name": "刘据",
+    "alias": [
+      "戾太子",
+      "卫太子"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉武帝太子，死于巫蛊之祸",
+    "first_appear": "-128",
+    "last_appear": "933",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 32,
+    "year_override": null
+  },
+  {
+    "name": "马超",
+    "alias": [
+      "马孟起"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉名将",
+    "first_appear": "202",
+    "last_appear": "897",
+    "first_chapter": "资治通鉴第六十四卷(汉纪)",
+    "mention_count": 32,
+    "year_override": null
+  },
+  {
+    "name": "贾南风",
+    "alias": [
+      "贾后"
+    ],
+    "power": "西晋",
+    "llm_introduction": "晋惠帝皇后，引发八王之乱",
+    "first_appear": "184",
+    "last_appear": "736",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 32,
+    "year_override": null
+  },
+  {
+    "name": "裴矩",
+    "alias": [],
+    "power": "隋朝/唐朝",
+    "llm_introduction": "经营西域，《西域图记》",
+    "first_appear": "581",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第一百七十七卷(隋纪)",
+    "mention_count": 32,
+    "year_override": 581
+  },
+  {
+    "name": "安庆绪",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "安禄山之子",
+    "first_appear": "755",
+    "last_appear": "787",
+    "first_chapter": "资治通鉴第二百一十六卷(唐纪)",
+    "mention_count": 32,
+    "year_override": 755
+  },
+  {
+    "name": "李宗闵",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "牛党首领",
+    "first_appear": "810",
+    "last_appear": "876",
+    "first_chapter": "资治通鉴第二百三十七卷(唐纪)",
+    "mention_count": 32,
+    "year_override": 810
+  },
+  {
+    "name": "商鞅",
+    "alias": [
+      "公孙鞅",
+      "卫鞅"
+    ],
+    "power": "秦国",
+    "llm_introduction": "法家代表人物，秦国变法",
+    "first_appear": "-361",
+    "last_appear": "388",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 31,
+    "year_override": null
+  },
+  {
+    "name": "孔光",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-8",
+    "last_appear": "5",
+    "first_chapter": "资治通鉴第三十二卷(汉纪)",
+    "mention_count": 31,
+    "year_override": null
+  },
+  {
+    "name": "汉成帝",
+    "alias": [
+      "刘骜"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-51",
+    "last_appear": "825",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 31,
+    "year_override": null
+  },
+  {
+    "name": "何进",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "大将军，谋诛宦官",
+    "first_appear": "184",
+    "last_appear": "934",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 31,
+    "year_override": 184
+  },
+  {
+    "name": "史朝义",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "史思明之子，安史之乱终结者",
+    "first_appear": "758",
+    "last_appear": "781",
+    "first_chapter": "资治通鉴第二百二十卷(唐纪)",
+    "mention_count": 31,
+    "year_override": 758
+  },
+  {
+    "name": "王叔文",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "永贞革新领袖",
+    "first_appear": "805",
+    "last_appear": "815",
+    "first_chapter": "资治通鉴第一百七十六卷(陈纪)",
+    "mention_count": 31,
+    "year_override": 805
+  },
+  {
+    "name": "赵匡胤",
+    "alias": [
+      "宋太祖",
+      "赵点检"
+    ],
+    "power": "北宋",
+    "llm_introduction": "北宋开国皇帝",
+    "first_appear": "960",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百二十卷(唐纪)",
+    "mention_count": 31,
+    "year_override": 960
+  },
+  {
+    "name": "王允",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "司徒，诛董卓",
+    "first_appear": "165",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 30,
+    "year_override": 165
+  },
+  {
+    "name": "元子攸",
+    "alias": [
+      "魏孝庄帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝，杀尔朱荣",
+    "first_appear": "528",
+    "last_appear": "550",
+    "first_chapter": "资治通鉴第一百五十二卷(梁纪)",
+    "mention_count": 30,
+    "year_override": null
+  },
+  {
+    "name": "宇文述",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝权臣，杨广心腹",
+    "first_appear": "581",
+    "last_appear": "637",
+    "first_chapter": "资治通鉴第一百七十四卷(陈纪)",
+    "mention_count": 30,
+    "year_override": 581
+  },
+  {
+    "name": "哥舒翰",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "河西节度使，潼关失守",
+    "first_appear": "747",
+    "last_appear": "880",
+    "first_chapter": "资治通鉴第二百一十五卷(唐纪)",
+    "mention_count": 30,
+    "year_override": 747
+  },
+  {
+    "name": "颜真卿",
+    "alias": [
+      "颜鲁公",
+      "颜清臣"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "书法家，平原太守举义",
+    "first_appear": "753",
+    "last_appear": "785",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 30,
+    "year_override": 753
+  },
+  {
+    "name": "仇士良",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "文宗时权宦，甘露之变",
+    "first_appear": "825",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百四十五卷(唐纪)",
+    "mention_count": 30,
+    "year_override": 825
+  },
+  {
+    "name": "冯异",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "征西大将军，云台二十八将",
+    "first_appear": "23",
+    "last_appear": "479",
+    "first_chapter": "资治通鉴第三十九卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "窦融",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "凉州牧",
+    "first_appear": "23",
+    "last_appear": "619",
+    "first_chapter": "资治通鉴第三十九卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "李膺",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "司隶校尉，党锢之祸",
+    "first_appear": "132",
+    "last_appear": "554",
+    "first_chapter": "资治通鉴第五十一卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "公孙瓒",
+    "alias": [
+      "白马将军"
+    ],
+    "power": "东汉",
+    "llm_introduction": "军阀，盘踞幽州",
+    "first_appear": "-144",
+    "last_appear": "402",
+    "first_chapter": "资治通鉴第十六卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "马腾",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "凉州军阀",
+    "first_appear": "187",
+    "last_appear": "915",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "张鲁",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "汉中军阀，五斗米道",
+    "first_appear": "191",
+    "last_appear": "298",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 29,
+    "year_override": null
+  },
+  {
+    "name": "安乐公主",
+    "alias": [
+      "李裹儿"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐中宗女，想做皇太女",
+    "first_appear": "700",
+    "last_appear": "848",
+    "first_chapter": "资治通鉴第二百零八卷(唐纪)",
+    "mention_count": 29,
+    "year_override": 700
+  },
+  {
+    "name": "汉景帝",
+    "alias": [
+      "刘启"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝，文景之治",
+    "first_appear": "-179",
+    "last_appear": "893",
+    "first_chapter": "资治通鉴第十三卷(汉纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "晁错",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫，主张削藩",
+    "first_appear": "-169",
+    "last_appear": "893",
+    "first_chapter": "资治通鉴第十五卷(汉纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "窦宪",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "大将军，勒石燕然",
+    "first_appear": "83",
+    "last_appear": "93",
+    "first_chapter": "资治通鉴第四十六卷(汉纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "刘璋",
+    "alias": [
+      "刘季玉",
+      "刘益州"
+    ],
+    "power": "东汉",
+    "llm_introduction": "益州牧",
+    "first_appear": "191",
+    "last_appear": "502",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "杜预",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "镇南大将军，完成灭吴",
+    "first_appear": "264",
+    "last_appear": "800",
+    "first_chapter": "资治通鉴第七十八卷(魏纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "兰陵王",
+    "alias": [
+      "高长恭"
+    ],
+    "power": "北齐",
+    "llm_introduction": "北齐宗室名将",
+    "first_appear": "-140",
+    "last_appear": "573",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 28,
+    "year_override": null
+  },
+  {
+    "name": "张柬之",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "神龙政变推翻武则天",
+    "first_appear": "680",
+    "last_appear": "710",
+    "first_chapter": "资治通鉴第二百零二卷(唐纪)",
+    "mention_count": 28,
+    "year_override": 680
+  },
+  {
+    "name": "李辅国",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "肃宗时权宦",
+    "first_appear": "756",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百一十八卷(唐纪)",
+    "mention_count": 28,
+    "year_override": 756
+  },
+  {
+    "name": "王守澄",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "宪宗至文宗时权宦",
+    "first_appear": "810",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百四十一卷(唐纪)",
+    "mention_count": 28,
+    "year_override": 810
+  },
+  {
+    "name": "孟昶",
+    "alias": [],
+    "power": "后蜀",
+    "llm_introduction": "后蜀后主",
+    "first_appear": "934",
+    "last_appear": "948",
+    "first_chapter": "　　资治通鉴第一百一十三卷(晋纪)",
+    "mention_count": 28,
+    "year_override": 934
+  },
+  {
+    "name": "赵充国",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "名将，屯田湟中",
+    "first_appear": "-99",
+    "last_appear": "168",
+    "first_chapter": "资治通鉴第二十一卷(汉纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "汉献帝",
+    "alias": [
+      "刘协"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝末代皇帝",
+    "first_appear": "181",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "张耳",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "赵王",
+    "first_appear": "-209",
+    "last_appear": "613",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "陈馀",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵将，与张耳刎颈之交后反目",
+    "first_appear": "-213",
+    "last_appear": "563",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "灌婴",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相，骑将",
+    "first_appear": "-206",
+    "last_appear": "783",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "吕蒙",
+    "alias": [
+      "吕子明"
+    ],
+    "power": "东吴",
+    "llm_introduction": "东吴名将，白衣渡江",
+    "first_appear": "200",
+    "last_appear": "678",
+    "first_chapter": "资治通鉴第六十三卷(汉纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "张昭",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "孙权辅臣",
+    "first_appear": "195",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "谢玄",
+    "alias": [
+      "谢幼度"
+    ],
+    "power": "东晋",
+    "llm_introduction": "北府兵统帅，淝水之战",
+    "first_appear": "363",
+    "last_appear": "882",
+    "first_chapter": "资治通鉴第一百零一卷(晋纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "独孤信",
+    "alias": [],
+    "power": "西魏/北周",
+    "llm_introduction": "西魏八柱国之一",
+    "first_appear": "534",
+    "last_appear": "599",
+    "first_chapter": "资治通鉴第一百五十六卷(梁纪)",
+    "mention_count": 27,
+    "year_override": null
+  },
+  {
+    "name": "屈突通",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "隋唐忠臣",
+    "first_appear": "617",
+    "last_appear": "654",
+    "first_chapter": "资治通鉴第一百七十八卷(隋纪)",
+    "mention_count": 27,
+    "year_override": 617
+  },
+  {
+    "name": "李适",
+    "alias": [
+      "唐德宗"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "建中之乱，奉天之难",
+    "first_appear": "779",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百一十四卷(唐纪)",
+    "mention_count": 27,
+    "year_override": 779
+  },
+  {
+    "name": "平原君",
+    "alias": [
+      "赵胜"
+    ],
+    "power": "赵国",
+    "llm_introduction": "战国四公子之一",
+    "first_appear": "-298",
+    "last_appear": "-127",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 26,
+    "year_override": null
+  },
+  {
+    "name": "章邯",
+    "alias": [],
+    "power": "秦朝",
+    "llm_introduction": "秦末名将，后降项羽",
+    "first_appear": "-209",
+    "last_appear": "-205",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 26,
+    "year_override": null
+  },
+  {
+    "name": "羊祜",
+    "alias": [
+      "羊叔子"
+    ],
+    "power": "西晋",
+    "llm_introduction": "征南大将军，筹划灭吴",
+    "first_appear": "249",
+    "last_appear": "800",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 26,
+    "year_override": null
+  },
+  {
+    "name": "刘禅",
+    "alias": [
+      "刘阿斗",
+      "蜀后主"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉后主，降魏",
+    "first_appear": "208",
+    "last_appear": "937",
+    "first_chapter": "资治通鉴第六十五卷(汉纪)",
+    "mention_count": 26,
+    "year_override": null
+  },
+  {
+    "name": "萧铣",
+    "alias": [],
+    "power": "梁国",
+    "llm_introduction": "后梁宗室，据江陵称帝",
+    "first_appear": "617",
+    "last_appear": "624",
+    "first_chapter": "资治通鉴第一百八十四卷(隋纪)",
+    "mention_count": 26,
+    "year_override": 617
+  },
+  {
+    "name": "侯君集",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，灭高昌，后谋反被诛",
+    "first_appear": "620",
+    "last_appear": "787",
+    "first_chapter": "资治通鉴第一百九十一卷(唐纪)",
+    "mention_count": 26,
+    "year_override": 620
+  },
+  {
+    "name": "张昌宗",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "武则天男宠",
+    "first_appear": "695",
+    "last_appear": "710",
+    "first_chapter": "资治通鉴第二百零六卷(唐纪)",
+    "mention_count": 26,
+    "year_override": 695
+  },
+  {
+    "name": "张仪",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "纵横家，连横破合纵",
+    "first_appear": "-333",
+    "last_appear": "231",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 25,
+    "year_override": null
+  },
+  {
+    "name": "何武",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司空",
+    "first_appear": "-7",
+    "last_appear": "749",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 25,
+    "year_override": -7
+  },
+  {
+    "name": "冒顿",
+    "alias": [
+      "冒顿单于"
+    ],
+    "power": "匈奴",
+    "llm_introduction": "匈奴单于，统一草原",
+    "first_appear": "-201",
+    "last_appear": "337",
+    "first_chapter": "资治通鉴第十一卷(汉纪)",
+    "mention_count": 25,
+    "year_override": null
+  },
+  {
+    "name": "窦武",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "大将军",
+    "first_appear": "165",
+    "last_appear": "316",
+    "first_chapter": "资治通鉴第五十五卷(汉纪)",
+    "mention_count": 25,
+    "year_override": null
+  },
+  {
+    "name": "韩遂",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "凉州军阀",
+    "first_appear": "184",
+    "last_appear": "528",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 25,
+    "year_override": null
+  },
+  {
+    "name": "赫连勃勃",
+    "alias": [],
+    "power": "胡夏",
+    "llm_introduction": "胡夏开国皇帝，筑统万城",
+    "first_appear": "414",
+    "last_appear": "933",
+    "first_chapter": "资治通鉴第一百一十六卷(晋纪)",
+    "mention_count": 25,
+    "year_override": null
+  },
+  {
+    "name": "牛弘",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝礼部尚书，主修礼乐",
+    "first_appear": "581",
+    "last_appear": "808",
+    "first_chapter": "资治通鉴第一百七十五卷(陈纪)",
+    "mention_count": 25,
+    "year_override": 581
+  },
+  {
+    "name": "张巡",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "睢阳守将，死守孤城",
+    "first_appear": "756",
+    "last_appear": "757",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 25,
+    "year_override": 756
+  },
+  {
+    "name": "牛僧孺",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "牛李党争牛党领袖",
+    "first_appear": "808",
+    "last_appear": "890",
+    "first_chapter": "资治通鉴第二百三十七卷(唐纪)",
+    "mention_count": 25,
+    "year_override": 808
+  },
+  {
+    "name": "王仙芝",
+    "alias": [],
+    "power": "起义军",
+    "llm_introduction": "唐末农民起义",
+    "first_appear": "875",
+    "last_appear": "882",
+    "first_chapter": "资治通鉴第二百五十二卷(唐纪)",
+    "mention_count": 25,
+    "year_override": 875
+  },
+  {
+    "name": "智瑶",
+    "alias": [
+      "智襄子",
+      "智伯"
+    ],
+    "power": "晋国智氏",
+    "llm_introduction": "智氏首领，因才胜德致家族灭亡",
+    "first_appear": "-403",
+    "last_appear": "563",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 24,
+    "year_override": null
+  },
+  {
+    "name": "吴起",
+    "alias": [],
+    "power": "魏国/楚国",
+    "llm_introduction": "军事家，著有吴子兵法",
+    "first_appear": "-403",
+    "last_appear": "925",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 24,
+    "year_override": null
+  },
+  {
+    "name": "孙坚",
+    "alias": [
+      "孙文台"
+    ],
+    "power": "东吴",
+    "llm_introduction": "东吴奠基者",
+    "first_appear": "184",
+    "last_appear": "307",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 24,
+    "year_override": 184
+  },
+  {
+    "name": "法正",
+    "alias": [
+      "法孝直"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "刘备谋士",
+    "first_appear": "211",
+    "last_appear": "510",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 24,
+    "year_override": 211
+  },
+  {
+    "name": "冉闵",
+    "alias": [],
+    "power": "冉魏",
+    "llm_introduction": "冉魏建立者，杀胡令",
+    "first_appear": "350",
+    "last_appear": "352",
+    "first_chapter": "资治通鉴第九十八卷(晋纪)",
+    "mention_count": 24,
+    "year_override": null
+  },
+  {
+    "name": "殷浩",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "中军将军，北伐失败",
+    "first_appear": "334",
+    "last_appear": "391",
+    "first_chapter": "资治通鉴第九十五卷(晋纪)",
+    "mention_count": 24,
+    "year_override": null
+  },
+  {
+    "name": "刘穆之",
+    "alias": [],
+    "power": "刘宋",
+    "llm_introduction": "刘裕首席谋士",
+    "first_appear": "404",
+    "last_appear": "480",
+    "first_chapter": "　　资治通鉴第一百一十三卷(晋纪)",
+    "mention_count": 24,
+    "year_override": null
+  },
+  {
+    "name": "贺若弼",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝名将，灭陈有功",
+    "first_appear": "581",
+    "last_appear": "609",
+    "first_chapter": "资治通鉴第一百七十二卷(陈纪)",
+    "mention_count": 24,
+    "year_override": 581
+  },
+  {
+    "name": "杜如晦",
+    "alias": [
+      "杜克明"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "贞观名相，房谋杜断",
+    "first_appear": "618",
+    "last_appear": "716",
+    "first_chapter": "资治通鉴第一百七十九卷(隋纪)",
+    "mention_count": 24,
+    "year_override": 618
+  },
+  {
+    "name": "魏征",
+    "alias": [
+      "魏玄成"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "太宗谏臣，以直谏闻名",
+    "first_appear": "618",
+    "last_appear": "935",
+    "first_chapter": "资治通鉴第七十卷(魏纪)",
+    "mention_count": 24,
+    "year_override": 618
+  },
+  {
+    "name": "霍去病",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "骠骑将军，封狼居胥",
+    "first_appear": "-123",
+    "last_appear": "624",
+    "first_chapter": "资治通鉴第十九卷(汉纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "刘向",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "学者，《说苑》作者",
+    "first_appear": "-33",
+    "last_appear": "858",
+    "first_chapter": "资治通鉴第二十九卷(汉纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "汉灵帝",
+    "alias": [
+      "刘宏"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "3",
+    "last_appear": "504",
+    "first_chapter": "资治通鉴第三十六卷(汉纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "汲黯",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "主爵都尉，直言敢谏",
+    "first_appear": "-135",
+    "last_appear": "498",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "石显",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "汉元帝时宦官，专权",
+    "first_appear": "-47",
+    "last_appear": "504",
+    "first_chapter": "资治通鉴第二十八卷(汉纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "诸葛诞",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "司空，淮南三叛之一",
+    "first_appear": "230",
+    "last_appear": "580",
+    "first_chapter": "资治通鉴第七十一卷(魏纪)",
+    "mention_count": 23,
+    "year_override": null
+  },
+  {
+    "name": "高季兴",
+    "alias": [],
+    "power": "荆南",
+    "llm_introduction": "荆南开国君主",
+    "first_appear": "905",
+    "last_appear": "947",
+    "first_chapter": "资治通鉴第二百七十二卷(后唐纪)",
+    "mention_count": 23,
+    "year_override": 905
+  },
+  {
+    "name": "敬翔",
+    "alias": [],
+    "power": "后梁",
+    "llm_introduction": "朱温首席谋士",
+    "first_appear": "897",
+    "last_appear": "923",
+    "first_chapter": "资治通鉴第二百五十七卷(唐纪)",
+    "mention_count": 23,
+    "year_override": 897
+  },
+  {
+    "name": "李神福",
+    "alias": [],
+    "power": "吴国",
+    "llm_introduction": "杨行密部将",
+    "first_appear": "892",
+    "last_appear": "904",
+    "first_chapter": "资治通鉴第二百五十五卷(唐纪)",
+    "mention_count": 23,
+    "year_override": 892
+  },
+  {
+    "name": "萧望之",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "前将军",
+    "first_appear": "-67",
+    "last_appear": "168",
+    "first_chapter": "资治通鉴第二十五卷(汉纪)",
+    "mention_count": 22,
+    "year_override": null
+  },
+  {
+    "name": "班固",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "史学家，《汉书》作者",
+    "first_appear": "62",
+    "last_appear": "92",
+    "first_chapter": "资治通鉴第十三卷(汉纪)",
+    "mention_count": 22,
+    "year_override": 62
+  },
+  {
+    "name": "王朗",
+    "alias": [
+      "王景兴"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "司徒",
+    "first_appear": "193",
+    "last_appear": "532",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 22,
+    "year_override": null
+  },
+  {
+    "name": "蒋琬",
+    "alias": [
+      "蒋公琰"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉丞相",
+    "first_appear": "214",
+    "last_appear": "248",
+    "first_chapter": "资治通鉴第六十七卷(汉纪)",
+    "mention_count": 22,
+    "year_override": null
+  },
+  {
+    "name": "沈约",
+    "alias": [],
+    "power": "南梁",
+    "llm_introduction": "文学家，《宋书》作者",
+    "first_appear": "423",
+    "last_appear": "513",
+    "first_chapter": "资治通鉴第一百一十九卷(宋纪)",
+    "mention_count": 22,
+    "year_override": null
+  },
+  {
+    "name": "元修",
+    "alias": [
+      "魏孝武帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏最后一位皇帝",
+    "first_appear": "532",
+    "last_appear": "534",
+    "first_chapter": "资治通鉴第一百五十五卷(梁纪)",
+    "mention_count": 22,
+    "year_override": null
+  },
+  {
+    "name": "苏定方",
+    "alias": [
+      "苏烈"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，灭西突厥、百济",
+    "first_appear": "630",
+    "last_appear": "678",
+    "first_chapter": "资治通鉴第一百三十四卷(宋纪)",
+    "mention_count": 22,
+    "year_override": 630
+  },
+  {
+    "name": "张九龄",
+    "alias": [
+      "张曲江"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "开元名相，诗人",
+    "first_appear": "705",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第二百一十卷(唐纪)",
+    "mention_count": 22,
+    "year_override": 705
+  },
+  {
+    "name": "符彦卿",
+    "alias": [],
+    "power": "后唐/后晋/后汉/后周/北宋",
+    "llm_introduction": "五代名将，历仕五朝",
+    "first_appear": "923",
+    "last_appear": "954",
+    "first_chapter": "资治通鉴第二百八十卷(后晋纪)",
+    "mention_count": 22,
+    "year_override": 923
+  },
+  {
+    "name": "李斯",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "秦国丞相，协助秦始皇统一",
+    "first_appear": "-237",
+    "last_appear": "692",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 21,
+    "year_override": null
+  },
+  {
+    "name": "班超",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "出使西域，投笔从戎",
+    "first_appear": "73",
+    "last_appear": "130",
+    "first_chapter": "资治通鉴第四十五卷(汉纪)",
+    "mention_count": 21,
+    "year_override": null
+  },
+  {
+    "name": "孟子",
+    "alias": [
+      "孟轲"
+    ],
+    "power": "儒家",
+    "llm_introduction": "儒家亚圣",
+    "first_appear": "-336",
+    "last_appear": "801",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 21,
+    "year_override": null
+  },
+  {
+    "name": "庄子",
+    "alias": [
+      "庄周"
+    ],
+    "power": "道家",
+    "llm_introduction": "道家代表人物",
+    "first_appear": "-391",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 21,
+    "year_override": null
+  },
+  {
+    "name": "项梁",
+    "alias": [],
+    "power": "西楚",
+    "llm_introduction": "项羽叔父，起兵反秦",
+    "first_appear": "-209",
+    "last_appear": "29",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 21,
+    "year_override": null
+  },
+  {
+    "name": "杨玉环",
+    "alias": [
+      "杨贵妃",
+      "太真"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐玄宗宠妃",
+    "first_appear": "740",
+    "last_appear": "756",
+    "first_chapter": "资治通鉴第九十三卷(晋纪)",
+    "mention_count": 21,
+    "year_override": 740
+  },
+  {
+    "name": "高从诲",
+    "alias": [],
+    "power": "荆南",
+    "llm_introduction": "荆南君主",
+    "first_appear": "928",
+    "last_appear": "948",
+    "first_chapter": "资治通览第二百七十三卷(后唐纪)",
+    "mention_count": 21,
+    "year_override": 928
+  },
+  {
+    "name": "廉颇",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵国名将",
+    "first_appear": "-279",
+    "last_appear": "852",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "贾谊",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "政论家，文学家",
+    "first_appear": "-206",
+    "last_appear": "812",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "公孙弘",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-130",
+    "last_appear": "299",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "师丹",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司马",
+    "first_appear": "-16",
+    "last_appear": "229",
+    "first_chapter": "资治通鉴第三十一卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "鲁肃",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "孙权谋士",
+    "first_appear": "198",
+    "last_appear": "221",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "范增",
+    "alias": [
+      "亚父"
+    ],
+    "power": "西楚",
+    "llm_introduction": "项羽谋士",
+    "first_appear": "-208",
+    "last_appear": "941",
+    "first_chapter": "资治通鉴第八卷(秦记)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "汉元帝",
+    "alias": [
+      "刘奭"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-49",
+    "last_appear": "828",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "曹仁",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹魏大将",
+    "first_appear": "199",
+    "last_appear": "696",
+    "first_chapter": "资治通鉴第六十三卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "陈群",
+    "alias": [
+      "陈长文"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "司空，制九品中正",
+    "first_appear": "198",
+    "last_appear": "284",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "文钦",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "扬州刺史，淮南三叛",
+    "first_appear": "250",
+    "last_appear": "261",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "朱序",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "淝水之战内应",
+    "first_appear": "365",
+    "last_appear": "392",
+    "first_chapter": "资治通鉴第一百零一卷(晋纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "陈庆之",
+    "alias": [
+      "白袍将军"
+    ],
+    "power": "南梁",
+    "llm_introduction": "名将，白袍北伐",
+    "first_appear": "525",
+    "last_appear": "548",
+    "first_chapter": "资治通鉴第一百五十卷(梁纪)",
+    "mention_count": 20,
+    "year_override": null
+  },
+  {
+    "name": "杜伏威",
+    "alias": [],
+    "power": "吴国",
+    "llm_introduction": "江淮起义领袖，后降唐",
+    "first_appear": "613",
+    "last_appear": "624",
+    "first_chapter": "资治通鉴第一百八十二卷(隋纪)",
+    "mention_count": 20,
+    "year_override": 613
+  },
+  {
+    "name": "薛仁贵",
+    "alias": [
+      "薛礼"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，三箭定天山",
+    "first_appear": "645",
+    "last_appear": "698",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 20,
+    "year_override": 645
+  },
+  {
+    "name": "周兴",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "武周酷吏，请君入瓮",
+    "first_appear": "690",
+    "last_appear": "721",
+    "first_chapter": "资治通鉴第二百零三卷(唐纪)",
+    "mention_count": 20,
+    "year_override": 690
+  },
+  {
+    "name": "高仙芝",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "安西节度使，怛罗斯之战",
+    "first_appear": "747",
+    "last_appear": "756",
+    "first_chapter": "资治通鉴第二百一十五卷(唐纪)",
+    "mention_count": 20,
+    "year_override": 747
+  },
+  {
+    "name": "杜佑",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "宰相，《通典》作者",
+    "first_appear": "780",
+    "last_appear": "828",
+    "first_chapter": "资治通鉴第一百二十卷(宋纪)",
+    "mention_count": 20,
+    "year_override": 780
+  },
+  {
+    "name": "苏秦",
+    "alias": [],
+    "power": "纵横家",
+    "llm_introduction": "纵横家，合纵抗秦",
+    "first_appear": "-333",
+    "last_appear": "231",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "丙吉",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-74",
+    "last_appear": "223",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "匡衡",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相，凿壁偷光",
+    "first_appear": "-44",
+    "last_appear": "246",
+    "first_chapter": "资治通鉴第二十八卷(汉纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "荀子",
+    "alias": [
+      "荀况",
+      "荀卿"
+    ],
+    "power": "儒家",
+    "llm_introduction": "儒家学者，性恶论",
+    "first_appear": "-292",
+    "last_appear": "417",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "夏侯渊",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹魏大将",
+    "first_appear": "201",
+    "last_appear": "249",
+    "first_chapter": "资治通鉴第六十四卷(汉纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "华歆",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "司徒",
+    "first_appear": "188",
+    "last_appear": "405",
+    "first_chapter": "资治通鉴第五十九卷(汉纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "祖逖",
+    "alias": [
+      "祖士稚"
+    ],
+    "power": "东晋",
+    "llm_introduction": "奋威将军，闻鸡起舞",
+    "first_appear": "303",
+    "last_appear": "339",
+    "first_chapter": "资治通鉴第八十五卷(晋纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "范晔",
+    "alias": [],
+    "power": "刘宋",
+    "llm_introduction": "史学家，《后汉书》作者",
+    "first_appear": "56",
+    "last_appear": "576",
+    "first_chapter": "资治通鉴第四十四卷(汉纪)",
+    "mention_count": 19,
+    "year_override": null
+  },
+  {
+    "name": "韩擒虎",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝名将，灭陈先锋",
+    "first_appear": "581",
+    "last_appear": "640",
+    "first_chapter": "资治通鉴第一百七十五卷(陈纪)",
+    "mention_count": 19,
+    "year_override": 581
+  },
+  {
+    "name": "虞世基",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝内史侍郎",
+    "first_appear": "604",
+    "last_appear": "637",
+    "first_chapter": "资治通鉴第一百七十七卷(隋纪)",
+    "mention_count": 19,
+    "year_override": 604
+  },
+  {
+    "name": "裴行俭",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "高宗时名将，西域平叛",
+    "first_appear": "655",
+    "last_appear": "725",
+    "first_chapter": "资治通鉴第一百九十九卷(唐纪)",
+    "mention_count": 19,
+    "year_override": 655
+  },
+  {
+    "name": "李豫",
+    "alias": [
+      "唐代宗"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "平定安史之乱",
+    "first_appear": "762",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百二十卷(唐纪)",
+    "mention_count": 19,
+    "year_override": 762
+  },
+  {
+    "name": "魏斯",
+    "alias": [
+      "魏文侯"
+    ],
+    "power": "魏国",
+    "llm_introduction": "魏国开国君主",
+    "first_appear": "-403",
+    "last_appear": "385",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "皇甫嵩",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "左将军，平定黄巾",
+    "first_appear": "184",
+    "last_appear": "192",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "诸葛瑾",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "东吴大臣",
+    "first_appear": "208",
+    "last_appear": "369",
+    "first_chapter": "资治通鉴第六十五卷(汉纪)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "郦食其",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "刘邦谋士，说齐归汉",
+    "first_appear": "-207",
+    "last_appear": "332",
+    "first_chapter": "资治通鉴第八卷(秦记)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "蔡邕",
+    "alias": [
+      "蔡伯喈"
+    ],
+    "power": "东汉",
+    "llm_introduction": "学者，书法家",
+    "first_appear": "172",
+    "last_appear": "504",
+    "first_chapter": "资治通鉴第五十七卷(汉纪)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "曹叡",
+    "alias": [
+      "魏明帝"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "魏国皇帝",
+    "first_appear": "226",
+    "last_appear": "825",
+    "first_chapter": "资治通鉴第七十卷(魏纪)",
+    "mention_count": 18,
+    "year_override": null
+  },
+  {
+    "name": "翟让",
+    "alias": [],
+    "power": "瓦岗军",
+    "llm_introduction": "瓦岗军创始人，被李密所杀",
+    "first_appear": "616",
+    "last_appear": "622",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 18,
+    "year_override": 616
+  },
+  {
+    "name": "马周",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "贞观名臣，布衣宰相",
+    "first_appear": "631",
+    "last_appear": "759",
+    "first_chapter": "资治通鉴第十一卷(汉纪)",
+    "mention_count": 18,
+    "year_override": 631
+  },
+  {
+    "name": "柴绍",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "驸马都尉，平阳公主之夫",
+    "first_appear": "617",
+    "last_appear": "652",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 18,
+    "year_override": 617
+  },
+  {
+    "name": "程元振",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "代宗时权宦",
+    "first_appear": "762",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百二十二卷(唐纪)",
+    "mention_count": 18,
+    "year_override": 762
+  },
+  {
+    "name": "武元衡",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "宪宗宰相，被藩镇刺杀",
+    "first_appear": "806",
+    "last_appear": "835",
+    "first_chapter": "资治通鉴第二百三十六卷(唐纪)",
+    "mention_count": 18,
+    "year_override": 806
+  },
+  {
+    "name": "张禹",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-25",
+    "last_appear": "876",
+    "first_chapter": "资治通鉴第三十卷(汉纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "蒙恬",
+    "alias": [],
+    "power": "秦朝",
+    "llm_introduction": "秦朝名将，修长城",
+    "first_appear": "-226",
+    "last_appear": "-3",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "樊哙",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "舞阳侯，鸿门宴救刘邦",
+    "first_appear": "-209",
+    "last_appear": "638",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "王政君",
+    "alias": [
+      "元后"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉元帝皇后，王莽姑母",
+    "first_appear": "-51",
+    "last_appear": "830",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "韩安国",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫",
+    "first_appear": "-154",
+    "last_appear": "175",
+    "first_chapter": "资治通鉴第十六卷(汉纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "张角",
+    "alias": [
+      "大贤良师"
+    ],
+    "power": "起义军",
+    "llm_introduction": "黄巾起义领袖",
+    "first_appear": "183",
+    "last_appear": "185",
+    "first_chapter": "资治通鉴第五十八卷(汉纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "满宠",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "征东将军",
+    "first_appear": "196",
+    "last_appear": "242",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "陆抗",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "大司马，陆逊之子",
+    "first_appear": "245",
+    "last_appear": "345",
+    "first_chapter": "资治通鉴第七十四卷(魏纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "张轨",
+    "alias": [],
+    "power": "前凉",
+    "llm_introduction": "前凉奠基者",
+    "first_appear": "301",
+    "last_appear": "534",
+    "first_chapter": "资治通鉴第八十四卷(晋纪)",
+    "mention_count": 17,
+    "year_override": null
+  },
+  {
+    "name": "元稹",
+    "alias": [
+      "元微之"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗人，与白居易并称元白",
+    "first_appear": "800",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第二百三十七卷(唐纪)",
+    "mention_count": 17,
+    "year_override": 800
+  },
+  {
+    "name": "李绅",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "诗人，悯农",
+    "first_appear": "800",
+    "last_appear": "860",
+    "first_chapter": "资治通鉴第二百三十六卷(唐纪)",
+    "mention_count": 17,
+    "year_override": 800
+  },
+  {
+    "name": "刘龑",
+    "alias": [
+      "刘岩"
+    ],
+    "power": "南汉",
+    "llm_introduction": "南汉开国皇帝",
+    "first_appear": "917",
+    "last_appear": "992",
+    "first_chapter": "资治通鉴第二百六十七卷(后梁纪)",
+    "mention_count": 17,
+    "year_override": 917
+  },
+  {
+    "name": "信陵君",
+    "alias": [
+      "魏无忌"
+    ],
+    "power": "魏国",
+    "llm_introduction": "战国四公子之一，窃符救赵",
+    "first_appear": "-276",
+    "last_appear": "-127",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "扬雄",
+    "alias": [],
+    "power": "西汉/新朝",
+    "llm_introduction": "文学家，哲学家",
+    "first_appear": "-310",
+    "last_appear": "554",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "寇恂",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "执金吾，云台二十八将",
+    "first_appear": "23",
+    "last_appear": "501",
+    "first_chapter": "资治通鉴第三十九卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "陈汤",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "西域副校尉，斩郅支单于",
+    "first_appear": "-36",
+    "last_appear": "678",
+    "first_chapter": "资治通鉴第二十九卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "袁安",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "司徒",
+    "first_appear": "71",
+    "last_appear": "219",
+    "first_chapter": "资治通鉴第四十五卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "夏侯婴",
+    "alias": [
+      "滕公"
+    ],
+    "power": "西汉",
+    "llm_introduction": "太仆，车夫将军",
+    "first_appear": "-206",
+    "last_appear": "559",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "孔融",
+    "alias": [
+      "孔文举"
+    ],
+    "power": "东汉",
+    "llm_introduction": "北海相，建安七子",
+    "first_appear": "169",
+    "last_appear": "553",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "贾诩",
+    "alias": [
+      "贾文和"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "谋士，算无遗策",
+    "first_appear": "192",
+    "last_appear": "306",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "张辽",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹魏名将，逍遥津之战",
+    "first_appear": "198",
+    "last_appear": "399",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "宇文赟",
+    "alias": [
+      "周宣帝"
+    ],
+    "power": "北周",
+    "llm_introduction": "北周皇帝",
+    "first_appear": "578",
+    "last_appear": "606",
+    "first_chapter": "资治通鉴第一百七十三卷(陈纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "魏收",
+    "alias": [],
+    "power": "北齐",
+    "llm_introduction": "史学家，《魏书》作者",
+    "first_appear": "499",
+    "last_appear": "583",
+    "first_chapter": "资治通鉴第一百四十二卷(齐纪)",
+    "mention_count": 16,
+    "year_override": null
+  },
+  {
+    "name": "王忠嗣",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "四镇节度使，盛唐第一名将",
+    "first_appear": "730",
+    "last_appear": "777",
+    "first_chapter": "资治通鉴第二百一十一卷(唐纪)",
+    "mention_count": 16,
+    "year_override": 730
+  },
+  {
+    "name": "韩愈",
+    "alias": [
+      "韩退之",
+      "韩昌黎",
+      "韩文公"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "古文运动领袖，谏迎佛骨",
+    "first_appear": "795",
+    "last_appear": "823",
+    "first_chapter": "资治通鉴第二百三十五卷(唐纪)",
+    "mention_count": 16,
+    "year_override": 795
+  },
+  {
+    "name": "白居易",
+    "alias": [
+      "白乐天",
+      "白香山"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "大诗人，新乐府运动",
+    "first_appear": "800",
+    "last_appear": "944",
+    "first_chapter": "资治通鉴第二百三十七卷(唐纪)",
+    "mention_count": 16,
+    "year_override": 800
+  },
+  {
+    "name": "周亚夫",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "太尉，平定七国之乱",
+    "first_appear": "-158",
+    "last_appear": "370",
+    "first_chapter": "资治通鉴第十五卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "张汤",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "酷吏，廷尉",
+    "first_appear": "-130",
+    "last_appear": "-67",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "李陵",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "骑都尉，降匈奴",
+    "first_appear": "-99",
+    "last_appear": "843",
+    "first_chapter": "资治通鉴第二十一卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "朱博",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-16",
+    "last_appear": "122",
+    "first_chapter": "资治通鉴第三十一卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "张让",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "宦官，十常侍之首",
+    "first_appear": "165",
+    "last_appear": "665",
+    "first_chapter": "资治通鉴第五十五卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "赵云",
+    "alias": [
+      "赵子龙"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉名将",
+    "first_appear": "191",
+    "last_appear": "228",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "曹真",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "大将军",
+    "first_appear": "222",
+    "last_appear": "238",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "司马衷",
+    "alias": [
+      "晋惠帝"
+    ],
+    "power": "西晋",
+    "llm_introduction": "西晋皇帝，何不食肉糜",
+    "first_appear": "267",
+    "last_appear": "736",
+    "first_chapter": "资治通鉴第七十九卷(晋纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "山涛",
+    "alias": [
+      "山巨源"
+    ],
+    "power": "西晋",
+    "llm_introduction": "竹林七贤之一",
+    "first_appear": "262",
+    "last_appear": "309",
+    "first_chapter": "资治通鉴第七十八卷(魏纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "司马曜",
+    "alias": [
+      "晋孝武帝"
+    ],
+    "power": "东晋",
+    "llm_introduction": "东晋皇帝",
+    "first_appear": "315",
+    "last_appear": "463",
+    "first_chapter": "资治通鉴第八十九卷(晋纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "萧统",
+    "alias": [
+      "昭明太子"
+    ],
+    "power": "南梁",
+    "llm_introduction": "梁武帝太子，《文选》编纂者",
+    "first_appear": "502",
+    "last_appear": "555",
+    "first_chapter": "资治通鉴第一百四十五卷(梁纪)",
+    "mention_count": 15,
+    "year_override": null
+  },
+  {
+    "name": "薛举",
+    "alias": [],
+    "power": "西秦",
+    "llm_introduction": "陇西军阀，称西秦霸王",
+    "first_appear": "617",
+    "last_appear": "618",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 15,
+    "year_override": 617
+  },
+  {
+    "name": "程知节",
+    "alias": [
+      "程咬金"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将",
+    "first_appear": "617",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 15,
+    "year_override": 617
+  },
+  {
+    "name": "阿史那社尔",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "突厥族唐将",
+    "first_appear": "635",
+    "last_appear": "747",
+    "first_chapter": "资治通鉴第一百九十四卷(唐纪)",
+    "mention_count": 15,
+    "year_override": 635
+  },
+  {
+    "name": "李承乾",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "唐太宗太子，谋反被废",
+    "first_appear": "630",
+    "last_appear": "826",
+    "first_chapter": "资治通鉴第一百九十二卷(唐纪)",
+    "mention_count": 15,
+    "year_override": 630
+  },
+  {
+    "name": "刘隐",
+    "alias": [],
+    "power": "南汉",
+    "llm_introduction": "南汉奠基者",
+    "first_appear": "894",
+    "last_appear": "944",
+    "first_chapter": "资治通鉴第二百五十九卷(唐纪)",
+    "mention_count": 15,
+    "year_override": 894
+  },
+  {
+    "name": "孟尝君",
+    "alias": [
+      "田文"
+    ],
+    "power": "齐国",
+    "llm_introduction": "战国四公子之一",
+    "first_appear": "-387",
+    "last_appear": "-127",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "春申君",
+    "alias": [
+      "黄歇"
+    ],
+    "power": "楚国",
+    "llm_introduction": "战国四公子之一",
+    "first_appear": "-273",
+    "last_appear": "-127",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "张衡",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "科学家，地动仪",
+    "first_appear": "133",
+    "last_appear": "612",
+    "first_chapter": "资治通鉴第五十一卷(汉纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "桑弘羊",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "财政改革家",
+    "first_appear": "-119",
+    "last_appear": "808",
+    "first_chapter": "资治通鉴第十九卷(汉纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "张释之",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "廷尉，执法不阿",
+    "first_appear": "-177",
+    "last_appear": "696",
+    "first_chapter": "资治通鉴第十四卷(汉纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "陶谦",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "徐州牧",
+    "first_appear": "191",
+    "last_appear": "196",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "徐晃",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹魏名将",
+    "first_appear": "200",
+    "last_appear": "222",
+    "first_chapter": "资治通鉴第六十三卷(汉纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "刘子业",
+    "alias": [
+      "宋前废帝"
+    ],
+    "power": "刘宋",
+    "llm_introduction": "刘宋暴君",
+    "first_appear": "454",
+    "last_appear": "466",
+    "first_chapter": "资治通鉴第一百二十八卷(宋纪)",
+    "mention_count": 14,
+    "year_override": null
+  },
+  {
+    "name": "李德林",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝学者，参与修律令",
+    "first_appear": "581",
+    "last_appear": "618",
+    "first_chapter": "资治通鉴第一百七十一卷(陈纪)",
+    "mention_count": 14,
+    "year_override": 581
+  },
+  {
+    "name": "乐毅",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "燕国名将",
+    "first_appear": "-312",
+    "last_appear": "371",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "王翦",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "秦国名将",
+    "first_appear": "-236",
+    "last_appear": "784",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "汉明帝",
+    "alias": [
+      "刘庄"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "43",
+    "last_appear": "819",
+    "first_chapter": "资治通鉴第四十三卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "公孙敖",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "将军",
+    "first_appear": "-139",
+    "last_appear": "-96",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "黄霸",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-73",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "杨震",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "太尉，四知先生",
+    "first_appear": "110",
+    "last_appear": "398",
+    "first_chapter": "资治通鉴第四十九卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "汉惠帝",
+    "alias": [
+      "刘盈"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-205",
+    "last_appear": "654",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "江充",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "酷吏，巫蛊之祸始作俑者",
+    "first_appear": "-94",
+    "last_appear": "736",
+    "first_chapter": "资治通鉴第二十二卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "张绣",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "军阀，降而复叛曹操",
+    "first_appear": "196",
+    "last_appear": "620",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 13,
+    "year_override": null
+  },
+  {
+    "name": "裴蕴",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝御史大夫",
+    "first_appear": "604",
+    "last_appear": "637",
+    "first_chapter": "资治通鉴第一百八十卷(隋纪)",
+    "mention_count": 13,
+    "year_override": 604
+  },
+  {
+    "name": "薛道衡",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "诗人，被杨广所杀",
+    "first_appear": "581",
+    "last_appear": "621",
+    "first_chapter": "资治通鉴第一百七十三卷(陈纪)",
+    "mention_count": 13,
+    "year_override": 581
+  },
+  {
+    "name": "吕不韦",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "秦国丞相，奇货可居",
+    "first_appear": "-257",
+    "last_appear": "-235",
+    "first_chapter": "资治通鉴第五卷(周纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "苏武",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "出使匈奴，北海牧羊",
+    "first_appear": "-100",
+    "last_appear": "495",
+    "first_chapter": "资治通鉴第二十一卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "窦婴",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-154",
+    "last_appear": "566",
+    "first_chapter": "资治通鉴第十六卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "杜延年",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫",
+    "first_appear": "-82",
+    "last_appear": "-33",
+    "first_chapter": "资治通鉴第二十三卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "班勇",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "西域长史",
+    "first_appear": "102",
+    "last_appear": "127",
+    "first_chapter": "资治通鉴第四十八卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "第五伦",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "司空",
+    "first_appear": "55",
+    "last_appear": "159",
+    "first_chapter": "资治通鉴第四十四卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "郭嘉",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹操谋士",
+    "first_appear": "196",
+    "last_appear": "765",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "韩非",
+    "alias": [
+      "韩非子"
+    ],
+    "power": "法家",
+    "llm_introduction": "法家集大成者",
+    "first_appear": "-233",
+    "last_appear": "400",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "谢灵运",
+    "alias": [
+      "谢康乐"
+    ],
+    "power": "刘宋",
+    "llm_introduction": "诗人，山水诗鼻祖",
+    "first_appear": "424",
+    "last_appear": "547",
+    "first_chapter": "资治通鉴第一百二十卷(宋纪)",
+    "mention_count": 12,
+    "year_override": null
+  },
+  {
+    "name": "秦琼",
+    "alias": [
+      "秦叔宝"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，门神",
+    "first_appear": "617",
+    "last_appear": "643",
+    "first_chapter": "资治通鉴第一百八十二卷(隋纪)",
+    "mention_count": 12,
+    "year_override": 617
+  },
+  {
+    "name": "长孙皇后",
+    "alias": [
+      "文德皇后"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "李世民皇后，贤内助",
+    "first_appear": "617",
+    "last_appear": "719",
+    "first_chapter": "资治通鉴第七十三卷(魏纪)",
+    "mention_count": 12,
+    "year_override": 617
+  },
+  {
+    "name": "齐威王",
+    "alias": [
+      "田因齐"
+    ],
+    "power": "齐国",
+    "llm_introduction": "齐国君主",
+    "first_appear": "-379",
+    "last_appear": "-219",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "秦孝公",
+    "alias": [],
+    "power": "秦国",
+    "llm_introduction": "秦国君主，任用商鞅变法",
+    "first_appear": "-362",
+    "last_appear": "-255",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "田单",
+    "alias": [],
+    "power": "齐国",
+    "llm_introduction": "齐国名将，火牛阵破燕",
+    "first_appear": "-279",
+    "last_appear": "384",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "蔺相如",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵国上卿，完璧归赵",
+    "first_appear": "-283",
+    "last_appear": "352",
+    "first_chapter": "资治通鉴第四卷(周纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "杨仆",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "楼船将军",
+    "first_appear": "-112",
+    "last_appear": "220",
+    "first_chapter": "资治通鉴第二十卷(汉纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "卢植",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "北中郎将",
+    "first_appear": "168",
+    "last_appear": "236",
+    "first_chapter": "资治通鉴第五十六卷(汉纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "魏惠王",
+    "alias": [
+      "梁惠王",
+      "魏罃"
+    ],
+    "power": "魏国",
+    "llm_introduction": "魏国君主，迁都大梁",
+    "first_appear": "-369",
+    "last_appear": "-203",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "常惠",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "出使西域，经营乌孙",
+    "first_appear": "-100",
+    "last_appear": "-33",
+    "first_chapter": "资治通鉴第二十一卷(汉纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "魏延",
+    "alias": [],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉名将",
+    "first_appear": "219",
+    "last_appear": "949",
+    "first_chapter": "资治通鉴第六十八卷(汉纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "董允",
+    "alias": [],
+    "power": "蜀汉",
+    "llm_introduction": "尚书令",
+    "first_appear": "227",
+    "last_appear": "262",
+    "first_chapter": "资治通鉴第七十卷(魏纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "萧纲",
+    "alias": [
+      "梁简文帝"
+    ],
+    "power": "南梁",
+    "llm_introduction": "南梁皇帝",
+    "first_appear": "506",
+    "last_appear": "646",
+    "first_chapter": "资治通鉴第一百四十六卷(梁纪)",
+    "mention_count": 11,
+    "year_override": null
+  },
+  {
+    "name": "来护儿",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋朝名将，征高丽有功",
+    "first_appear": "604",
+    "last_appear": "643",
+    "first_chapter": "资治通鉴第一百七十七卷(隋纪)",
+    "mention_count": 11,
+    "year_override": 604
+  },
+  {
+    "name": "虞世南",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "书法家，太宗十八学士",
+    "first_appear": "618",
+    "last_appear": "705",
+    "first_chapter": "资治通鉴第一百八十二卷(隋纪)",
+    "mention_count": 11,
+    "year_override": 618
+  },
+  {
+    "name": "许远",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "睢阳太守",
+    "first_appear": "756",
+    "last_appear": "757",
+    "first_chapter": "资治通鉴第二百一十四卷(唐纪)",
+    "mention_count": 11,
+    "year_override": 756
+  },
+  {
+    "name": "李亨",
+    "alias": [
+      "唐肃宗"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "灵武即位，主持平叛",
+    "first_appear": "756",
+    "last_appear": "935",
+    "first_chapter": "资治通鉴第二百一十五卷(唐纪)",
+    "mention_count": 11,
+    "year_override": 756
+  },
+  {
+    "name": "朱买臣",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "会稽太守",
+    "first_appear": "-138",
+    "last_appear": "554",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "郑众",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "宦官，诛窦宪",
+    "first_appear": "61",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第四十五卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "彭宣",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司空",
+    "first_appear": "-7",
+    "last_appear": "-1",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "翟方进",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-12",
+    "last_appear": "8",
+    "first_chapter": "资治通鉴第三十二卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "赵破奴",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "将军",
+    "first_appear": "-121",
+    "last_appear": "-100",
+    "first_chapter": "资治通鉴第十九卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "贡禹",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫",
+    "first_appear": "-48",
+    "last_appear": "11",
+    "first_chapter": "资治通鉴第二十八卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "李牧",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵国名将，御匈奴",
+    "first_appear": "-244",
+    "last_appear": "852",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "韩王信",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "韩王，后降匈奴",
+    "first_appear": "-205",
+    "last_appear": "-196",
+    "first_chapter": "资治通鉴第九卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "刘歆",
+    "alias": [],
+    "power": "西汉/新朝",
+    "llm_introduction": "学者，古文经学开创者",
+    "first_appear": "-24",
+    "last_appear": "423",
+    "first_chapter": "资治通鉴第三十卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "龚遂",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "渤海太守，循吏",
+    "first_appear": "-74",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "郑玄",
+    "alias": [
+      "郑康成"
+    ],
+    "power": "东汉",
+    "llm_introduction": "经学大师",
+    "first_appear": "166",
+    "last_appear": "709",
+    "first_chapter": "资治通鉴第五十五卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "沮授",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "袁绍谋士",
+    "first_appear": "191",
+    "last_appear": "202",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "郭淮",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "征西将军",
+    "first_appear": "219",
+    "last_appear": "255",
+    "first_chapter": "资治通鉴第六十八卷(汉纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "宇文觉",
+    "alias": [
+      "周孝闵帝"
+    ],
+    "power": "北周",
+    "llm_introduction": "北周开国皇帝",
+    "first_appear": "542",
+    "last_appear": "581",
+    "first_chapter": "资治通鉴第一百五十八卷(梁纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "苏绰",
+    "alias": [],
+    "power": "西魏",
+    "llm_introduction": "宇文泰的首席谋臣",
+    "first_appear": "535",
+    "last_appear": "581",
+    "first_chapter": "资治通鉴第一百五十七卷(梁纪)",
+    "mention_count": 10,
+    "year_override": null
+  },
+  {
+    "name": "颜杲卿",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "常山太守，被安禄山杀",
+    "first_appear": "755",
+    "last_appear": "783",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 10,
+    "year_override": 755
+  },
+  {
+    "name": "马希声",
+    "alias": [],
+    "power": "楚国",
+    "llm_introduction": "楚国王",
+    "first_appear": "930",
+    "last_appear": "959",
+    "first_chapter": "资治通鉴第二百七十六卷(后唐纪)",
+    "mention_count": 10,
+    "year_override": 930
+  },
+  {
+    "name": "赵武灵王",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵国君主，胡服骑射",
+    "first_appear": "-326",
+    "last_appear": "646",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "张骞",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "出使西域，开辟丝绸之路",
+    "first_appear": "-126",
+    "last_appear": "-111",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "主父偃",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "提出推恩令",
+    "first_appear": "-128",
+    "last_appear": "243",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "汉桓帝",
+    "alias": [
+      "刘志"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-164",
+    "last_appear": "828",
+    "first_chapter": "资治通鉴第十五卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "路博德",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "伏波将军",
+    "first_appear": "-119",
+    "last_appear": "-97",
+    "first_chapter": "资治通鉴第十九卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "冯奉世",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "左将军",
+    "first_appear": "-65",
+    "last_appear": "22",
+    "first_chapter": "资治通鉴第二十五卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "甘延寿",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "西域都护",
+    "first_appear": "-53",
+    "last_appear": "-7",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "韦玄成",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-62",
+    "last_appear": "-33",
+    "first_chapter": "资治通鉴第二十五卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "虞诩",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "尚书令",
+    "first_appear": "110",
+    "last_appear": "136",
+    "first_chapter": "资治通鉴第四十九卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "赵奢",
+    "alias": [
+      "马服君"
+    ],
+    "power": "赵国",
+    "llm_introduction": "赵国名将",
+    "first_appear": "-271",
+    "last_appear": "-29",
+    "first_chapter": "资治通鉴第五卷(周纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "汉哀帝",
+    "alias": [
+      "刘欣"
+    ],
+    "power": "西汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "-9",
+    "last_appear": "783",
+    "first_chapter": "资治通鉴第三十二卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "郑吉",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "首任西域都护",
+    "first_appear": "-67",
+    "last_appear": "-33",
+    "first_chapter": "资治通鉴第二十五卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "程昱",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹操谋士",
+    "first_appear": "192",
+    "last_appear": "212",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "甘宁",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "东吴猛将",
+    "first_appear": "194",
+    "last_appear": "303",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "庞统",
+    "alias": [
+      "凤雏"
+    ],
+    "power": "蜀汉",
+    "llm_introduction": "刘备谋士",
+    "first_appear": "207",
+    "last_appear": "214",
+    "first_chapter": "资治通鉴第六十五卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "田丰",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "袁绍谋士",
+    "first_appear": "191",
+    "last_appear": "200",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 9,
+    "year_override": 191
+  },
+  {
+    "name": "陈登",
+    "alias": [
+      "陈元龙"
+    ],
+    "power": "东汉",
+    "llm_introduction": "广陵太守",
+    "first_appear": "194",
+    "last_appear": "784",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "司马衍",
+    "alias": [
+      "晋成帝"
+    ],
+    "power": "东晋",
+    "llm_introduction": "东晋皇帝",
+    "first_appear": "321",
+    "last_appear": "566",
+    "first_chapter": "资治通鉴第九十一卷(晋纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "谢石",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "谢安弟，淝水之战主帅",
+    "first_appear": "379",
+    "last_appear": "388",
+    "first_chapter": "资治通鉴第一百零四卷(晋纪)",
+    "mention_count": 9,
+    "year_override": null
+  },
+  {
+    "name": "上官婉儿",
+    "alias": [
+      "上官昭容"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "武则天女官，诗人",
+    "first_appear": "695",
+    "last_appear": "754",
+    "first_chapter": "资治通鉴第二百零八卷(唐纪)",
+    "mention_count": 9,
+    "year_override": 695
+  },
+  {
+    "name": "封常清",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "安西副都护",
+    "first_appear": "747",
+    "last_appear": "756",
+    "first_chapter": "资治通鉴第二百一十六卷(唐纪)",
+    "mention_count": 9,
+    "year_override": 747
+  },
+  {
+    "name": "杜牧",
+    "alias": [
+      "杜牧之",
+      "小杜"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗人",
+    "first_appear": "825",
+    "last_appear": "849",
+    "first_chapter": "资治通鉴第六十六卷(汉纪)",
+    "mention_count": 9,
+    "year_override": 825
+  },
+  {
+    "name": "司马迁",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "史学家，《史记》作者",
+    "first_appear": "-110",
+    "last_appear": "192",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 8,
+    "year_override": -110
+  },
+  {
+    "name": "李寻",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "骑都尉",
+    "first_appear": "-17",
+    "last_appear": "829",
+    "first_chapter": "资治通鉴第三十一卷(汉纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "东方朔",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "文学家，诙谐善谏",
+    "first_appear": "-138",
+    "last_appear": "230",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "夏侯胜",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "太子太傅",
+    "first_appear": "-74",
+    "last_appear": "-51",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "申不害",
+    "alias": [],
+    "power": "法家",
+    "llm_introduction": "法家，韩国变法",
+    "first_appear": "-351",
+    "last_appear": "318",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "扶苏",
+    "alias": [],
+    "power": "秦朝",
+    "llm_introduction": "秦始皇长子",
+    "first_appear": "-212",
+    "last_appear": "-91",
+    "first_chapter": "资治通鉴第七卷(秦记)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "郅都",
+    "alias": [
+      "苍鹰"
+    ],
+    "power": "西汉",
+    "llm_introduction": "酷吏，中尉",
+    "first_appear": "-150",
+    "last_appear": "383",
+    "first_chapter": "资治通鉴第十六卷(汉纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "裴秀",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "制图学家，禹贡地域图",
+    "first_appear": "256",
+    "last_appear": "291",
+    "first_chapter": "资治通鉴第七十七卷(魏纪)",
+    "mention_count": 8,
+    "year_override": null
+  },
+  {
+    "name": "王通",
+    "alias": [
+      "文中子"
+    ],
+    "power": "隋朝",
+    "llm_introduction": "隋末大儒，河汾之学",
+    "first_appear": "600",
+    "last_appear": "926",
+    "first_chapter": "资治通鉴第一百四十七卷(梁纪)",
+    "mention_count": 8,
+    "year_override": 600
+  },
+  {
+    "name": "不空",
+    "alias": [],
+    "power": "唐朝/佛教",
+    "llm_introduction": "密宗高僧，开元三大士",
+    "first_appear": "720",
+    "last_appear": "774",
+    "first_chapter": "资治通鉴第二十三卷(汉纪)",
+    "mention_count": 8,
+    "year_override": 720
+  },
+  {
+    "name": "燕昭王",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "燕国君主，筑黄金台招贤",
+    "first_appear": "-312",
+    "last_appear": "371",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "卜式",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫",
+    "first_appear": "-119",
+    "last_appear": "808",
+    "first_chapter": "资治通鉴第十九卷(汉纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "薛宣",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-32",
+    "last_appear": "714",
+    "first_chapter": "资治通鉴第三十卷(汉纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "燕太子丹",
+    "alias": [
+      "姬丹"
+    ],
+    "power": "燕国",
+    "llm_introduction": "燕国太子，遣荆轲刺秦",
+    "first_appear": "-232",
+    "last_appear": "-222",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "田忌",
+    "alias": [],
+    "power": "齐国",
+    "llm_introduction": "齐国将军",
+    "first_appear": "-353",
+    "last_appear": "-333",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "许攸",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "袁绍谋士，后降曹操",
+    "first_appear": "191",
+    "last_appear": "370",
+    "first_chapter": "资治通鉴第六十卷(汉纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "嵇康",
+    "alias": [
+      "嵇叔夜"
+    ],
+    "power": "西晋",
+    "llm_introduction": "竹林七贤之一，被司马昭所杀",
+    "first_appear": "262",
+    "last_appear": "445",
+    "first_chapter": "资治通鉴第七十八卷(魏纪)",
+    "mention_count": 7,
+    "year_override": null
+  },
+  {
+    "name": "罗艺",
+    "alias": [],
+    "power": "隋末/唐朝",
+    "llm_introduction": "幽州军阀，后降唐",
+    "first_appear": "617",
+    "last_appear": "619",
+    "first_chapter": "资治通鉴第一百八十三卷(隋纪)",
+    "mention_count": 7,
+    "year_override": 617
+  },
+  {
+    "name": "柳宗元",
+    "alias": [
+      "柳子厚",
+      "柳河东"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "文学家，古文运动，永贞革新",
+    "first_appear": "805",
+    "last_appear": "815",
+    "first_chapter": "资治通鉴第二百三十六卷(唐纪)",
+    "mention_count": 7,
+    "year_override": 805
+  },
+  {
+    "name": "刘禹锡",
+    "alias": [
+      "刘梦得",
+      "刘宾客"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗人，永贞革新",
+    "first_appear": "805",
+    "last_appear": "873",
+    "first_chapter": "资治通鉴第二百三十六卷(唐纪)",
+    "mention_count": 7,
+    "year_override": 805
+  },
+  {
+    "name": "董仲舒",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "儒家学者，罢黜百家",
+    "first_appear": "-140",
+    "last_appear": "-7",
+    "first_chapter": "资治通鉴第十七卷(汉纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "汉顺帝",
+    "alias": [
+      "刘保"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "115",
+    "last_appear": "953",
+    "first_chapter": "资治通鉴第四十九卷(汉纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "于定国",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-69",
+    "last_appear": "-22",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "齐宣王",
+    "alias": [
+      "田辟彊"
+    ],
+    "power": "齐国",
+    "llm_introduction": "齐国君主，稷下学宫",
+    "first_appear": "-333",
+    "last_appear": "372",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "赵广汉",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "京兆尹，能吏",
+    "first_appear": "-71",
+    "last_appear": "-21",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "孙亮",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "吴国皇帝",
+    "first_appear": "250",
+    "last_appear": "260",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "孙皓",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "吴国末代皇帝",
+    "first_appear": "269",
+    "last_appear": "509",
+    "first_chapter": "资治通鉴第七十九卷(晋纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "司马绍",
+    "alias": [
+      "晋明帝"
+    ],
+    "power": "东晋",
+    "llm_introduction": "东晋皇帝",
+    "first_appear": "313",
+    "last_appear": "322",
+    "first_chapter": "资治通鉴第八十八卷(晋纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "王羲之",
+    "alias": [
+      "王右军"
+    ],
+    "power": "东晋",
+    "llm_introduction": "书圣",
+    "first_appear": "348",
+    "last_appear": "399",
+    "first_chapter": "资治通鉴第九十八卷(晋纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "郦道元",
+    "alias": [],
+    "power": "北魏",
+    "llm_introduction": "地理学家，《水经注》",
+    "first_appear": "508",
+    "last_appear": "527",
+    "first_chapter": "资治通鉴第一百四十七卷(梁纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "颜之推",
+    "alias": [],
+    "power": "北齐/隋朝",
+    "llm_introduction": "学者，《颜氏家训》",
+    "first_appear": "561",
+    "last_appear": "619",
+    "first_chapter": "资治通鉴第一百六十八卷(陈纪)",
+    "mention_count": 6,
+    "year_override": null
+  },
+  {
+    "name": "赵籍",
+    "alias": [
+      "赵烈侯"
+    ],
+    "power": "赵国",
+    "llm_introduction": "赵国开国君主",
+    "first_appear": "-403",
+    "last_appear": "-387",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "赵无恤",
+    "alias": [
+      "赵襄子"
+    ],
+    "power": "赵国",
+    "llm_introduction": "赵国君主，晋阳之战击败智瑶",
+    "first_appear": "-403",
+    "last_appear": "-403",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "孙膑",
+    "alias": [],
+    "power": "齐国",
+    "llm_introduction": "军事家，孙武后代",
+    "first_appear": "-353",
+    "last_appear": "115",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "吴广",
+    "alias": [],
+    "power": "起义军",
+    "llm_introduction": "大泽乡起义领袖",
+    "first_appear": "-310",
+    "last_appear": "10",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "汉和帝",
+    "alias": [
+      "刘肇"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "82",
+    "last_appear": "326",
+    "first_chapter": "资治通鉴第四十六卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "孙宝",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大司农",
+    "first_appear": "-12",
+    "last_appear": "2",
+    "first_chapter": "资治通鉴第三十二卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "龚胜",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "光禄大夫",
+    "first_appear": "-6",
+    "last_appear": "11",
+    "first_chapter": "资治通鉴第三十三卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "荆轲",
+    "alias": [],
+    "power": "燕国",
+    "llm_introduction": "刺客，刺秦王",
+    "first_appear": "-228",
+    "last_appear": "784",
+    "first_chapter": "资治通鉴第六卷(秦纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "杜周",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "酷吏，廷尉",
+    "first_appear": "-109",
+    "last_appear": "376",
+    "first_chapter": "资治通鉴第二十一卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "疏广",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "太子太傅，知足",
+    "first_appear": "-67",
+    "last_appear": "-63",
+    "first_chapter": "资治通鉴第二十五卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "黄忠",
+    "alias": [],
+    "power": "蜀汉",
+    "llm_introduction": "蜀汉名将",
+    "first_appear": "214",
+    "last_appear": "219",
+    "first_chapter": "资治通鉴第六十七卷(汉纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "孙休",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "吴国皇帝",
+    "first_appear": "252",
+    "last_appear": "264",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "阮籍",
+    "alias": [
+      "阮嗣宗"
+    ],
+    "power": "西晋",
+    "llm_introduction": "竹林七贤之一",
+    "first_appear": "262",
+    "last_appear": "931",
+    "first_chapter": "资治通鉴第七十八卷(魏纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "陈寿",
+    "alias": [],
+    "power": "西晋",
+    "llm_introduction": "史学家，《三国志》作者",
+    "first_appear": "221",
+    "last_appear": "246",
+    "first_chapter": "资治通鉴第六十九卷(魏纪)",
+    "mention_count": 5,
+    "year_override": null
+  },
+  {
+    "name": "徐惠",
+    "alias": [
+      "徐贤妃"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐太宗妃嫔，谏伐高丽",
+    "first_appear": "640",
+    "last_appear": "918",
+    "first_chapter": "资治通鉴第一百九十八卷(唐纪)",
+    "mention_count": 5,
+    "year_override": 640
+  },
+  {
+    "name": "上官仪",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "高宗宰相，被武则天所杀",
+    "first_appear": "655",
+    "last_appear": "705",
+    "first_chapter": "资治通鉴第二百零一卷(唐纪)",
+    "mention_count": 5,
+    "year_override": 655
+  },
+  {
+    "name": "韦庄",
+    "alias": [],
+    "power": "唐朝/前蜀",
+    "llm_introduction": "诗人、词人",
+    "first_appear": "880",
+    "last_appear": "910",
+    "first_chapter": "资治通鉴第二百六十四卷(唐纪)",
+    "mention_count": 5,
+    "year_override": 880
+  },
+  {
+    "name": "柳公权",
+    "alias": [
+      "柳诚悬"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "书法家，柳体",
+    "first_appear": "820",
+    "last_appear": "842",
+    "first_chapter": "资治通鉴第二百四十一卷(唐纪)",
+    "mention_count": 5,
+    "year_override": 820
+  },
+  {
+    "name": "周赧王",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "周朝末代君主",
+    "first_appear": "-315",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "韩虔",
+    "alias": [
+      "韩景侯"
+    ],
+    "power": "韩国",
+    "llm_introduction": "韩国开国君主",
+    "first_appear": "-403",
+    "last_appear": "-400",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "庞涓",
+    "alias": [],
+    "power": "魏国",
+    "llm_introduction": "魏国将军",
+    "first_appear": "-353",
+    "last_appear": "550",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "楚悼王",
+    "alias": [],
+    "power": "楚国",
+    "llm_introduction": "楚国君主，支持吴起变法",
+    "first_appear": "-402",
+    "last_appear": "-255",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "汉安帝",
+    "alias": [
+      "刘祜"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "106",
+    "last_appear": "107",
+    "first_chapter": "资治通鉴第四十九卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "段会宗",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "西域都护",
+    "first_appear": "-51",
+    "last_appear": "-11",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "韦贤",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "丞相",
+    "first_appear": "-71",
+    "last_appear": "84",
+    "first_chapter": "资治通鉴第二十四卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "辛庆忌",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "左将军",
+    "first_appear": "-16",
+    "last_appear": "3",
+    "first_chapter": "资治通鉴第三十一卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "秦昭襄王",
+    "alias": [
+      "嬴稷"
+    ],
+    "power": "秦国",
+    "llm_introduction": "秦国君主，长平之战时期",
+    "first_appear": "-307",
+    "last_appear": "-251",
+    "first_chapter": "资治通鉴第三卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "赵括",
+    "alias": [],
+    "power": "赵国",
+    "llm_introduction": "赵将，纸上谈兵",
+    "first_appear": "-260",
+    "last_appear": "-29",
+    "first_chapter": "资治通鉴第五卷(周纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "傅介子",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "出使西域，斩楼兰王",
+    "first_appear": "-77",
+    "last_appear": "-77",
+    "first_chapter": "资治通鉴第二十三卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "汉少帝",
+    "alias": [
+      "刘辩"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝，被董卓废",
+    "first_appear": "189",
+    "last_appear": "190",
+    "first_chapter": "资治通鉴第五十九卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "许褚",
+    "alias": [
+      "虎痴"
+    ],
+    "power": "曹魏",
+    "llm_introduction": "曹操护卫",
+    "first_appear": "197",
+    "last_appear": "215",
+    "first_chapter": "资治通鉴第六十二卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "太史慈",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "东吴名将",
+    "first_appear": "195",
+    "last_appear": "203",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "谯周",
+    "alias": [],
+    "power": "蜀汉",
+    "llm_introduction": "学者，劝刘禅降魏",
+    "first_appear": "246",
+    "last_appear": "309",
+    "first_chapter": "资治通鉴第七十五卷(魏纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "拓跋珪",
+    "alias": [
+      "魏道武帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏开国皇帝",
+    "first_appear": "426",
+    "last_appear": "620",
+    "first_chapter": "资治通鉴第一百二十卷(宋纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "佛图澄",
+    "alias": [],
+    "power": "后赵",
+    "llm_introduction": "西域高僧，石勒石虎尊为国师",
+    "first_appear": "335",
+    "last_appear": "714",
+    "first_chapter": "资治通鉴第九十五卷(晋纪)",
+    "mention_count": 4,
+    "year_override": null
+  },
+  {
+    "name": "张须陀",
+    "alias": [],
+    "power": "隋朝",
+    "llm_introduction": "隋末名将，镇压起义战死",
+    "first_appear": "604",
+    "last_appear": "616",
+    "first_chapter": "资治通鉴第一百八十二卷(隋纪)",
+    "mention_count": 4,
+    "year_override": 604
+  },
+  {
+    "name": "李勣",
+    "alias": [
+      "徐世勣",
+      "徐茂公",
+      "李世勣",
+      "英国公"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "唐初名将，灭高句丽",
+    "first_appear": "617",
+    "last_appear": "801",
+    "first_chapter": "资治通鉴第二百卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 617
+  },
+  {
+    "name": "契苾何力",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "铁勒族唐将",
+    "first_appear": "632",
+    "last_appear": "655",
+    "first_chapter": "资治通鉴第二百卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 632
+  },
+  {
+    "name": "阎立本",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "画家，步辇图",
+    "first_appear": "640",
+    "last_appear": "673",
+    "first_chapter": "资治通鉴第一百八十九卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 640
+  },
+  {
+    "name": "高适",
+    "alias": [
+      "高达夫"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "边塞诗人",
+    "first_appear": "740",
+    "last_appear": "763",
+    "first_chapter": "资治通鉴第二百一十七卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 740
+  },
+  {
+    "name": "李淳风",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "天文学家，《麟德历》",
+    "first_appear": "640",
+    "last_appear": "665",
+    "first_chapter": "资治通鉴第一百九十四卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 640
+  },
+  {
+    "name": "刘知几",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "史学家，《史通》",
+    "first_appear": "700",
+    "last_appear": "721",
+    "first_chapter": "资治通鉴第二百零五卷(唐纪)",
+    "mention_count": 4,
+    "year_override": 700
+  },
+  {
+    "name": "周威烈王",
+    "alias": [
+      "姬午"
+    ],
+    "power": "周朝",
+    "llm_introduction": "周朝君主，分封晋国大夫为诸侯",
+    "first_appear": "-403",
+    "last_appear": "-402",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "周安王",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "周朝君主",
+    "first_appear": "-402",
+    "last_appear": "-376",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "周显王",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "周朝君主",
+    "first_appear": "-369",
+    "last_appear": "-321",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "蔡伦",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "改进造纸术",
+    "first_appear": "82",
+    "last_appear": "121",
+    "first_chapter": "资治通鉴第四十六卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "郑当时",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "大农令",
+    "first_appear": "-132",
+    "last_appear": "-129",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "陈万年",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "御史大夫",
+    "first_appear": "-51",
+    "last_appear": "-44",
+    "first_chapter": "资治通鉴第二十七卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "邹忌",
+    "alias": [],
+    "power": "齐国",
+    "llm_introduction": "齐国丞相",
+    "first_appear": "-341",
+    "last_appear": "-333",
+    "first_chapter": "资治通鉴第二卷(周纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "盖宽饶",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "司隶校尉",
+    "first_appear": "-60",
+    "last_appear": "-54",
+    "first_chapter": "资治通鉴第二十六卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "汉质帝",
+    "alias": [
+      "刘缵"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝，被梁冀毒杀",
+    "first_appear": "145",
+    "last_appear": "494",
+    "first_chapter": "资冶通鉴第五十二卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "黄盖",
+    "alias": [],
+    "power": "东吴",
+    "llm_introduction": "东吴老将",
+    "first_appear": "195",
+    "last_appear": "208",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "庾信",
+    "alias": [],
+    "power": "南梁/北周",
+    "llm_introduction": "文学家",
+    "first_appear": "548",
+    "last_appear": "753",
+    "first_chapter": "资治通鉴第一百六十一卷(梁纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "鸠摩罗什",
+    "alias": [],
+    "power": "后秦",
+    "llm_introduction": "西域高僧，翻译大量佛经",
+    "first_appear": "385",
+    "last_appear": "714",
+    "first_chapter": "资治通鉴第一百零六卷(晋纪)",
+    "mention_count": 3,
+    "year_override": null
+  },
+  {
+    "name": "独孤伽罗",
+    "alias": [
+      "文献皇后"
+    ],
+    "power": "隋朝",
+    "llm_introduction": "隋文帝皇后，与文帝并称二圣",
+    "first_appear": "581",
+    "last_appear": "604",
+    "first_chapter": "资治通鉴第一百七十九卷(隋纪)",
+    "mention_count": 3,
+    "year_override": 581
+  },
+  {
+    "name": "刘克明",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "宦官，弑唐敬宗",
+    "first_appear": "825",
+    "last_appear": "903",
+    "first_chapter": "资治通鉴第二百四十三卷(唐纪)",
+    "mention_count": 3,
+    "year_override": 825
+  },
+  {
+    "name": "豫让",
+    "alias": [],
+    "power": "晋国智氏",
+    "llm_introduction": "义士，为智瑶报仇多次刺杀赵襄子",
+    "first_appear": "-403",
+    "last_appear": "-403",
+    "first_chapter": "资治通鉴第一卷(周纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "范雎",
+    "alias": [
+      "张禄"
+    ],
+    "power": "秦国",
+    "llm_introduction": "秦国丞相，远交近攻",
+    "first_appear": "-270",
+    "last_appear": "-52",
+    "first_chapter": "资治通鉴第五卷(周纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "杜诗",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "南阳太守，水排发明者",
+    "first_appear": "25",
+    "last_appear": "31",
+    "first_chapter": "资治通鉴第四十卷(汉纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "召信臣",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "南阳太守，循吏",
+    "first_appear": "-33",
+    "last_appear": "31",
+    "first_chapter": "资治通鉴第二十九卷(汉纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "典韦",
+    "alias": [],
+    "power": "曹魏",
+    "llm_introduction": "曹操护卫，宛城战死",
+    "first_appear": "194",
+    "last_appear": "197",
+    "first_chapter": "资治通鉴第六十一卷(汉纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "拓跋濬",
+    "alias": [
+      "魏文成帝"
+    ],
+    "power": "北魏",
+    "llm_introduction": "北魏皇帝",
+    "first_appear": "456",
+    "last_appear": "458",
+    "first_chapter": "资治通鉴第一百二十八卷(宋纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "祖冲之",
+    "alias": [],
+    "power": "南齐/南梁",
+    "llm_introduction": "数学家，圆周率",
+    "first_appear": "462",
+    "last_appear": "510",
+    "first_chapter": "资治通鉴第一百二十九卷(宋纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "法显",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "西行求法高僧，《佛国记》",
+    "first_appear": "29",
+    "last_appear": "51",
+    "first_chapter": "资治通鉴第四十一卷(汉纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "萧子显",
+    "alias": [],
+    "power": "南梁",
+    "llm_introduction": "史学家，《南齐书》作者",
+    "first_appear": "494",
+    "last_appear": "502",
+    "first_chapter": "资治通鉴第一百三十九卷(齐纪)",
+    "mention_count": 2,
+    "year_override": null
+  },
+  {
+    "name": "索元礼",
+    "alias": [],
+    "power": "周朝",
+    "llm_introduction": "武周酷吏",
+    "first_appear": "690",
+    "last_appear": "691",
+    "first_chapter": "资治通鉴第二百零三卷(唐纪)",
+    "mention_count": 2,
+    "year_override": 690
+  },
+  {
+    "name": "李白",
+    "alias": [
+      "李太白",
+      "青莲居士",
+      "谪仙人"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗仙",
+    "first_appear": "730",
+    "last_appear": "618",
+    "first_chapter": "资治通鉴第一百零五卷(晋纪)",
+    "mention_count": 2,
+    "year_override": 730
+  },
+  {
+    "name": "杜甫",
+    "alias": [
+      "杜子美",
+      "杜少陵",
+      "杜工部",
+      "诗圣"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗圣",
+    "first_appear": "746",
+    "last_appear": "805",
+    "first_chapter": "资治通鉴第二百卷(唐纪)",
+    "mention_count": 2,
+    "year_override": 746
+  },
+  {
+    "name": "贺知章",
+    "alias": [],
+    "power": "唐朝",
+    "llm_introduction": "诗人，饮中八仙",
+    "first_appear": "695",
+    "last_appear": "725",
+    "first_chapter": "资治通鉴第二百一十二卷(唐纪)",
+    "mention_count": 2,
+    "year_override": 695
+  },
+  {
+    "name": "法藏",
+    "alias": [
+      "贤首大师"
+    ],
+    "power": "唐朝/佛教",
+    "llm_introduction": "华严宗三祖",
+    "first_appear": "660",
+    "last_appear": "946",
+    "first_chapter": "资治通鉴第一百七十六卷(陈纪)",
+    "mention_count": 2,
+    "year_override": 660
+  },
+  {
+    "name": "赵普",
+    "alias": [
+      "赵则平"
+    ],
+    "power": "北宋",
+    "llm_introduction": "北宋开国宰相，半部论语治天下",
+    "first_appear": "960",
+    "last_appear": "956",
+    "first_chapter": "资治通鉴第二百九十二卷(后周纪)",
+    "mention_count": 2,
+    "year_override": 960
+  },
+  {
+    "name": "耿弇",
+    "alias": [],
+    "power": "东汉",
+    "llm_introduction": "建威大将军，云台二十八将",
+    "first_appear": "426",
+    "last_appear": "426",
+    "first_chapter": "资治通鉴第一百二十卷(宋纪)",
+    "mention_count": 1,
+    "year_override": null
+  },
+  {
+    "name": "灌夫",
+    "alias": [],
+    "power": "西汉",
+    "llm_introduction": "将军",
+    "first_appear": "-132",
+    "last_appear": "-132",
+    "first_chapter": "资治通鉴第十八卷(汉纪)",
+    "mention_count": 1,
+    "year_override": null
+  },
+  {
+    "name": "汉章帝",
+    "alias": [
+      "刘炟"
+    ],
+    "power": "东汉",
+    "llm_introduction": "汉朝皇帝",
+    "first_appear": "75",
+    "last_appear": "177",
+    "first_chapter": "资治通鉴第五十七卷(汉纪)",
+    "mention_count": 1,
+    "year_override": 75
+  },
+  {
+    "name": "王献之",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "书法家，王羲之之子",
+    "first_appear": "396",
+    "last_appear": "396",
+    "first_chapter": "资治通鉴第一百零八卷(晋纪)",
+    "mention_count": 1,
+    "year_override": null
+  },
+  {
+    "name": "钟嵘",
+    "alias": [],
+    "power": "南梁",
+    "llm_introduction": "文学批评家，《诗品》",
+    "first_appear": "496",
+    "last_appear": "496",
+    "first_chapter": "资治通鉴第一百四十卷(齐纪)",
+    "mention_count": 1,
+    "year_override": null
+  },
+  {
+    "name": "葛洪",
+    "alias": [],
+    "power": "东晋",
+    "llm_introduction": "道士，《抱朴子》作者",
+    "first_appear": "303",
+    "last_appear": "303",
+    "first_chapter": "资治通鉴第八十五卷(晋纪)",
+    "mention_count": 1,
+    "year_override": null
+  },
+  {
+    "name": "李贺",
+    "alias": [
+      "李长吉",
+      "诗鬼"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "诗人",
+    "first_appear": "808",
+    "last_appear": "868",
+    "first_chapter": "资治通鉴第二百五十一卷(唐纪)",
+    "mention_count": 1,
+    "year_override": 808
+  },
+  {
+    "name": "神秀",
+    "alias": [],
+    "power": "唐朝/佛教",
+    "llm_introduction": "北宗禅创始人",
+    "first_appear": "660",
+    "last_appear": "317",
+    "first_chapter": "资治通鉴第九十卷(晋纪)",
+    "mention_count": 1,
+    "year_override": 660
+  },
+  {
+    "name": "孙思邈",
+    "alias": [
+      "药王"
+    ],
+    "power": "唐朝",
+    "llm_introduction": "医学家，《千金要方》",
+    "first_appear": "630",
+    "last_appear": "824",
+    "first_chapter": "资治通鉴第二百四十三卷(唐纪)",
+    "mention_count": 1,
+    "year_override": 630
+  },
+  {
+    "name": "李璟",
+    "alias": [
+      "南唐元宗"
+    ],
+    "power": "南唐",
+    "llm_introduction": "南唐第二位皇帝",
+    "first_appear": "943",
+    "last_appear": "943",
+    "first_chapter": "资治通鉴第二百八十三卷(后晋纪)",
+    "mention_count": 1,
+    "year_override": 943
+  },
+  {
+    "name": "曹彬",
+    "alias": [],
+    "power": "北宋",
+    "llm_introduction": "北宋开国名将",
+    "first_appear": "960",
+    "last_appear": "958",
+    "first_chapter": "资治通鉴第二百九十四卷(后周纪)",
+    "mention_count": 1,
+    "year_override": 960
+  }
+]

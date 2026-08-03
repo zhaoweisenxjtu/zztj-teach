@@ -2,6 +2,5 @@
 __pycache__/
 *.pyc
 
-# 生成产物（可由 build_graph.py 重新生成）
-graph/
-index/
+# 生成产物（build_graph.py 的临时输出，不入库）
+graph/segment_tags.json

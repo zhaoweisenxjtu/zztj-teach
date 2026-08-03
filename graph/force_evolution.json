@@ -1,0 +1,893 @@
+[
+  {
+    "power": "周朝",
+    "entity_count": 10,
+    "earliest_mention": -403,
+    "latest_mention": 695,
+    "timespan": 1098,
+    "key_figures": [
+      "武则天",
+      "张易之",
+      "来俊臣",
+      "张昌宗",
+      "周兴"
+    ]
+  },
+  {
+    "power": "楚国",
+    "entity_count": 5,
+    "earliest_mention": -403,
+    "latest_mention": 930,
+    "timespan": 1333,
+    "key_figures": [
+      "马殷",
+      "吴起",
+      "春申君",
+      "马希声",
+      "楚悼王"
+    ]
+  },
+  {
+    "power": "赵国",
+    "entity_count": 10,
+    "earliest_mention": -403,
+    "latest_mention": -213,
+    "timespan": 190,
+    "key_figures": [
+      "陈馀",
+      "平原君",
+      "廉颇",
+      "蔺相如",
+      "李牧"
+    ]
+  },
+  {
+    "power": "晋国智氏",
+    "entity_count": 2,
+    "earliest_mention": -403,
+    "latest_mention": -403,
+    "timespan": 0,
+    "key_figures": [
+      "智瑶",
+      "豫让"
+    ]
+  },
+  {
+    "power": "魏国",
+    "entity_count": 5,
+    "earliest_mention": -403,
+    "latest_mention": -276,
+    "timespan": 127,
+    "key_figures": [
+      "吴起",
+      "魏斯",
+      "信陵君",
+      "魏惠王",
+      "庞涓"
+    ]
+  },
+  {
+    "power": "韩国",
+    "entity_count": 1,
+    "earliest_mention": -403,
+    "latest_mention": -403,
+    "timespan": 0,
+    "key_figures": [
+      "韩虔"
+    ]
+  },
+  {
+    "power": "道家",
+    "entity_count": 1,
+    "earliest_mention": -391,
+    "latest_mention": -391,
+    "timespan": 0,
+    "key_figures": [
+      "庄子"
+    ]
+  },
+  {
+    "power": "齐国",
+    "entity_count": 7,
+    "earliest_mention": -387,
+    "latest_mention": -279,
+    "timespan": 108,
+    "key_figures": [
+      "孟尝君",
+      "齐威王",
+      "田单",
+      "田忌",
+      "齐宣王"
+    ]
+  },
+  {
+    "power": "秦国",
+    "entity_count": 9,
+    "earliest_mention": -362,
+    "latest_mention": -236,
+    "timespan": 126,
+    "key_figures": [
+      "白起",
+      "商鞅",
+      "张仪",
+      "李斯",
+      "王翦"
+    ]
+  },
+  {
+    "power": "前秦",
+    "entity_count": 3,
+    "earliest_mention": -359,
+    "latest_mention": 354,
+    "timespan": 713,
+    "key_figures": [
+      "苻坚",
+      "王猛",
+      "道安"
+    ]
+  },
+  {
+    "power": "法家",
+    "entity_count": 2,
+    "earliest_mention": -351,
+    "latest_mention": -233,
+    "timespan": 118,
+    "key_figures": [
+      "韩非",
+      "申不害"
+    ]
+  },
+  {
+    "power": "儒家",
+    "entity_count": 2,
+    "earliest_mention": -336,
+    "latest_mention": -292,
+    "timespan": 44,
+    "key_figures": [
+      "孟子",
+      "荀子"
+    ]
+  },
+  {
+    "power": "纵横家",
+    "entity_count": 1,
+    "earliest_mention": -333,
+    "latest_mention": -333,
+    "timespan": 0,
+    "key_figures": [
+      "苏秦"
+    ]
+  },
+  {
+    "power": "燕国",
+    "entity_count": 8,
+    "earliest_mention": -312,
+    "latest_mention": 758,
+    "timespan": 1070,
+    "key_figures": [
+      "安禄山",
+      "史思明",
+      "安庆绪",
+      "史朝义",
+      "乐毅"
+    ]
+  },
+  {
+    "power": "西汉",
+    "entity_count": 103,
+    "earliest_mention": -310,
+    "latest_mention": -6,
+    "timespan": 304,
+    "key_figures": [
+      "刘邦",
+      "汉武帝",
+      "汉宣帝",
+      "韩信",
+      "霍光"
+    ]
+  },
+  {
+    "power": "新朝",
+    "entity_count": 3,
+    "earliest_mention": -310,
+    "latest_mention": -24,
+    "timespan": 286,
+    "key_figures": [
+      "王莽",
+      "扬雄",
+      "刘歆"
+    ]
+  },
+  {
+    "power": "起义军",
+    "entity_count": 4,
+    "earliest_mention": -310,
+    "latest_mention": 875,
+    "timespan": 1185,
+    "key_figures": [
+      "陈胜",
+      "王仙芝",
+      "张角",
+      "吴广"
+    ]
+  },
+  {
+    "power": "东晋",
+    "entity_count": 23,
+    "earliest_mention": -279,
+    "latest_mention": 396,
+    "timespan": 675,
+    "key_figures": [
+      "桓温",
+      "王敦",
+      "王导",
+      "陶侃",
+      "谢安"
+    ]
+  },
+  {
+    "power": "秦朝",
+    "entity_count": 5,
+    "earliest_mention": -257,
+    "latest_mention": -209,
+    "timespan": 48,
+    "key_figures": [
+      "秦始皇",
+      "赵高",
+      "章邯",
+      "蒙恬",
+      "扶苏"
+    ]
+  },
+  {
+    "power": "西楚",
+    "entity_count": 3,
+    "earliest_mention": -209,
+    "latest_mention": -208,
+    "timespan": 1,
+    "key_figures": [
+      "项羽",
+      "项梁",
+      "范增"
+    ]
+  },
+  {
+    "power": "匈奴",
+    "entity_count": 3,
+    "earliest_mention": -201,
+    "latest_mention": -56,
+    "timespan": 145,
+    "key_figures": [
+      "呼韩邪",
+      "郅支",
+      "冒顿"
+    ]
+  },
+  {
+    "power": "东汉",
+    "entity_count": 60,
+    "earliest_mention": -164,
+    "latest_mention": 426,
+    "timespan": 590,
+    "key_figures": [
+      "曹操",
+      "刘秀",
+      "袁绍",
+      "董卓",
+      "刘表"
+    ]
+  },
+  {
+    "power": "北齐",
+    "entity_count": 8,
+    "earliest_mention": -140,
+    "latest_mention": 562,
+    "timespan": 702,
+    "key_figures": [
+      "高欢",
+      "高洋",
+      "高纬",
+      "高澄",
+      "斛律光"
+    ]
+  },
+  {
+    "power": "西晋",
+    "entity_count": 17,
+    "earliest_mention": -7,
+    "latest_mention": 291,
+    "timespan": 298,
+    "key_figures": [
+      "司马炎",
+      "司马越",
+      "司马颖",
+      "刘琨",
+      "司马伦"
+    ]
+  },
+  {
+    "power": "北魏",
+    "entity_count": 15,
+    "earliest_mention": -6,
+    "latest_mention": 532,
+    "timespan": 538,
+    "key_figures": [
+      "拓跋焘",
+      "拓跋宏",
+      "拓跋嗣",
+      "尔朱荣",
+      "崔浩"
+    ]
+  },
+  {
+    "power": "成汉",
+    "entity_count": 1,
+    "earliest_mention": 36,
+    "latest_mention": 36,
+    "timespan": 0,
+    "key_figures": [
+      "李雄"
+    ]
+  },
+  {
+    "power": "刘宋",
+    "entity_count": 8,
+    "earliest_mention": 56,
+    "latest_mention": 454,
+    "timespan": 398,
+    "key_figures": [
+      "刘裕",
+      "刘义隆",
+      "刘骏",
+      "檀道济",
+      "刘穆之"
+    ]
+  },
+  {
+    "power": "曹魏",
+    "entity_count": 26,
+    "earliest_mention": 184,
+    "latest_mention": 255,
+    "timespan": 71,
+    "key_figures": [
+      "曹操",
+      "曹丕",
+      "司马懿",
+      "司马昭",
+      "曹爽"
+    ]
+  },
+  {
+    "power": "东吴",
+    "entity_count": 16,
+    "earliest_mention": 184,
+    "latest_mention": 269,
+    "timespan": 85,
+    "key_figures": [
+      "孙权",
+      "陆逊",
+      "周瑜",
+      "诸葛恪",
+      "吕蒙"
+    ]
+  },
+  {
+    "power": "蜀汉",
+    "entity_count": 14,
+    "earliest_mention": 191,
+    "latest_mention": 246,
+    "timespan": 55,
+    "key_figures": [
+      "刘备",
+      "诸葛亮",
+      "关羽",
+      "姜维",
+      "马超"
+    ]
+  },
+  {
+    "power": "前赵",
+    "entity_count": 1,
+    "earliest_mention": 226,
+    "latest_mention": 226,
+    "timespan": 0,
+    "key_figures": [
+      "刘曜"
+    ]
+  },
+  {
+    "power": "前凉",
+    "entity_count": 1,
+    "earliest_mention": 301,
+    "latest_mention": 301,
+    "timespan": 0,
+    "key_figures": [
+      "张轨"
+    ]
+  },
+  {
+    "power": "后赵",
+    "entity_count": 3,
+    "earliest_mention": 304,
+    "latest_mention": 335,
+    "timespan": 31,
+    "key_figures": [
+      "石勒",
+      "石虎",
+      "佛图澄"
+    ]
+  },
+  {
+    "power": "汉赵",
+    "entity_count": 2,
+    "earliest_mention": 304,
+    "latest_mention": 304,
+    "timespan": 0,
+    "key_figures": [
+      "刘聪",
+      "刘渊"
+    ]
+  },
+  {
+    "power": "冉魏",
+    "entity_count": 1,
+    "earliest_mention": 350,
+    "latest_mention": 350,
+    "timespan": 0,
+    "key_figures": [
+      "冉闵"
+    ]
+  },
+  {
+    "power": "后秦",
+    "entity_count": 2,
+    "earliest_mention": 352,
+    "latest_mention": 385,
+    "timespan": 33,
+    "key_figures": [
+      "姚苌",
+      "鸠摩罗什"
+    ]
+  },
+  {
+    "power": "后燕",
+    "entity_count": 1,
+    "earliest_mention": 354,
+    "latest_mention": 354,
+    "timespan": 0,
+    "key_figures": [
+      "慕容垂"
+    ]
+  },
+  {
+    "power": "南燕",
+    "entity_count": 1,
+    "earliest_mention": 354,
+    "latest_mention": 354,
+    "timespan": 0,
+    "key_figures": [
+      "慕容德"
+    ]
+  },
+  {
+    "power": "后凉",
+    "entity_count": 1,
+    "earliest_mention": 358,
+    "latest_mention": 358,
+    "timespan": 0,
+    "key_figures": [
+      "吕光"
+    ]
+  },
+  {
+    "power": "胡夏",
+    "entity_count": 1,
+    "earliest_mention": 414,
+    "latest_mention": 414,
+    "timespan": 0,
+    "key_figures": [
+      "赫连勃勃"
+    ]
+  },
+  {
+    "power": "南梁",
+    "entity_count": 10,
+    "earliest_mention": 423,
+    "latest_mention": 548,
+    "timespan": 125,
+    "key_figures": [
+      "萧衍",
+      "萧绎",
+      "沈约",
+      "陈庆之",
+      "萧统"
+    ]
+  },
+  {
+    "power": "南齐",
+    "entity_count": 5,
+    "earliest_mention": 452,
+    "latest_mention": 494,
+    "timespan": 42,
+    "key_figures": [
+      "萧道成",
+      "萧宝卷",
+      "萧鸾",
+      "萧赜",
+      "祖冲之"
+    ]
+  },
+  {
+    "power": "东魏",
+    "entity_count": 1,
+    "earliest_mention": 519,
+    "latest_mention": 519,
+    "timespan": 0,
+    "key_figures": [
+      "高欢"
+    ]
+  },
+  {
+    "power": "西魏",
+    "entity_count": 3,
+    "earliest_mention": 528,
+    "latest_mention": 535,
+    "timespan": 7,
+    "key_figures": [
+      "宇文泰",
+      "独孤信",
+      "苏绰"
+    ]
+  },
+  {
+    "power": "北周",
+    "entity_count": 7,
+    "earliest_mention": 528,
+    "latest_mention": 578,
+    "timespan": 50,
+    "key_figures": [
+      "宇文泰",
+      "宇文护",
+      "宇文邕",
+      "独孤信",
+      "宇文赟"
+    ]
+  },
+  {
+    "power": "侯汉",
+    "entity_count": 1,
+    "earliest_mention": 531,
+    "latest_mention": 531,
+    "timespan": 0,
+    "key_figures": [
+      "侯景"
+    ]
+  },
+  {
+    "power": "隋朝",
+    "entity_count": 21,
+    "earliest_mention": 541,
+    "latest_mention": 604,
+    "timespan": 63,
+    "key_figures": [
+      "杨坚",
+      "杨广",
+      "杨素",
+      "杨勇",
+      "苏威"
+    ]
+  },
+  {
+    "power": "南陈",
+    "entity_count": 3,
+    "earliest_mention": 549,
+    "latest_mention": 562,
+    "timespan": 13,
+    "key_figures": [
+      "陈霸先",
+      "陈叔宝",
+      "陈蒨"
+    ]
+  },
+  {
+    "power": "唐朝",
+    "entity_count": 111,
+    "earliest_mention": 581,
+    "latest_mention": 880,
+    "timespan": 299,
+    "key_figures": [
+      "李世民",
+      "李隆基",
+      "李元吉",
+      "李泰",
+      "李旦"
+    ]
+  },
+  {
+    "power": "吴国",
+    "entity_count": 4,
+    "earliest_mention": 613,
+    "latest_mention": 905,
+    "timespan": 292,
+    "key_figures": [
+      "杨行密",
+      "徐温",
+      "李神福",
+      "杜伏威"
+    ]
+  },
+  {
+    "power": "郑国",
+    "entity_count": 1,
+    "earliest_mention": 613,
+    "latest_mention": 613,
+    "timespan": 0,
+    "key_figures": [
+      "王世充"
+    ]
+  },
+  {
+    "power": "瓦岗军",
+    "entity_count": 2,
+    "earliest_mention": 616,
+    "latest_mention": 616,
+    "timespan": 0,
+    "key_figures": [
+      "李密",
+      "翟让"
+    ]
+  },
+  {
+    "power": "夏国",
+    "entity_count": 2,
+    "earliest_mention": 617,
+    "latest_mention": 621,
+    "timespan": 4,
+    "key_figures": [
+      "窦建德",
+      "刘黑闼"
+    ]
+  },
+  {
+    "power": "定杨",
+    "entity_count": 1,
+    "earliest_mention": 617,
+    "latest_mention": 617,
+    "timespan": 0,
+    "key_figures": [
+      "刘武周"
+    ]
+  },
+  {
+    "power": "梁国",
+    "entity_count": 1,
+    "earliest_mention": 617,
+    "latest_mention": 617,
+    "timespan": 0,
+    "key_figures": [
+      "萧铣"
+    ]
+  },
+  {
+    "power": "西秦",
+    "entity_count": 1,
+    "earliest_mention": 617,
+    "latest_mention": 617,
+    "timespan": 0,
+    "key_figures": [
+      "薛举"
+    ]
+  },
+  {
+    "power": "隋末",
+    "entity_count": 1,
+    "earliest_mention": 617,
+    "latest_mention": 617,
+    "timespan": 0,
+    "key_figures": [
+      "罗艺"
+    ]
+  },
+  {
+    "power": "佛教",
+    "entity_count": 4,
+    "earliest_mention": 660,
+    "latest_mention": 720,
+    "timespan": 60,
+    "key_figures": [
+      "一行",
+      "不空",
+      "法藏",
+      "神秀"
+    ]
+  },
+  {
+    "power": "大齐",
+    "entity_count": 1,
+    "earliest_mention": 875,
+    "latest_mention": 875,
+    "timespan": 0,
+    "key_figures": [
+      "黄巢"
+    ]
+  },
+  {
+    "power": "后梁",
+    "entity_count": 2,
+    "earliest_mention": 877,
+    "latest_mention": 897,
+    "timespan": 20,
+    "key_figures": [
+      "朱温",
+      "敬翔"
+    ]
+  },
+  {
+    "power": "后唐",
+    "entity_count": 4,
+    "earliest_mention": 878,
+    "latest_mention": 923,
+    "timespan": 45,
+    "key_figures": [
+      "李克用",
+      "李存勖",
+      "郭崇韬",
+      "符彦卿"
+    ]
+  },
+  {
+    "power": "前蜀",
+    "entity_count": 2,
+    "earliest_mention": 880,
+    "latest_mention": 891,
+    "timespan": 11,
+    "key_figures": [
+      "王建",
+      "韦庄"
+    ]
+  },
+  {
+    "power": "军阀",
+    "entity_count": 3,
+    "earliest_mention": 880,
+    "latest_mention": 880,
+    "timespan": 0,
+    "key_figures": [
+      "秦宗权",
+      "朱瑾",
+      "时溥"
+    ]
+  },
+  {
+    "power": "岐国",
+    "entity_count": 1,
+    "earliest_mention": 886,
+    "latest_mention": 886,
+    "timespan": 0,
+    "key_figures": [
+      "李茂贞"
+    ]
+  },
+  {
+    "power": "吴越",
+    "entity_count": 1,
+    "earliest_mention": 886,
+    "latest_mention": 886,
+    "timespan": 0,
+    "key_figures": [
+      "钱镠"
+    ]
+  },
+  {
+    "power": "闽国",
+    "entity_count": 1,
+    "earliest_mention": 893,
+    "latest_mention": 893,
+    "timespan": 0,
+    "key_figures": [
+      "王审知"
+    ]
+  },
+  {
+    "power": "南汉",
+    "entity_count": 2,
+    "earliest_mention": 894,
+    "latest_mention": 917,
+    "timespan": 23,
+    "key_figures": [
+      "刘龑",
+      "刘隐"
+    ]
+  },
+  {
+    "power": "荆南",
+    "entity_count": 2,
+    "earliest_mention": 905,
+    "latest_mention": 928,
+    "timespan": 23,
+    "key_figures": [
+      "高季兴",
+      "高从诲"
+    ]
+  },
+  {
+    "power": "五代",
+    "entity_count": 1,
+    "earliest_mention": 908,
+    "latest_mention": 908,
+    "timespan": 0,
+    "key_figures": [
+      "冯道"
+    ]
+  },
+  {
+    "power": "后晋",
+    "entity_count": 3,
+    "earliest_mention": 923,
+    "latest_mention": 936,
+    "timespan": 13,
+    "key_figures": [
+      "石敬瑭",
+      "桑维翰",
+      "符彦卿"
+    ]
+  },
+  {
+    "power": "后周",
+    "entity_count": 3,
+    "earliest_mention": 923,
+    "latest_mention": 954,
+    "timespan": 31,
+    "key_figures": [
+      "郭威",
+      "柴荣",
+      "符彦卿"
+    ]
+  },
+  {
+    "power": "后汉",
+    "entity_count": 2,
+    "earliest_mention": 923,
+    "latest_mention": 936,
+    "timespan": 13,
+    "key_figures": [
+      "刘知远",
+      "符彦卿"
+    ]
+  },
+  {
+    "power": "北宋",
+    "entity_count": 4,
+    "earliest_mention": 923,
+    "latest_mention": 960,
+    "timespan": 37,
+    "key_figures": [
+      "赵匡胤",
+      "符彦卿",
+      "赵普",
+      "曹彬"
+    ]
+  },
+  {
+    "power": "后蜀",
+    "entity_count": 2,
+    "earliest_mention": 925,
+    "latest_mention": 934,
+    "timespan": 9,
+    "key_figures": [
+      "孟知祥",
+      "孟昶"
+    ]
+  },
+  {
+    "power": "南唐",
+    "entity_count": 2,
+    "earliest_mention": 937,
+    "latest_mention": 943,
+    "timespan": 6,
+    "key_figures": [
+      "李昪",
+      "李璟"
+    ]
+  }
+]
