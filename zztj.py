@@ -256,6 +256,91 @@ def cmd_chapter(ch_id):
     conn.close()
 
 
+def cmd_chapter_events(ch_id):
+    """输出一卷的事件条目清单（按 [N] 标记分组），供逐事件解读选条使用"""
+    conn = get_db()
+    c = conn.cursor()
+    c.execute("SELECT title FROM chapters WHERE id = ?", (ch_id,))
+    row = c.fetchone()
+    if not row:
+        print(f"卷{ch_id}不存在")
+        conn.close()
+        return
+
+    # 年份数字：从 segment_year_index.json 读取
+    year_file = Path(__file__).parent / "data" / "segment_year_index.json"
+    seg_years = {}
+    if year_file.exists():
+        yi = json.loads(year_file.read_text(encoding="utf-8"))
+        for seg in yi["segments"].values():
+            if seg.get("juan_index") == ch_id and seg.get("segment_index") is not None:
+                seg_years[seg["segment_index"]] = seg.get("year")
+
+    c.execute("""SELECT s.seq, s.time_original, sen.original
+                 FROM segments s
+                 JOIN sentences sen ON s.id = sen.segment_id
+                 WHERE s.chapter_id = ?
+                 ORDER BY s.seq, sen.seq""", (ch_id,))
+    rows = c.fetchall()
+
+    import re
+    total_entries = 0
+    # 遍历行，按 segment 分组、按 [N] 分组
+    seg_entries = []  # [(seg_seq, year, time_original, [(n, count, first)])]
+    cur_seg = None
+    cur_year = None
+    cur_time = None
+    cur_n = None
+    cur_count = 0
+    cur_first = None
+    seg_items = []
+
+    for r in rows:
+        s_seq, s_time, orig = r["seq"], r["time_original"], r["original"]
+        if s_seq != cur_seg:
+            # 切 segment
+            if cur_seg is not None and seg_items:
+                seg_entries.append((cur_seg, cur_year, cur_time, seg_items))
+            cur_seg = s_seq
+            cur_year = seg_years.get(s_seq)
+            cur_time = s_time
+            cur_n = None
+            cur_count = 0
+            cur_first = None
+            seg_items = []
+        m = re.match(r"\[(\d+)\]", orig or "")
+        if m:
+            # 新条目
+            if cur_n is not None:
+                seg_items.append((cur_n, cur_count, cur_first))
+            cur_n = int(m.group(1))
+            cur_count = 1
+            rest = orig[m.end():].strip()
+            cur_first = rest
+        else:
+            if cur_n is not None:
+                cur_count += 1
+                if cur_first is None:
+                    cur_first = (orig or "").strip()
+    if cur_seg is not None and seg_items:
+        seg_entries.append((cur_seg, cur_year, cur_time, seg_items))
+
+    total_entries = sum(len(items) for _, _, _, items in seg_entries)
+    print(f"# {row['title']}\n")
+    print(f"## 卷内事件条目清单 · 共{len(seg_entries)}年 · {total_entries}条\n")
+
+    for seg_seq, year, s_time, items in seg_entries:
+        # time_original 已含年份（如"六年（庚子、前201）"），不再重复追加
+        print(f"### {s_time}")
+        for n, count, first in items:
+            first_text = (first or "")[:50]
+            print(f"[条{n}] {count}句 | {first_text}")
+        print()
+
+    print(f"(共{total_entries}条事件条目，可用 'python zztj.py chapter {ch_id}' 查看任一条原文+译文)")
+    conn.close()
+
+
 def cmd_dynasty(name):
     if name not in DYNASTY_MAP:
         print(f"未知朝代: {name}")
@@ -590,6 +675,7 @@ COMMAND_USAGE = {
     "year": "python zztj.py year <年份>（公元前用负数，如 -403）",
     "range": "python zztj.py range <起始年> <结束年>",
     "chapter": "python zztj.py chapter <卷号1-294>",
+    "chapter-events": "python zztj.py chapter-events <卷号1-294>（卷内事件条目清单，逐事件解读选条用）",
     "dynasty": "python zztj.py dynasty <朝代名>",
     "event": "python zztj.py event [事件名]",
     "graph": "python zztj.py graph [实体名]",
@@ -608,6 +694,7 @@ HELP = """资治通鉴 CLI 查询工具
   year <year>             某年事件（公元前用负数，如 -403）
   range <start> <end>     时间段事件
   chapter <n>             阅读某卷全文
+  chapter-events <n>      卷内事件条目清单（逐事件解读选条用）
   dynasty <name>          朝代概览（周/秦/汉/魏/晋/宋/齐/梁/陈/隋/唐/五代）
   event [name]            关键事件查询（无参数=列表，带参数=详情）
   graph [name]            查看知识图谱（无参数=概览，带参数=查某实体）
@@ -618,6 +705,7 @@ HELP = """资治通鉴 CLI 查询工具
   python zztj.py contemporaries "曹操"
   python zztj.py event "玄武门之变"
   python zztj.py year -403
+  python zztj.py chapter-events 11
   python zztj.py dynasty 唐
   python zztj.py graph "刘邦"
 """
@@ -682,6 +770,12 @@ if __name__ == "__main__":
                 print(f"卷号需在1-294之间")
             else:
                 cmd_chapter(ch)
+        elif cmd == "chapter-events":
+            ch = int(sys.argv[2]) if len(sys.argv) > 2 else 0
+            if ch < 1 or ch > 294:
+                print(f"卷号需在1-294之间")
+            else:
+                cmd_chapter_events(ch)
         elif cmd == "dynasty":
             name = sys.argv[2] if len(sys.argv) > 2 else ""
             if not name:
