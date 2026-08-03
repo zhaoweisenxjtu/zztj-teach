@@ -298,7 +298,9 @@ def cmd_chapter_events(ch_id):
     for r in rows:
         s_seq, s_time, orig = r["seq"], r["time_original"], r["original"]
         if s_seq != cur_seg:
-            # 切 segment
+            # 切 segment：先把本段最后一个 [N] 条目补入，再整体归档
+            if cur_n is not None:
+                seg_items.append((cur_n, cur_count, cur_first))
             if cur_seg is not None and seg_items:
                 seg_entries.append((cur_seg, cur_year, cur_time, seg_items))
             cur_seg = s_seq
@@ -322,6 +324,9 @@ def cmd_chapter_events(ch_id):
                 cur_count += 1
                 if cur_first is None:
                     cur_first = (orig or "").strip()
+    # 循环结束：补最后一组的最后一个 [N] 条目（否则每段末尾条目丢失）
+    if cur_n is not None:
+        seg_items.append((cur_n, cur_count, cur_first))
     if cur_seg is not None and seg_items:
         seg_entries.append((cur_seg, cur_year, cur_time, seg_items))
 
