@@ -4,3 +4,6 @@ __pycache__/
 
 # 生成产物（build_graph.py 的临时输出，不入库）
 graph/segment_tags.json
+
+# 逐章解读轨迹（不入库，每次 Read → 更新 status → Write）
+teaching/reading/
